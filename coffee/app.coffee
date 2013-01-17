@@ -9,17 +9,6 @@ $ ->
 
   map = new google.maps.Map($("#map_canvas")[0], mapOptions)
 
-  bendyworks = $('<a></a>')
-  bendyworks.attr('href', 'http://bendyworks.com')
-  bendyworks.attr('target', '_blank')
-  bendyworks.css('zIndex', 1)
-
-  bendyworksImage = $('<img/>')
-  bendyworksImage.attr('src', '/assets/bendyworks.png')
-  bendyworks.append(bendyworksImage)
-
-  map.controls[google.maps.ControlPosition.BOTTOM_LEFT].push(bendyworks[0])
-
   infoWindow = new google.maps.InfoWindow()
 
   for rest in restaurants

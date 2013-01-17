@@ -10,12 +10,22 @@ GEM
       multi_json (~> 1.0)
     fssm (0.2.9)
     haml (3.1.7)
-    listen (0.7.2)
     multi_json (1.5.0)
+    rack (1.4.4)
+    rack-protection (1.3.2)
+      rack
+    rake (10.0.3)
+    ruby-fsevent (0.2.1)
     sass (3.2.5)
+    sinatra (1.3.3)
+      rack (~> 1.3, >= 1.3.6)
+      rack-protection (~> 1.2)
+      tilt (~> 1.3, >= 1.3.3)
+    tilt (1.3.3)
     uglifier (1.3.0)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
+    watchr (0.7)
 
 PLATFORMS
   ruby
@@ -23,5 +33,8 @@ PLATFORMS
 DEPENDENCIES
   compass
   haml
-  listen
+  rake
+  ruby-fsevent
+  sinatra
   uglifier
+  watchr

@@ -1,0 +1,101 @@
+!!!
+%html
+  %head
+    %title Restaurant Week
+    %meta{name: "viewport", content: "initial-scale=1.0, user-scalable=no"}
+    %link{rel: 'stylesheet', href: '/site.css'}
+
+    %script{type: 'text/javascript', src: 'http://maps.googleapis.com/maps/api/js?sensor=false'}
+    %script{type: 'text/javascript', src: '/site.js'}
+
+    :css
+      #container {
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        padding-bottom: 60px;
+      }
+
+      #map_canvas {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+      }
+
+      footer {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 60px;
+      }
+
+
+  %body
+    %script#iconTemplate{type: 'text/doT'}
+      .info
+        %header
+          .phone {{=it.data.phone}}
+          %h1
+            %a{href: 'http://www.madisonmagazine.com/Madison-Magazine/Events/Restaurant-Week/Participants/{{=it.basename}}'}
+              {{=it.data.name}}
+          .meta
+            %address {{=it.data.address}}
+            %p {{=it.data.hours}}
+
+        .tabs
+          %ul
+            {{~ it.data.meals :m:i }}
+            %li
+              %a.tab{href: '#meal{{=it.basename}}{{=i}}'}
+                {{=m.type}}: ${{=m.price}}</a></li>
+            {{~}}
+
+          {{~ it.data.meals :m:i }}
+          .tab-content{id: 'meal{{=it.basename}}{{=i}}'}
+            {{? m.other}}
+            %aside {{=m.other}}
+            {{?}}
+
+            {{~ m.courses :c }}
+            .course
+              %h3 {{=c.name}}
+              %ul
+                {{~ c.choices :p }}
+                .choice
+                  %li
+                    %h4 {{=p.name}}
+
+                    {{?p.desc}}
+                    %p {{=p.desc}}
+                    {{?}}
+
+                    {{?p.other}}
+                    %aside {{=p.other}}
+                    {{?}}
+                {{~}}
+              .clearfix
+            {{~}}
+          {{~}}
+
+    #container
+      #map_canvas
+    %footer
+      footer!
+
+    :javascript
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '50f09f5a613f5d3187000019');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
