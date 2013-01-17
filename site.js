@@ -1547,12 +1547,15 @@ window.restaurants = [{"basename":"43-North","data":{"name":"43 North","address"
         return $el.removeClass('open');
       }
     });
-    return obj.notify('content_changed');
+    return typeof obj !== "undefined" && obj !== null ? obj.notify('content_changed') : void 0;
   };
   obj = null;
   return $.extend($.fn, {
     infoWindow: function(opts) {
       var $$;
+      if (opts == null) {
+        opts = {};
+      }
       $$ = $(this);
       obj = opts.obj;
       $$.find('a.tab').on('click', handleTabClick);
@@ -1602,8 +1605,9 @@ map = memoized(function() {
 clickHandler = function(marker, rest) {
   return function(event) {
     return (function(info) {
-      var content, listener;
-      content = $(tmpl()(rest)).infoWindow({
+      var content, listener, template;
+      template = tmpl()(rest);
+      content = $(template).infoWindow({
         obj: info
       })[0];
       info.setContent(content);
@@ -1620,7 +1624,18 @@ clickHandler = function(marker, rest) {
 
 tapHandler = function(marker, rest) {
   return function(event) {
-    return console.log('handle tap');
+    console.log('handle tap');
+    return (function(overlay) {
+      var $template;
+      $template = $(tmpl()(rest));
+      overlay.find('.content').html($template);
+      $template.infoWindow();
+      overlay.find('a.close').on('click', function(e) {
+        e.preventDefault();
+        return overlay.hide();
+      });
+      return overlay.show();
+    })($('#mobile_overlay'));
   };
 };
 
@@ -1637,7 +1652,7 @@ $(function() {
         map: map(),
         title: data.name
       });
-      handler = clickHandler;
+      handler = $(window).width() <= 568 ? tapHandler : clickHandler;
       return google.maps.event.addListener(marker, 'click', handler(marker, rest));
     })(rest));
   }

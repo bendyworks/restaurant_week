@@ -12,12 +12,12 @@
       else
         $el.removeClass('open')
 
-    obj.notify('content_changed')
+    obj?.notify('content_changed')
 
   obj = null
 
   $.extend $.fn,
-    infoWindow: (opts) ->
+    infoWindow: (opts = {}) ->
       $$ = $(@)
 
       obj = opts.obj

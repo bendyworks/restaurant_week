@@ -190,7 +190,24 @@ $footer-height: 85px;
   }
 }
 
-@media screen and (max-device-width: 480px) {
+#mobile_overlay {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10000;
+  background-color: #FFF;
+
+  a.close {
+    color: #3d3d5c;
+    text-align: center;
+    display: block;
+  }
+}
+
+@media screen and (max-device-width: 568px) {
   .tabs {
     font-size: 10px;
     ul {

@@ -25,7 +25,8 @@ map = memoized ->
 clickHandler = (marker, rest) ->
   (event) ->
     do (info = infoWindow()) ->
-      content = $(tmpl()(rest)).infoWindow({obj: info})[0]
+      template = tmpl()(rest)
+      content = $(template).infoWindow({obj: info})[0]
 
       info.setContent(content)
 
@@ -36,10 +37,20 @@ clickHandler = (marker, rest) ->
 
       info.open(map(), marker)
 
-
 tapHandler = (marker, rest) ->
   (event) ->
     console.log('handle tap')
+    do (overlay = $('#mobile_overlay')) ->
+
+      $template = $(tmpl()(rest))
+      overlay.find('.content').html($template)
+      $template.infoWindow()
+
+      overlay.find('a.close').on 'click', (e) ->
+        e.preventDefault()
+        overlay.hide()
+
+      overlay.show()
 
 $ ->
 
@@ -51,6 +62,5 @@ $ ->
         map: map()
         title: data.name
 
-      # handler = if $(window).width() <= 568 then tapHandler else clickHandler
-      handler = clickHandler
+      handler = if $(window).width() <= 568 then tapHandler else clickHandler
       google.maps.event.addListener marker, 'click', handler(marker, rest)
