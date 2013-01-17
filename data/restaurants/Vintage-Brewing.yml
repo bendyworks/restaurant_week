@@ -1,0 +1,38 @@
+name: Vintage Brewing
+address: 674 S. Whitney Way, Madison 53711
+phone: 608.204.2739
+hours: Sun-Sat 11a-Bartime
+lat: 43.05099209999999
+lng: -89.4739962
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Parsnip &amp; Almond Soup
+      desc: with bleu cheese &amp; parsley
+    - name: Beet Carpaccio
+      desc: with arugula, goat cheese &amp; walnut salad
+    - name: Duck Confit
+      desc: over semolina pudding with a pear &amp; currant reduction
+
+  - name: Entree
+    choices:
+    - name: Crab Stuffed Beef Tenderloin
+      desc: with polenta cakes, sauteed spinach &amp; a tarragan beurre blanc
+    - name: Truffle Roasted Mushroom Cream Sauce
+      desc: with fettuccine fresh peas &amp; parmesan
+    - name: Poached Swordfish
+      desc: over a carmelized apple &amp; butternut squash risotta with cranberry &amp; thyme sauce
+
+  - name: Dessert
+    choices:
+    - name: Chocolate Cheese Cake
+      desc: with raspberry
+    - name: Peach Cobbler
+      desc: with vanilla ice cream
+    - name: Fluffy White Cake
+      desc: with a dedication butter cream frosting

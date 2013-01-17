@@ -1,0 +1,37 @@
+name: Restaurant Muramoto
+address: 225 King Street, Madison 53703
+phone: 608.259.1040
+hours: 5p-9p
+lat: 43.0746146
+lng: -89.3795998
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Beet Salad
+      desc: with sunflower sprouts, mustard-tarragon dressing
+    - name: Celeriac Soup
+      desc: with fried shallots and mitsuba
+    - name: Salmon Spring Roll
+      desc: cucumber salad and peanut sauce
+
+  - name: Entree
+    choices:
+    - name: Beef Brisket
+      desc: with parsnip puree, yuza pickled brussel sprout leaves
+    - name: A Trio of Vegetable Rolls
+    - name: Fried Pork Belly
+      desc: with ginger-persimmon compote, micro greens
+
+  - name: Dessert
+    choices:
+    - name: Banana Spring Rolls
+      desc: with figs and mango sherbet
+    - name: Pineapple &amp; Grape Pate de Fruit
+      desc: with an almond oat cookie, shiso syrup
+    - name: Hot Chocolate
+      desc: with an assortment of cookies

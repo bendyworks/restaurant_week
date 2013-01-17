@@ -1,0 +1,38 @@
+name: Dayton Street Grille
+address: 1 West Dayton Street, Madison, 53703
+phone: 608.257.6000
+hours: Sun-Sat 5:30p-10p
+lat: 43.0756129
+lng: -89.3865836
+
+meals:
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Chick Pea and Kale Soup
+      desc: Wisconsin Aged Parmesan
+    - name: Chimichurri Marinated Roasted Quail Stuffed with Quinoa
+      desc: Chorizo Risotto, maple glazed brussel sprouts
+    - name: Saut&eacute;ed Jordanal Beef Liver
+      desc: Balsamic roasted onions, apple wood smoked bacon, port dem
+
+  - name: Entree
+    choices:
+    - name: Grilled Pork Loin
+      desc: Braised red cabbage, pancetta, roasted garlic potato puree
+    - name: Oven Roasted Salmon
+      desc: Lobster croquet, white bean, Israeli cous cous
+    - name: Grilled Cabernet Marinated Bistro Steak
+      desc: Creamy red skinned potatoes, roasted parsnips
+
+  - name: Dessert
+    choices:
+    - name: Harlequin Tartlets
+      desc: Vodka red currant sauce
+    - name: Yule Log
+      desc: Meringue Mushroom with Kumquat
+    - name: Spiced Cabernet Soup
+      desc: Dark chocolate with berries

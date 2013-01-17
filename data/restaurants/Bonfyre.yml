@@ -1,0 +1,88 @@
+name: Bonfyre
+address: 2601 W. Beltline Hwy Suite 110, Madison, 53713
+phone: 608.273.3973
+hours: Sun 10a-10p, Mon-Thurs 11a-10pm, Fri 11a-11pm
+lat: 43.034611
+lng: -89.42216599999999
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: First Course
+    choices:
+    - name: Butternut Squash Soup
+    - name: Minestrone
+    - name: Grilled Caesar Salad
+    - name: House Salad
+
+  - name: Second Course
+    choices:
+    - name: Smoked Port Tenderloin
+      desc: in a creamy gouda cheese sauce with cranberry and wild mushroom orzo and sauteed spinach
+    - name: Bonfyre Rotisserie Chicken
+      desc: with your choice of either herb or BBQ, served with Bonfyre mash and fresh vegetables
+    - name: Chicken and Sausage Orecchiette
+      desc: in a creamy sun-dried tomato sauce tossed with asparagus, shiitakes and fresh spinach and sprinkled with goat cheese
+
+  - name: Third Course
+    choices:
+    - name: Your choice of any of our Mini desserts
+
+- type: dinner
+  price: 25
+  name: Dinner 1
+
+  courses:
+  - name: First Course
+    choices:
+    - name: Spinach &amp; Artichoke Bruschetta
+
+  - name: Second Course
+    choices:
+    - name: Smoked Pork Tenderloin in a creamy gouda cheese saucse
+      desc: with cranberry and wild mushroom orzo and sauteed spinach
+      other: 'Suggested Wine Pairing: Bridlewood Pinot Noir, California $9 glass $33 bottle'
+
+  - name: Third Course
+    choices:
+    - name: Your choice of any of our Mini desserts
+
+- type: dinner
+  price: 30
+  name: Dinner 2
+
+  courses:
+  - name: First Course
+    choices:
+    - name: Spicy Garlic Shrimp
+
+  - name: Second Course
+    choices:
+    - name: Six ounce Certified Angus Beef Prime center Cut Top Sirloin
+      desc: served with gratin potatoes and asparagus
+      other: 'Suggested Wine Pairing: Louis M. Martini Cabernet Sauvignon, Sonoma California $8 glass $30 bottle'
+
+  - name: Third Course
+    choices:
+    - name: Your choice of any of our Mini desserts
+
+- type: dinner
+  price: 35
+  name: Dinner 3
+
+  courses:
+  - name: First Course
+    choices:
+    - name: Steak Tartare
+
+  - name: Second Course
+    choices:
+    - name: Bourbon Street Seabass
+      desc: with Creole rice and fresh vegetables
+      other: 'Suggested Wine Pairing: Apothic White Blend, California $8 glass $30 bottle'
+
+  - name: Third Course
+    choices:
+    - name: Your choice of any of our Mini desserts

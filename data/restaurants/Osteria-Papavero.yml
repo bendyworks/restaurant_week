@@ -1,0 +1,68 @@
+name: Osteria Papavero
+address: 128 E. Wilson Street, Madison 53703
+phone: 608.255.8376
+hours: (Lunch) 11a-2p , (Dinner) Mon-Thur 5-10p, Fri 5-11p
+lat: 43.0739076
+lng: -89.3794247
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Insalata di Pesce e Farro
+      desc: Farro &amp; shellfish salad, basil pesto vinaigrette
+    - name: Zuppa del Giorno
+      desc: Soup of the day
+    - name: Insalata Papavero
+      desc: Fresh Wisconsin mozzarella cheese, roasted red bell peppers, Ligurian black olives, local greens, balsamic vinaigrette
+
+  - name: Entree
+    choices:
+    - name: Panini
+    - name: Panzerotto
+    - name: Pizza
+    - name: Pasta of the day
+
+  - name: Dessert
+    choices:
+    - name: Budino di Caramello
+      desc: Butterscotch pudding
+    - name: Tortino al Limone
+      desc: Lemon cake, almond semifreddo, wild berry sauce
+    - name: Crostata al Cioccolato
+      desc: Bittersweet chocolate tarte, earl grey caramel, vanilla bean ice cream
+
+
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Parmigiana di Melanzane
+      desc: Eggplant &quot;parmigiana&quot;
+    - name: Antipasto di Pesce
+      desc: Seafood &amp; shellfish sampler
+    - name: Magatello con Rucola e Grana
+      desc: House-smoked roast-beef, baby arugula, shaved grana cheese, balsamic vinaigrette
+
+  - name: Entree
+    choices:
+    - name: Cotechino con Puree di Patate e Saba
+      desc: Cotechino sausage, potato puree, saba
+    - name: Aragosta con Ragu&#39; di Legume
+      desc: Poached Maine lobster tail, legume ragout
+    - name: Tortellacci ai Funghi e Carciofi
+      desc: Artichoke-stuffed tortellacci pasta, wild mushrooms
+
+  - name: Dessert
+    choices:
+    - name: Budino di Caramello
+      desc: Butterscotch pudding
+    - name: Tortino al Limone
+      desc: Lemon cake, almond semifreddo, wild berry sauce
+    - name: Crostata al Cioccolato
+      desc: Bittersweet chocolate tarte, earl grey caramel, vanilla bean ice cream

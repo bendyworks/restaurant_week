@@ -1,0 +1,38 @@
+name: Captain Bill's
+address: 2701 Century Harbor Road, Middleton, 53562
+phone: 608.831.7327
+hours: Sun-Thurs 5p-10p, Fri 5p-11p
+lat: 43.104117
+lng: -89.485043
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Captain Bill&#39;s World Famous Clam Chowder
+      desc: as seen on The Food Network
+    - name: Wedge Salad
+      desc: Iceberg Lettuce wedge topped with sliced red onion, grape tomatoes, crumbled Blue cheese and Blue cheese dressing
+    - name: Spinach Salad with Hot Bacon Dressing
+      desc: Baby Spinach topped with red onion, house-made croutons, a hard-boiled egg and hot bacon dressing
+
+  - name: Entree
+    choices:
+    - name: Surf and Turf
+      desc: A 6 oz. Tenderloin Filet with a 6 oz. Lobster Tail (Turf only option- 12 oz. New York Strip Steak), Side Vegetable
+    - name: Shrimp Duet
+      desc: Our fabulous Coconut Shrimp paired with Broiled Shrimp stuffed with crab, then glazed with Hollandaise Sauce, Side Vegetable
+    - name: Grilled Mahi Mahi
+      desc: An 8 oz. Mahi Mahi steak grilled to order and topped with our pineapple-poached apple and roasted red pepper chutney (available without chutney if desired), Side Vegetable
+
+  - name: Dessert
+    choices:
+    - name: Key Lime Pie
+      desc: A family favorite of ours, and soon to become a favorite of yours too!
+    - name: Chocolate Bread Pudding
+      desc: Glazed with Cr&egrave;me Anglaise
+    - name: Apple Crisp
+      desc: Our house-made apple crisp served with Chocolate Shoppe Cinnamon Ice Cream

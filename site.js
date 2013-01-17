@@ -1377,7 +1377,7 @@ window.restaurants = [{"basename":"43-North","data":{"name":"43 North","address"
     var $$, href, tabContents;
     e.preventDefault();
     $$ = $(this);
-    tabContents = $$.parents('.tabs').find('.tab-content');
+    tabContents = $$.parents('.info').find('.tab-content');
     href = $$.attr('href').substring(1);
     tabContents.each(function(idx, el) {
       var $el;

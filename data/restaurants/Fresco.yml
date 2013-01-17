@@ -1,0 +1,38 @@
+name: Fresco
+address: 227 State Street, Madison, 53703
+phone: 608.663.7374
+hours: Sun-Thurs 5-9p, Fri 5-10p
+lat: 43.0746771
+lng: -89.38895699999999
+
+meals:
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Ceddar Risotto Cake
+      desc: Hook&#39;s cheddar cheese, summer sausage
+    - name: Carrot Soup
+      desc: Spiced carrot, crab salad
+    - name: Wisconsin Apple Salad
+      desc: Farmers&#39; market antique apples, mixed greens, sweet &amp; salty walnuts, hook&#39;s blue paradise cheese, apple vinaigrette
+
+  - name: Entree
+    choices:
+    - name: Seared Mahi Mahi
+      desc: Roasted cauliflower risotto, almond, raspberry vinaigrette
+    - name: Tomato-braised Short Rib Pasta
+      desc: Penne, seasonal vegetables, fresh tomato sauce, basil pistou, parmesan cheese
+    - name: Ricotta Cheese Gnocchi
+      desc: Handmade ricotta gnocchi, seasonal vegetables, brown butter herb creme
+
+  - name: Dessert
+    choices:
+    - name: Carrot Cake Cheesecake
+      desc: Crushed walnuts, maple whipped cream
+    - name: Citrus Panna Cotta
+      desc: Almond Biscotti
+    - name: House Made Kit Kat
+      desc: Peanut Butter Mousse

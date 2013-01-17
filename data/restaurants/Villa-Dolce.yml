@@ -1,0 +1,34 @@
+name: Villa Dolce
+address: 1828 Parmenter St., Middleton 53562
+phone: 608.833.0033
+hours: Mon-Sat 5-10pm
+lat: 43.0958736
+lng: -89.5117745
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Butternut Squash Soup or Mixed Green Salad
+    - name: Spinach and Artichoke Stromboli
+    - name: Smoked Salmon Mousse Crostini
+
+  - name: Entree
+    choices:
+    - name: Beef Tenderloin and Sea Scallops (add $5)
+      desc: Oven roasted with a mushroom demi glace, served with seasonal vegetables, and garlic mashed potatoes
+    - name: Wild King Salmon ~ $25
+      desc: With crabmeat and steamed asparagus, served with lemon saffron hollandaise sauce and jasmine rice
+    - name: Gourmet 12&quot; Villa Dolce Pizza ~ $25
+      desc: Choose from any of our gourmet pizzas
+
+  - name: Dessert
+    choices:
+    - name: Our own artesian Gelato made in-house
+      desc: Choose your flavor
+    - name: Black Forrest Crepe
+      desc: Sweetened cream cheese with Kirsch cherry filling
+    - name: Flourless Chocolate Torte

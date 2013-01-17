@@ -1,0 +1,39 @@
+name: Harvest
+address: 21 N. Pinckney Street, Madison, 53703
+phone: 608.255.6075
+hours: Sun-Sat 5p-11p
+lat: 43.0760542
+lng: -89.3838148
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: market salad
+      desc: Seasonal Greens &amp; Vegetables, Creamy Herb Vinaigrette
+    - name: parsnip soup
+      desc: Toasted Almond, Cranberry Gremolata, Thyme
+    - name: crispy cauliflower &amp; brussels sprout salad
+      desc: Pancetta, Balsamic-Cider Reduction, Sarvecchio
+
+  - name: Entree
+    choices:
+    - name: house-made potato cavatelli
+      desc: Crimini Mushroom Confit, Braised Red Onion, Mushroom Cream (vegan option also available)
+    - name: roasted chicken &amp; white bean stew
+      desc: Braised Kale, Roasted Pearl Onions
+    - name: braised beef short ribs
+      desc: Leek-Sour Cream Potato Puree, Grilled Bacon, Worcestershire Jus
+
+  - name: Dessert
+    choices:
+    - name: brown butter panna cotta
+      desc: Poached Pear, Almond Streusel, Sweet Sherry
+    - name: smoked apple pound cake
+      desc: Buttermilk Anglaise, Hazelnut Croquant
+    - name: house-made chocolate stout gelato
+      desc: Almond-Chocolate Biscotto
+    - name: house-made blood orange-gin tea sorbet

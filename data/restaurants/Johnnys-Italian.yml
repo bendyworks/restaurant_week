@@ -1,0 +1,70 @@
+name: Johnny's Italian
+address: 8390 Market Street, Middleton 53562
+phone: 608.831.3705
+hours: Sun 2p-9p, Mon-Thurs 11a-10p, Fri 11a-11p
+lat: 43.09383580000001
+lng: -89.52669619999999
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Caesar Salad
+      desc: Romaine, homemade Caesar dressing, garlic croutons, Parmesan cheese
+    - name: Betta Bruschetta
+      desc: Grilled Facaccia bread, Roma tomatoes, goat cheese, onions, olive oil and basil (What makes it Betta is the goat cheese)
+    - name: Supper Club Spinach Salad
+      desc: Spinach, hot bacon dressing, sun-dried tomatoes, pecans, Proscuitto, hard cooked eggs
+
+  - name: Entree
+    choices:
+    - name: Chef Andy&#39;s Homemade Cavatappi
+      desc: Spicy Italian sausage, portabella mushrooms, cavatoppi pasta, spicy tomato cream sauce
+    - name: Chicken DeBurgo
+      desc: Tender scalloppine of chicken breast, saut&eacute;ed with an herbaceous cream sauce
+    - name: Grilled Cheese with Tomato Bisque
+      desc: Grilled sourdough filled with Wisconsin cheddar and Swiss cheese, served with homemade tomato bisque
+
+  - name: Dessert
+    choices:
+    - name: Limoncello Cake
+      desc: 3 layered citrus cake with raspberry preserves, fresh lemon custard and fresh berries
+    - name: Warm Chocolate Cake
+      desc: Fresh baked chocolate cake with molten center served with cinnamon ice cream
+    - name: Grasshopper Cheesecake
+      desc: Lip smacking delicious grasshopper flavored cheesecake with a chocolate crust, topped with Andes chocolate candy
+
+
+- type: dinner
+  price: 35
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: (Soon To Be Famous) Lobster Mac-n-Cheese
+      desc: Shell pasta baked in a rich cream with real lobster and crunchy bread crumb top
+    - name: Jumbo Lump Crab cake
+      desc: Served with homemade remoulade sauce
+    - name: Supper Club Spinach Salad
+      desc: Spinach, hot bacon dressing, sun-dried tomatoes, pecans, Prosciutto, hard cooked eggs
+
+  - name: Entree
+    choices:
+    - name: Chicken Piccata
+      desc: Saut&eacute;ed chicken breast, lemon, butter, white wine, capers, red onions
+    - name: Drunken Steak
+      desc: 6oz sirloin marinated in Samuel Adams and special herbs, garlic cream sauce
+    - name: Basilico Angel Hair
+      desc: Vegetarian delight with angel hair pasta, fresh basil, garlic and tomatoes seasoned to perfection
+
+  - name: Dessert
+    choices:
+    - name: Limoncello Cake
+      desc: 3 layered citrus cake with raspberry preserves, fresh lemon custard and fresh berries
+    - name: Warm Chocolate cake
+      desc: Fresh baked chocolate cake with molten center served with cinnamon ice cream
+    - name: Grasshopper cheesecake
+      desc: Lip smacking delicious grasshopper flavored cheesecake with a deep chocolate crust, topped with Andes chocolate candy

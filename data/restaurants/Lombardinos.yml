@@ -1,0 +1,38 @@
+name: Lombardino's
+address: 2500 University Avenue, Madison 53705
+phone: 608.238.1922
+hours: Sun-Thurs 5p-9p, Fri 5p-10p
+lat: 43.0721815
+lng: -89.42826989999999
+
+meals:
+- type: dinner
+  price: 25
+  other: With Matching Wines $39
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Antipasta Misti
+      desc: Fennel studded Columbus salami &amp; Sartori MontAmore cheese accompanied by wood-roasted pear compote
+    - name: Signature Caesar Salad
+      desc: Romaine lettuce tossed with croutons, Parmigiano-Reggiano &amp; lemon-anchovy dressing, garnished with an anchovy, olive tapenade &amp; hard- cooked egg
+    - name: Ribollita
+      desc: Tuscan white bean soup with smoked pork, toasted bread &amp; fresh sage, garnished with olive oil
+
+  - name: Entree
+    choices:
+    - name: Milk Braised Jordanal Farm Pork Shoulder
+      desc: Served on Anson Mills polenta, garnished with pork braising jus
+    - name: Marsala Mushrooms with Linquine
+      desc: Saut&eacute; of local mushrooms, garlic, shallot, fresh sage, marsala &amp; roasted garlic cream, tossed with linguine &amp; garnished with parmesan cheese
+    - name: Pan Seared Sea Scallops
+      desc: With local mushroom medley, fris&eacute;e &amp; brown butter-black truffle vinaigrette
+
+  - name: Dessert
+    choices:
+    - name: Olive Oil Orange Cake
+      desc: With blood orange sorbet
+    - name: Sour Cream Panna Cotta
+      desc: Italian style local sour cream custard served with Door County cherry &amp; oat crumble
+    - name: Lombardino&#39;s Tiramisu

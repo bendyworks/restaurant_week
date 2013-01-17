@@ -1,0 +1,15 @@
+name: Merchant
+address: 121 S. Pinckney St. Madison, WI 53703
+phone: 608.259.9799
+hours: (Lunch) Mon-Fri 11a-3p, (Dinner) Mon-Sun 5p-10p
+lat: 43.0742067
+lng: -89.3808622
+
+meals:
+- type: lunch
+  price: 15
+  courses: []
+
+- type: dinner
+  price: 30
+  courses: []

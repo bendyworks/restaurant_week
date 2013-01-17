@@ -1,0 +1,68 @@
+name: Steenbocks
+address: 330 N. Orchard Street, Madison 53705
+phone: 608.204.2733
+hours: Lunch Mon-Fri 11a-2p, Dinner Mon-Fri 5-10p
+lat: 43.0729187
+lng: -89.40736509999999
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: House Salad
+      desc: Goat Cheese, Balsamic Vinaigrette
+    - name: Seasonal Soup
+      desc: Fresh and Local
+    - name: Flash Fried Calamari
+      desc: Sauce Romesco
+
+  - name: Entree
+    choices:
+    - name: Curry Chicken
+      desc: Roasted Cashews, Avocado, Sundried Tomato, Mix Green, Curry Vinaigrette
+    - name: Russian Reuban
+      desc: Corned Beef, sauerkraut, Russian dressing, dark rye
+    - name: Pasta of the day
+      desc: A choice of daily fresh ingredients
+
+  - name: Dessert
+    choices:
+    - name: Chocolate Cake
+      desc: Cherry, Vanilla Ice Cream
+    - name: Carrot Cake
+      desc: Vanilla, Carrot Caramel, Carrot Chips
+    - name: Cr&egrave;me Brulee
+
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: House Salad
+      desc: Goat Cheese, Balsamic Vinaigrette
+    - name: Seasonal Soup
+    - name: Risotto
+      desc: Mushroom, Hazelnut, Brown Butter
+
+  - name: Entree
+    choices:
+    - name: Pappardelle
+      desc: Short rib ragu, truffle, enoki cream sauce
+    - name: Viking Village Scallop
+      desc: Brussels sprouts, pancetta, parsnip puree, buerre blanc
+    - name: Halibut Veracruz
+      desc: Roasted tomato, olive, chili, garlic, jasmine rice
+    - name: Grilled Beef Flat Iron
+      desc: Wilted spinach, roasted pearl onions, pommes puree, bordelaise
+
+  - name: Third Course
+    choices:
+    - name: Chocolate Cake
+      desc: Cherry, Vanilla Ice Cream
+    - name: Carrot Cake
+      desc: Vanilla, Carrot Caramel, Carrot Chips
+    - name: Cr&egrave;me Brulee

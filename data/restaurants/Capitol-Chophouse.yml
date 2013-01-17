@@ -1,0 +1,70 @@
+name: Capitol Chophouse
+address: 9 E. Wilson Street, Madison, 53703
+phone: 608.255.0165
+hours: Mon-Fri 11:30a-10p
+lat: 43.0727765
+lng: -89.3807764
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Roasted Tomato Basil Soup
+      desc: Fresh Tomatoes | Oregano | Basil
+    - name: Mixed Market Salad
+      desc: Tomato | Local Greens | Cucumber, Your choice of Dressing on the side
+    - name: Capitol Chowder
+      desc: New England style Clam Chowder
+
+  - name: Entree
+    choices:
+    - name: Smoked Pulled Pork Sandwich
+      desc: Smoked Pork | Old World Bread | Chipotle Cole Slaw |Fried Onion
+    - name: Portobello Tart
+      desc: Wild Mushroom| Quinoa | Cranberry | Walnuts | Tart Shell, Cranberry Vinaigrette
+    - name: Grilled Chicken with Sage
+      desc: Grilled Sage Chicken | Mixed grain rice |Herb Au Jus
+
+  - name: Dessert
+    choices:
+    - name: Door Country Cherry Crisp
+      desc: Vanilla Bean Ice Cream
+    - name: Layer Chocolate Cake
+      desc: Chocolate Sauce
+    - name: Winter Fruit Compote
+      desc: Stewed Apples | Pears | Cranberry
+
+
+- type: dinner
+  price: 35
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Ahi Tuna Tartar
+      desc: Avacado, Sweet Chili Sauce, Wonton Crackers
+    - name: Roasted Beets and Goat Cheese
+      desc: Mache&rsquo;, Walnut Crumble, Date Puree&rsquo;, Pumpkin Seed Oil
+    - name: Creamy Cauliflower Soup
+      desc: SarVecchio Cheese, Sour Dough Croutons
+
+  - name: Entree
+    choices:
+    - name: New York Strip
+      desc: Asparagus, Hollandaise
+    - name: Roast Duck Breast
+      desc: Parsnips, Swiss Chard, Plum Sauce
+    - name: Cioppino
+      desc: Scallops, Mussels, Whitefish, White Wine Tomato Broth, Grilled Ciabatta
+
+  - name: Dessert
+    choices:
+    - name: Door County Cherry Crisp
+      desc: Vanilla Bean Ice Cream
+    - name: Chocolate Brownie Terrine
+      desc: Pistachio Crumble, Whipped Cream
+    - name: Wisconsin Cheese
+      desc: Carr Valley Havarti, Dunbarton Blue, La Von Goat Brie, Cranberry Walnut Bread, Cranberry Chutney

@@ -1,0 +1,36 @@
+name: Umami Ramen Dumpling Bar
+address: 923 Williamson St., Madison, WI 53703
+phone: 608.819.6319
+hours: Sun 5p-9p, Mon-Thurs 5p-10p, Fri-Sat 5p-11p
+lat: 43.079822
+lng: -89.36867099999999
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Buns
+      desc: 'Choose One: Pork belly Spicy Pulled Pork, Korean BBQ, Tofu, Spicy Tofu'
+    - name: Dumplings w/ Choice of Sauce (soy vinegar, sweet or spicy)
+      desc: 'Choose One: Pork &amp; Chives; Chicken &amp; Shitake; Vegan (smoked tofu, bok choy &amp; shitake); Shrimp &amp; Pork'
+
+  - name: Entree
+    choices:
+    - name: Tonkotsu Ramen
+      desc: pork broth w/fresh ramen noodles topped with egg, braised pork, marinated bamboo, nori &amp; green onions
+    - name: Miso Ramen
+      desc: miso chicken broth w/fresh ramen noddles topped with egg, marinated chicken and bamboo, nori, bean sprouts &amp; green onions
+    - name: Shoyu Ramen
+      desc: soy chicken broth w/fresh ramen noodles topped with egg, braised pork, corn, marinated bamboo, nori &amp; green onions
+    - name: Veggie Ramen
+      desc: seaweed &amp; mushroom broth w/fresh ramen noodles topped with shitake, smoked tofu, marinated bamboo, nori &amp; bean sprouts
+    - name: Vegan Ramen
+      desc: seaweed &amp; mushroom broth w/ vermicelli noodles topped with shitake, smoked tofu, marinated bamboo, nori &amp; bean sprouts
+
+  - name: Dessert
+    choices:
+    - name: Mochi Ice Cream
+      desc: 'Round dessert ball made of a soft stickey rice cake wrapper with and ice cream filling. Choose one: Sesame, Green Tea, or Mango'

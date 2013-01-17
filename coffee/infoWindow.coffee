@@ -2,7 +2,7 @@
   handleTabClick = (e) ->
     e.preventDefault()
     $$ = $(@)
-    tabContents = $$.parents('.tabs').find('.tab-content')
+    tabContents = $$.parents('.info').find('.tab-content')
 
     href = $$.attr('href').substring(1)
     tabContents.each (idx, el) ->

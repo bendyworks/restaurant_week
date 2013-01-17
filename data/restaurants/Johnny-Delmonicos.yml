@@ -1,0 +1,68 @@
+name: Johnny Delmonicos
+address: 130 S. Pinckney, Madison 53703
+phone: 608.257.8325
+hours: Mon-Fri 11a-2p (Lunch), Mon-Thurs 5p-9p, Fri 5p-10p (Dinner)
+lat: 43.0740689
+lng: -89.3812639
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: New England Clam Chowder
+      desc: with fresh Dill
+    - name: Salad of Mix Greens 
+      desc: with dried cranberries, candied walnuts, grilled onions, shredded parmesan and citrus vinaigrette
+    - name: Wisconsin Artisanal Cheese and Garnishes
+
+  - name: Entree
+    choices:
+    - name: Blackened Chicken Breast Sandwich 
+      desc: with mozzarella, lettuce, tomato, onion, and herbed garlic aioli on ciabatta bread *vegetarian with roasted mushroom cap instead of chicken
+    - name: Jambalaya
+      desc: andouille, rock shrimp, and mussels with creole tomato sauce over rice
+    - name: Smoked Beef Tenderloin Sous Vide
+      desc: sliced and served with roasted root vegetables with agave nectar glaze, crispy kale and horseradish cream sauce
+
+  - name: Dessert
+    choices:
+    - name: Dark Chocolate Mocha Tart
+      desc: with salted caramel and fresh raspberries
+    - name: House Made Sorbet served 
+      desc: with fresh fruit and sugared wonton crisp
+    - name: Brandy Apple Cobbler
+      desc: with cream cheese, streusel topping and cardamom chantilly cream
+
+
+- type: dinner
+  price: 35
+
+  courses:
+  - name: First Course
+    choices:
+    - name: New England Style Clam Chowder
+      desc: with fresh Dill
+    - name: Salad of Mixed Greens
+      desc: with dried cranberries, candied walnuts, onion, shredded parmesan and citrus vinaigrette
+    - name: Wisconsin Artisanal Cheese and Garnishes
+
+  - name: Second Course
+    choices:
+    - name: Slow Roasted and Garlic Stuffed Porchetta
+      desc: sliced and served with roasted root vegetables with agave nectar glaze, crispy kale and Italian salsa verde
+    - name: Ginger and Scallion Crusted Salmon
+      desc: with roasted garlic mashed potatoes, crispy onion, hoisin and plum sauce
+    - name: Steak Medallions Au Poivre
+      desc: with creamy whipped potatoes, roasted brussel 
+
+  - name: Third Course
+    choices:
+    - name: Dark Chocolate Mocha Tart
+      desc: with salted caramel and fresh raspberries
+    - name: House Made Sorbet
+      desc: served with fresh fruit and sugared wonton crisp
+    - name: Brandy Apple Cobbler
+      desc: with cream cheese, streusel topping and cardamom chantilly cream

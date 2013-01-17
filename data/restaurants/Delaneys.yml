@@ -1,0 +1,33 @@
+name: Delaneys
+address: 449 Grand Canyon Drive, Madison, 53719
+phone: 608.833.7337
+hours: Mon-Fri 5p-9:30p, Sat- No RW Menu
+lat: 43.057938
+lng: -89.495496
+
+meals:
+- type: dinner
+  price: 30
+
+  courses:
+  - name: First Course
+    choices:
+    - name: Spinach Salad
+      desc: Prosciutto ham, gorgonzola cheese, strawberry vinaigrette
+    - name: Caesar Salad
+    - name: Bowl of Soup du Jour
+
+  - name: Second Course
+    choices:
+    - name: 6 oz. Filet
+      desc: Garlic mashed potatoes, local vegetables, bacon-mushroom bordelaise with blue cheese crumbles
+    - name: Walleye
+      desc: Pan fried with artichoke salad, Lemon caper Orzo and amaretto cream sauce
+    - name: Grilled Pork Tenderloin
+      desc: Shrimp and sausage jambalaya, Greens and Creole sauce
+
+  - name: Third Course
+    choices:
+    - name: Hot Fudge Sundae
+    - name: Tiramisu
+    - name: Berry Cheesecake

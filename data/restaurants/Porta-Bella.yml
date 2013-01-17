@@ -1,0 +1,44 @@
+name: Porta Bella
+address: 425 North Frances Street, Madison, WI 53703
+phone: 608.256.3186
+hours: Mon-Sat 11a-10:30p, Sun 4p-10:30p
+lat: 43.073975
+lng: -89.3957842
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Porta Salad
+      desc: Romaine and iceberg lettuce with our special blend of ham, salami, cheddar and mozzarella cheese, green peppers and garbanzo beans
+    - name: Mediterranean Salad
+      desc: Mixed spring greens topped with sliced red onions, black olives, cherry tomatoes and croutons. Served with Feta cheese dressing
+    - name: Italian Stuffed Mushrooms
+      desc: Stuffed with Italian meats and cheeses
+    - name: Spinach Artichoke Dip
+      desc: Our homemade spinach and artichoke dip. Served with crostinis
+
+  - name: Entree
+    choices:
+    - name: Steak Braciola
+      desc: Top sirloin stuffed with four Italian cheeses and proscuitto, topped with mozzarella cheese and tomato sauce. Served with oven roasted potatoes
+    - name: Cranberry Stuffed Pork Loin
+      desc: USDA center cut pork loin stuffed with cranberries, raisins, onions and spices, topped with a creamy Marsala sauce. Served over a bed of wild rice
+    - name: Maryland Blue Crab Stuffed Shrimp
+      desc: Jumbo gulf shrimp stuffed with Maryland Blue crab, shrimp, scallops, and haddock.  Served over a bed of spinach fettuccine tossed with Parmesan cheese and garlic butter
+    - name: Stuffed New York Strip
+      desc: A 10 ounze USDA choice center cut strip stuffed with mushrooms, almonds, onions and Mozzarella cheese. Served with oven roasted potatoes
+
+  - name: Dessert
+    choices:
+    - name: Door County Cherry Stuffed Cannoli
+      desc: A fluffy pastry stuffed with sweetened Ricotta cheese and Door County cherries
+    - name: Chocolate Mousse Stuffed Cannoli
+      desc: A fluffy pastry stuffed with chocolate mousse
+    - name: Lemon Dreamsicle
+      desc: Lemon gelato topped with orange liquer
+    - name: Chocolate Tartufo
+      desc: Zabaione cream center, surrounded by chocolate gelato and caramelized hazelnuts, dusted with cocoa powder

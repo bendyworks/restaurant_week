@@ -1,0 +1,10 @@
+name: Nostrano
+address: 111 S. Hamilton St., Madison, WI 53703
+phone: 608.395.3295
+hours: (Lunch)  Mon-Fri 11:30a-2p, (Dinner) Mon-Wed 5-9p Thurs/Fri 5p-10p
+lat: 43.072631
+lng: -89.384011
+
+meals:
+- type: dinner
+  other: The Chef at Nostrano is currently researching local product availability for Winter Restaurant Week and will be posting a menu the first week in January.  Please check back for more details.

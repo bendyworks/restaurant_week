@@ -1,0 +1,28 @@
+name: Smoky's
+address: 3005 University Ave, Madison 53705
+phone: 608.233.2120
+hours: Mon-Fri 5-9p
+lat: 43.0751264
+lng: -89.4416786
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Soup
+    - name: Salad
+    - name: Stuffed Mushrooms
+
+  - name: Entree
+    choices:
+    - name: 16 oz. Ribeye Steak
+    - name: 5 oz. Tenderloin with 2 Shrimp
+    - name: Five Broiled Jumbo Scallops
+
+  - name: Dessert
+    choices:
+    - name: Dessert-Size Grasshopper
+    - name: Bailey's Delight Ice Cream Drinks

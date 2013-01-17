@@ -1,0 +1,70 @@
+name: Capital Tap Haus
+address: 107 State Street, Madison, 53703
+phone: 608.310.1010
+hours: Mon-Thurs 11a-10p, Fri 11a-12a
+lat: 43.0747318
+lng: -89.38700469999999
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Starters
+    choices:
+    - name: Reuban Rolls
+      desc: Taste of Madison Award Winner. Corned beef, sauerkraut and Great Lakes swiss cheese blended together and made into an eggroll. Accompanied with thousand island dressing
+    - name: Cheese Curd Fritters
+      desc: Succulent Wesby cheese curds in fritter batter, fried golden brown and served hot with honey Dijon dressing
+    - name: Garlic Parsley Frites
+      desc: Portage county grown russet potato frites, fried golden brown and tossed with chopped garlic, parsley and olive oil
+
+  - name: Entree
+    choices:
+    - name: Capital Dark BBQ Pulled Pork
+      desc: Taste of Madison Award Winner. Melt in your mouth tender pulled pork, flavored with our homemade Capital Dark BBQ piled high on a ciabatta bun and served with homemade Borzynski Brothers cabbage coleslaw on top
+    - name: The Harvester
+      desc: A mound of grilled Hometown Harvest vegetables and roasted portabella mushroom tossed in balsamic vinegar and olive oil and layered on Tuscan bread
+    - name: Flank Steak Sandwi
+      desc: Char broiled flank steak, sliced and served on a French roll, topped with crispy fried onions, with slaw and pickle chips
+
+  - name: Dessert
+    choices:
+    - name: Chocolate Brownie
+      desc: Luscious chocolate brownie, served with vanilla ice cream and chocolate sauce
+    - name: Apple Pie Eggrolls
+      desc: Spiced Hometown Harvest apples cooked in butter and brown sugar, then put in eggroll wraps and fried golden, served with vanilla ice cream and caramel
+    - name: Apple Turnover
+      desc: Hometown Harvest apples cooked in brown sugar in a puff pastry shell, with Wisconsin sharp white cheddar cheese.
+
+
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Starters
+    choices:
+    - name: Reuben Rolls
+      desc: Taste of Madison Award Winner. Corned beef, sauerkraut and Great Lakes swiss cheese blended together and made into an eggroll.  Accompanied with thousand island dressing
+    - name: Cheese Curd Apple Fritters
+      desc: Succulent Wesby cheese curds and spiced apples in a fritter batter, fried golden brown and served hot with honey Dijon dressing
+    - name: Garlic Parsley Frites
+      desc: Portage county grown russet potato frites, fried golden brown and tossed with chopped garlic, parsley and olive oil
+
+  - name: Entree
+    choices:
+    - name: Smoked Airline Chicken Breast
+      desc: Smoked airline chicken breast, served over garlic mashed potatoes, with Haus vegetables and topped with a red wine sauce
+    - name: Grilled Iowa Pork Chop
+      desc: An Iowa chop, char grilled and served on top of garlic mashed potatoes, with Haus vegetables, and topped with an apple cider pork demi glace reduction.
+    - name: Grilled Flank Steak
+      desc: Char broiled flank steak, sliced and served over garlic mashed potatoes, topped with crispy fried onions, with Haus vegetables over a garlic demi reduction
+
+  - name: Dessert
+    choices:
+    - name: Chocolate Brownie
+      desc: Luscious chocolate brownie, served with vanilla ice cream and chocolate sauce
+    - name: Apple Pie Eggrolls
+      desc: Spiced Hometown Harvest apples cooked in butter and brown sugar, then put in eggroll wraps and friend golden, served with vanilla ice cream and caramel
+    - name: Apple Turnover
+      desc: Hometown Harvest apples cooked in brown sugar in a puff pastry shell, with Wisconsin sharp white cheddar cheese

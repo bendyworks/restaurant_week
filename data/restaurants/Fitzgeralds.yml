@@ -1,0 +1,34 @@
+name: Fitzgeralds
+address: 3112 Parmenter St., Middleton, WI 53562
+phone: 608.831.7894
+hours: Sun 4:30p-8:30p, Tues-Thurs 5p-9p, Fri 4:30p-9:30p
+lat: 43.108671
+lng: -89.51081200000002
+
+meals:
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Bruschetta Crostini
+      desc: Italian tomato salsa with crisp garlic and herb crostini
+    - name: Crab Cakes
+      desc: Delicate fresh made authenic crab cakes with a southwest cream sauce
+    - name: Salad Bar
+      desc: Homemade soup, fresh vegetables, fruit, cheddar cheese, salad of the day, homemade coleslaw, garlic bread and choice of dressing
+
+  - name: Entree
+    choices:
+    - name: Manhattan Strip Steak
+      desc: Char grilled seasoned New York strip steak topped with a peppercorn, pancetta and mushroom demi-glace
+    - name: Cajun Chicken and Shrimp
+      desc: Blackened chicken breast with Cajun pan seared shrimp
+    - name: Baked Sockeye Salmon
+      desc: Seasoned and oven baked sockeye salmon served with fresh made mango salsa
+
+  - name: Dessert
+    choices:
+    - name: Chocolate Turtle Cake
+    - name: New York Cheesecake

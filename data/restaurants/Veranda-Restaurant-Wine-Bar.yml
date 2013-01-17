@@ -1,0 +1,69 @@
+name: Veranda Restaurant & Wine Bar
+address: 2784 South Fish Hatchery Road, Fitchburg, WI 53711
+phone: 608.661.4161
+hours: Sun 9a-3p, Mon-Thurs 11:30a-9p, Fri 11:30-10p, Sat 9a-10p
+lat: 43.005696
+lng: -89.42691699999999
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Veranda Cream of Mushroom Soup
+    - name: Frisee Salad
+      desc: Smoked tomatoes, bacon lardons, Pleasant Ridge reserve artisanal cheese, tossed in a Champagne Vinaigrette
+    - name: Wilted Spinach Salad
+      desc: Cherry tomatoes, candied walnuts, hard-boiled egg, tossed in a warm bacon vinaigrette
+
+  - name: Entree
+    choices:
+    - name: Moody Blue Cheese
+      desc: Stuffed grass-fed beef burger, drunken onions, smoked tomatoes, truffle fries
+    - name: Grilled Grass-fed 4 oz. Beef Tenderloin
+      desc: Topped with smoked tomato compound butter, truffle mashed potatoes, asparagus, finished with madeira demi reduction
+    - name: Roasted Vegetable Napolean
+      desc: Layered with zucchini, tomatoes, asparagus, eggplant, pesto, and house-made ricotta, topped with Fantome Farm goat cheese, sarveccio parmesan reggiano, fennel and radicchio
+
+  - name: Dessert
+    choices:
+    - name: Ale Asylum &quot;Big Slick&quot; Stout Chocolate Cake
+      desc: Bailey&#39;s irish cream cheese frosting, fresh raspberries
+    - name: Caf&eacute; Continental Ice Cream
+      desc: Chocolate truffle cakes suspended in espresso ice cream, made locally, exclusively for us, by the UW-Madison Babcock Hall Dairy
+    - name: Cuccidati Ricotta Cheesecake
+      desc: Biscotti crust layered with Cuccidati fig &amp; date filling and sweetened house-made ricotta, infused with solerno blood orange liquor, drizzled with sweet balsamic- honey reduction, topped with candied walnuts
+
+
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Crispy Prosciutto-wrapped Asparagus
+      desc: Topped with a sunny-side up egg, finished with Sarveccio Parmesan Reggiano
+    - name: Frisee Salad
+      desc: Smoked Tomatoes, bacon lardons, Pleasant Ridge Reserve artisanal cheese, tossed in a Champagne Vinaigrette
+    - name: Fantome Farm Goat Cheese stuffed Figs
+      desc: Served over wilted spinach, with warm Bacon Vinaigrette, topped with candied pecans
+
+  - name: Entree
+    choices:
+    - name: Seared Ahi Tuna
+      desc: Topped with fried beau soleil oysters, saut&eacute;ed green beans and cherry tomatoes, served over mustard barbeque reduction, finisheed with ham butter
+    - name: Grilled Grass-fed 8 oz. Beef Tenderloin
+      desc: Topped with smoked tomato compound butter, truffle mashed potatoes, asparagus, finished with madeira demi reduction. Add seared Jumbo Wild Caught Scallops with Tomato Bacon crumbles for extra $10
+    - name: Roasted Vegetable Napoleon
+      desc: Layered with zucchini, tomatoes, asparagus, eggplant, pesto, and house-made ricotta, topped with Fantome farm goat cheese, sarveccio parmesan reggiano, fennel and radiccio
+
+  - name: Dessert
+    choices:
+    - name: Ale Asylum &quot;Big Slick&quot; Stout Chocolate Cake
+      desc: Bailey&#39;s Irish Cream Cheese Frosting, Fresh Raspberries
+    - name: Caf&eacute; Continental Ice Cream
+      desc: Chocolate Truffle Cakes suspended in espresso ice cream, made locally, exclusively for us, by the UW-Madison Babcock Hall Dairy
+    - name: Cuccidati Ricotta Cheesecake
+      desc: Biscotti crust layered with cuccidati fig &amp; date filling and sweetened house-made ricotta, infused with solerno blood orange liquor, drizzled with sweet balsamic-honey reduction, topped with candied walnuts

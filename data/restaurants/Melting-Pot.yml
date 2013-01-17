@@ -1,0 +1,38 @@
+name: Melting Pot
+address: 6816 Odana Road, Madison 53719
+phone: 608.833.5676
+hours: Sun-Fri 11a-2p (Lunch), 4p-10p (Dinner)
+lat: 43.0566274
+lng: -89.5004112
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Bittersweet Spinach Salad
+      desc: Spinach, roma tomatoes, blue cheese, golden raisins, candied pecans, roasted red pepper with a balsamic vinaigrette
+    - name: Lettuce Wraps
+      desc: Curly carrots, bean sprouts, cucumbers, mint, honey roasted almonds, black sesame seeds and scallions wrapped in lettuce with a mandarin orange ginger dressing
+    - name: Orchard Salad
+      desc: Mixed greens, romaine and iceberg lettuce mixed with candied pecans, swiss cheese, sliced apples and golden raisins with an apple ranch dressing
+
+  - name: Entree
+    choices:
+    - name: Cajun entree
+      desc: Spicy chicken, spicy shrimp and andouille sausage
+    - name: Citrus entree
+      desc: Cilantro-Lime Shrimp, lemon garlic pork and honey orange chicken
+    - name: Vegetarian Pasta entree
+      desc: Wild mushroom sacchetti, spinach artichoke ravioli and vegetable potstickers
+
+  - name: Dessert
+    choices:
+    - name: Dark Chocolate Raspberry Fondue
+      desc: Dark chocolate swirled with raspberry flavor
+    - name: Choccocina Fondue
+      desc: Milk chocolate and espresso
+    - name: Passion fruit ying &amp; yang fondue
+      desc: Artfully balanced dark chocolate and passion fruit white chocolate

@@ -1,0 +1,71 @@
+name: Buck Honey's
+address: 804 Liberty Blvd, Sun Prairie, WI, 53590
+phone: 608.837.3131
+hours: Mon-Fri 11a-close, Sat/Sun 10a-close
+lat: 43.1992964
+lng: -89.2259979
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: First Course
+    choices:
+    - name: Lobster Bisque
+    - name: Roasted Goat
+      desc: Goat cheese layered with roasted beets, drizzled with a raspberry chipotle sauce, served with warm pita chips
+    - name: Ceasar Salad
+      desc: Romaine lettuce tossed in a caesar dressing, topped with shaved parmesan and homemade croutons
+    - name: Stuffed Mushrooms
+      desc: Mushrooms stuffed with a garlic herb cream, breaded and served with a creamy horseradish sauce
+
+  - name: Second Course
+    choices:
+      - name: 1/2 Prime Rib Sandwich Combo
+        desc: Sliced prime rib sauteed with mushrooms, topped with melted provolone on a toasted hoagie served with our homemade aujus &amp; horsey sauce - choice of soup du jour, baked french onion or side salad
+      - name: Italian Chicken Sandwich
+        desc: Grilled chicken breast topped with fresh mozzerella, balsamic tomatoes and a pesto sauce on a ciabatta bun, served with sweet potato fries
+      - name: Jambalaya
+        desc: Tender chicken, sauteed shrimp &amp; andouille sausage tossed with rice, peppers, &amp; onions in a spicy creole sauce
+      - name: Sea Salad
+        desc: Grilled shrimp, scallops and mahi mahi served over watercress lettuce, with baby arugula &amp; red onions, tossed in a shallot orange vineagarette
+
+  - name: Third Course
+    choices:
+      - name: Bread Pudding
+        desc: with Vanilla Ice Cream
+      - name: Apple Pie
+        desc: with Vanilla Ice Cream
+      - name: Pop Rocks Strawberry Shortcake
+
+- type: dinner
+  price: 30
+
+  courses:
+  - name: First Course
+    choices:
+    - name: Lobster Bisque
+    - name: Roasted Goat
+      desc: Goat cheese layered with roasted beets, drizzled with a raspberry chipotle sauce, served with warm pita chips
+    - name: Duck Sliders
+      desc: Two duck sliders stacked high with a spring mix &amp; a homemade blackberry bbq sauce
+    - name: Grilled Romaine Salad
+      desc: Grilled romaine leaves drizzled with extra virgin olive oil and a balsamic glaze, topped with bleu cheese crumbles
+
+  - name: Second Course
+    choices:
+    - name: Prime Pork Ribeye
+      desc: Sun dried tomatoes and garlic encrusted Prime USDA pork ribeye served with sweet potato hash and roasted brussel sprouts
+    - name: Crab Stuffed Tenderloin
+      desc: Medallions of tenderloin layered with jumbo lump crab meat and hollandaise sauce served with garlic mashed potatoes and grilled asparagus
+    - name: Grilled Salmon
+      desc: Fresh Atlantic salmon grilled to perfection, topped with a light lemon sauce, served with rice pilaf and grilled spinach
+    - name: Chicken Roulade
+      desc: Chicken breast stuffed with cream cheese, spinach, mushroom &amp; prosciutto drizzled with a caper &amp; sage sauce, served with cous cous and harvest vegetables
+
+  - name: Third Course
+    choices:
+    - name: Warm Pecan Pie
+    - name: Chocolate Lava Cake
+    - name: Pop Rocks Strawberry Shortcake

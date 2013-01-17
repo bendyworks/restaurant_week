@@ -1,0 +1,69 @@
+name: The Wise at HotelRED
+address: 1501 Monroe Street, Madison 53711
+phone: 608.819.8228
+hours: (Lunch) Mon-Fri 11a-2p, (Dinner) Mon-Thurs 5p-9p, Fri 5p-10p
+lat: 43.067591
+lng: -89.41252899999999
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Spiced Butternut Squash
+      desc: with hazelnut cappuccino (soup) - (gf)
+    - name: Mixed Greens
+      desc: with cranberry champagne dressing, apples, sunflower seeds - (gf)
+    - name: Pork Cassoulet - (gf)
+
+  - name: Entree
+    choices:
+    - name: Grilled Wisonsin Cheddar
+      desc: with gruyere and arugula pest with roasted tomato
+    - name: Cranberry Chicken Salad Croissant
+      desc: (or on greens) - (gf)
+    - name: House Roasted Port Shoulder
+      desc: with cabbage slaw
+
+  - name: Dessert
+    choices:
+    - name: Spiced Apple Cobbler 
+      desc: with buttermilk whipped cream
+    - name: Raspberry Chocolate Torte
+      desc: with coulis and mint - (gf)
+    - name: Olive Oil Cake
+      desc: with blueberry &#39;jam&#39; and mascarpone
+
+
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Spinach and Roasted Beets
+      desc: with goat cheese and hazelnut dressing - (gf)
+    - name: Spiced Butternut Squash Soup
+      desc: with hazelnut cappuccino - (gf)
+    - name: Mixed Greens
+      desc: with cranberry champagne dressing, apples, sunflower seeds - (gf)
+
+  - name: Entree
+    choices:
+    - name: Pomegranate and Stout Braised Short Rib
+      desc: with crushed Wisconsin potatoes, garlic and peppercorn infused oil
+    - name: All Natural Chicken Breast
+      desc: with mushroom risotto and herb jus - (gf)
+    - name: Seared Sea Scallops
+      desc: with tomato and saffron atop whipped Yukon potatoes - (gf)
+
+  - name: Dessert
+    choices:
+    - name: Spiced Apple Cobbler
+      desc: with buttermilk whipped cream
+    - name: Olive Oil Cake
+      desc: with blueberry &#39;jam&#39; and mascarpone
+    - name: Chocolate and Raspberry Torte
+      desc: with coulis and mint - (gf)

@@ -1,0 +1,93 @@
+name: Quivey's Grove Stable
+address: 6261 Nesbitt Road, Fitchburg 53719
+phone: 608.273.4900
+hours: Lunch Sun-Fri 11a-2:30p, Dinner 4-9p
+lat: 43.0086524
+lng: -89.4794905
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Wisconsin Sausage, Cheese, and Beer Soup
+      desc: Served with garlic rye croutons
+    - name: Parmesan Potato Puffs
+      desc: Crispy on the outside, creamy on the inside, served with white truffle aioli
+    - name: Chopped Romaine Salad
+      desc: With Hooks aged cheddar dressing, Lodi Meats State Fair Championship bacon, and garlic rye croutons
+
+  - name: Entree
+    choices:
+    - name: Kobe Cheeseburger Basket Deluxe
+      desc: Eight ounce ground Kobe beef; Wisconsin two year aged cheddar cheese, thick sliced bacon, crispy fried onions, mayo, and barbeque sauce, on crusty ciabatta roll, with house cut French fries
+    - name: Pig Wings
+      desc: Tasty morsels cut from the shank, slowly braised &#39;till fall off the bone tender, then grilled with our tangy barbeque sauce, served with red potatoes smashed with garlic butter, herbs and cream
+    - name: Wisconsin Fish Fry Basket
+      desc: Beer battered whitefish and pretzel crusted lake perch, with our house tartar and house cut French fries
+
+  - name: Dessert
+    choices:
+    - name: Turtle Pie
+      desc: Our signature dessert with caramel, pecans, and chocolate Bavarian cream
+    - name: Caramel Apple Steamed Pudding
+      desc: Served with maple caramel and vanilla cream sauce
+    - name: Hot Fudge Mary Jane
+      desc: Decadent chocolate fudge brownie, topped with ice cream and hot fudge sauce
+
+
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Wisconsin Sausage, Cheese, and Beer Soup
+      desc: Served with garlic rye croutons
+    - name: Parmesan Potato Puffs
+      desc: Crispy on the outside, creamy on the inside, served with white truffle aioli
+    - name: Chopped Romaine Salad
+      desc: With Hooks aged cheddar dressing, Lodi Meats State Fair Championship bacon, and garlic rye croutons
+
+  - name: Entree
+    choices:
+    - name: Steak
+      desc: USDA Prime Certified Angus Sirloin, grilled and served with mushroom jus, crispy onion rings, and a Dairyland cheese potato
+    - name: Wisconsin Fish Sampler
+      desc: Beer battered whitefish, pretzel crusted lake perch, and baked rainbow trout, served with our parmesan potato
+    - name: Pork Trio
+      desc: Grilled tenderloin with apple brandy sauce, slow roasted ribs in our tangy barbeque sauce and braised &quot;pig wings&quot; with brown sugar mustard glaze, served with smashed potatoes
+
+  - name: Dessert
+    choices:
+    - name: Turtle Pie
+      desc: Our signature dessert with caramel, pecans and chocolate Bavarian cream
+    - name: Caramel Apple Steamed Pudding
+      desc: Served with maple caramel and vanilla cream sauce
+    - name: Hot Fudge Mary Jane
+      desc: Decadent chocolate fudge brownie, topped with ice cream and hot fudge sauce
+
+- type: dinner
+  name: Kid's Menu
+  price: 6.95
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Applesauce
+      desc: Fresh house made chunky apple sauce
+
+  - name: Entree
+    choices:
+    - name: Mini-Burger Basket
+    - name: Two Mini Burgers
+      desc: With ranch dressing &amp; barbeque sauce on the side, with fries
+    - name: Chicken Fingers Deluxe
+      desc: Fresh chicken breast strips crispy fried, ranch dressing &amp; barbeque sauce on the side, with fries
+
+  - name: Dessert
+    choices:
+    - name: Chocolate Sundae
+      desc: Vanilla ice cream with hot fudge sauce, whipped cream, maraschino cherry and a wafer cookie

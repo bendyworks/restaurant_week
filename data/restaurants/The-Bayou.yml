@@ -1,0 +1,54 @@
+name: The Bayou
+address: 117 South Butler Street, Madison 53703
+phone: 608.294.9404
+hours: (Lunch) Mon-Fri 11a-2p, (Dinner) Mon-Fri 4p-9p
+lat: 43.075554
+lng: -89.3794734
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Cajun Cheese Curds
+    - name: House Salad OR Ceasar
+    - name: Homemade Soup of the Day
+    - name: Gravy Fries
+
+  - name: Entree
+    choices:
+    - name: Chicken and Sausage Jambalaya
+    - name: Bowl of Crab Gumbo
+    - name: Shrimp Po&#39;Boy with choice of side
+
+  - name: Dessert
+    choices:
+    - name: 2 Geignts
+    - name: Mini Pecan Pie Ala Mode
+    - name: Sweet Potato Bread Pudding
+
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Crab Cake
+    - name: 3 Char-grilled Oysters
+    - name: Cajun Cheese Curds
+    - name: Gravy Fries
+
+  - name: Entree
+    choices:
+    - name: Crawfish Etouffee
+    - name: Lobster Jambalaya
+    - name: Blackened Gator PoBoy
+
+  - name: Dessert
+    choices:
+    - name: 2 Beignets
+    - name: Mini Pecan Pie Ala Mode
+    - name: Sweet Potato Bread Pudding
+    - name: Peanut Butter Icebox Pie

@@ -1,0 +1,38 @@
+name: Quivey's Grove Stone
+address: 6261 Nesbitt Road, Fitchburg 53719
+phone: 608.273.4900
+hours: Sun-Fri 5-9p
+lat: 43.0086524
+lng: -89.4794905
+
+meals:
+- type: dinner
+  price: 30
+
+  courses:
+  - name: First Course
+    choices:
+    - name: Creamy Onion Soup
+      desc: Sweet onions slowly braised in blonde veal stock, finished with cream, topped with crispy onions and asiago cheese
+    - name: Smoked Trout Cakes
+      desc: Crispy smoked trout cakes with spicy remoulade sauce, served with baby greens with citrus vinaigrette
+    - name: Wisconsin Raclettes
+      desc: Roth Kase Raclette cheese, baby red potatoes, baby dill pickles, pickled onions
+
+  - name: Entree
+    choices:
+    - name: Lamb Shank
+      desc: Slowly braised &#39;til fall of the bone tender with Wollersheim Domaine du Sac and root vegetables, served with pan juices and rosemary garlic mashed potatoes
+    - name: Medallion Trio
+      desc: Beef tenderloin on mushroom ragout, pork tenderloin in puff pastry, and chicken roulade on wild rice.  Served with a trio of sauces
+    - name: Salmon
+      desc: Baked with a horseradish crust, served on pan roasted vegetables with a tomato buerre blanc
+
+  - name: Dessert
+    choices:
+    - name: Apple Strudel
+      desc: Baked with golden raisin and black walnuts and served on cr&egrave;me anglais with a drizzle of maple caramel
+    - name: Cranberry Orange Steamed Pudding
+      desc: Served with brandy cream sauce
+    - name: Chocolate Hazelnut Tart
+      desc: Ground hazelnut cookie crust, chocolate ganache, Frangelica whipped cream

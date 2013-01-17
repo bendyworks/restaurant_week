@@ -1,0 +1,70 @@
+name: Luigi's
+address: 515 South Midvale Boulevard, Madison 53711
+phone: 608.661.7663
+hours: Sun-Thurs 11a-9p, Fri &amp; Sat 11a-10p, Sun 11a-9p
+lat: 43.0548519
+lng: -89.450401
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Fonduta Classico
+      desc: A rich pecorino cheese sauce with shaved speck and herbed bread crisps (can be made vegetarian)
+    - name: Prosciutto Pillows
+      desc: Herbed goat cheee wrapped in prosciutto ham and baked with a roasted red pepper sauce and served with crostini
+    - name: Venetian Salad
+      desc: Sun-dried tomatoes, artichokes and kalamata olives in a buttery pastry served on mixed greens with a balsamic drizzle
+
+  - name: Entree
+    choices:
+    - name: Winter Squash Pizza
+      desc: Butternut and spaghetti squash with fontina cheese, brown butter and truffle oil
+    - name: Italian Scalloped Potato and Ham Pizza
+      desc: Fig jam with fingerling potatoes, gorgonzola cheese, rosemary and speck
+    - name: Bad Breath Pizza
+      desc: Slow cooked pork with balsamic marinated onions, roasted garlic, white sauce and smoked gouda and gorgonzola with a tomato sauce drizzle
+
+  - name: Dessert
+    choices:
+    - name: Butterscotch Budino
+      desc: With salted caramel sauce
+    - name: Smores Pizza
+      desc: Graham cracker crust with marshmallow cream and chocolate sauce
+    - name: Caramel Ice Cream Sundae
+      desc: With salted peanuts, sweet cookie and chocolate sauce
+
+
+- type: dinner
+  price: 25
+  other: For dinner, we will be offering a quartino of wine in the price, or a beverage for those who do not drink alcohol
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Fonduta Classico
+      desc: A rich pecorino cheese sauce with shaved speck and herbed bread crisps (can be made vegetarian)
+    - name: Prosciutto Pillows
+      desc: Herbed goat cheese wrapped in prosciutto ham and baked with a roasted red pepper sauce and served with crostini
+    - name: Venetian Salad
+      desc: Sun-dried tomatoes, artichokes and kalamata olives in a buttery pastry served on mixed greens with a balsamic drizzle
+
+  - name: Entree
+    choices:
+    - name: Winter Squash Crespelle 
+      desc: Herb roasted winter squash stuffed savory crepes baked in a rich truffle cream sauce baked with rosemary-walnut bread crumbs
+    - name: Chicken Cacciatore
+      desc: Classic Italian dish of braised chicken with peppers, onion, potatoes, salami and tomatoes served with pasta
+    - name: Spaghetti Pie
+      desc: Mama Luigi&#39;s famous meatballs baked with spaghetti, herbed ricotta and mozzarella cheese until bubbly and delicious
+
+  - name: Dessert
+    choices:
+    - name: Butterscotch budino with salted caramel sauce
+    - name: Smores Pizza
+      desc: Graham cracker crust with marshmallow cream and chocolate suace
+    - name: Caramel Ice Cream Sundae
+      desc: With salted peanuts, sweet cookie and chocolate sauce

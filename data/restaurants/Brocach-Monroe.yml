@@ -1,0 +1,70 @@
+name: Brocach (Monroe St)
+address: 1843 Monroe Street, Madison, 53711
+phone: 608.819.8653
+hours: Mon-Wed 11a-11pm, Thurs/Fri 11a-12a, Sat 10a-1a, Sun 9am-close
+lat: 43.064911
+lng: -89.41695779999999
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: appetizer
+    choices:
+    - name: Roasted Garlic &amp; Cambozola Flatbread
+      desc: Cambozola Cheese, Roasted Garlic Puree, Sweet Curried Chutney, Naan Flatbread
+    - name: Fire Roasted Prince Edward Island Mussels
+      desc: Beurre fondue, garlicky sourdough toast
+    - name: Duck Fat Fried Fingerling Potatoes
+      desc: Bacon, shallot, habanero aioli
+
+  - name: entree
+    choices:
+    - name: Soup and 1/2 Sandwich
+      desc: Cup of rustic fagioli or potato leek soup &amp; 1/2 Reuben or 1/2 Rachel sandwich
+    - name: Seared Salmon Fillet
+      desc: Fingerling potatoes, garlic spinach, beurre rouge
+    - name: Guinness Stout Burger
+      desc: Pretzel bun, rashers, grilled red onion & blue cheese, Seasoned chips or mized green salad
+
+  - name: dessert
+    choices:
+    - name: Whiskey Pecan Bread Pudding
+      desc: Vanilla ice cream, house-made caramel sauce
+    - name: Turtle Sundae
+      desc: Vanilla ice cream, candied pecans, house-made caramel &amp; chocolate sauce, shortbread cookies
+    - name: Warm Gingerbread
+      desc: Lightly sweetened cream, candied lemon peel
+
+
+- type: dinner
+  price: 25
+
+  courses:
+  - name: appetizer
+    choices:
+    - name: Roasted Garlic &amp; Cambozola Flatbread
+      desc: Cambozola cheese, roasted garlic puree, sweet curried chutney, naan flatbread
+    - name: Fire Roasted Prince Edward Island Mussels
+      desc: Beurre fondue, garlicky sourdough toast
+    - name: Duck Fat Fried Fingerling Potatoes
+      desc: Bacon, shallot, habanero aioli
+
+  - name: entree
+    choices:
+    - name: Braised Lamb Shank
+      desc: Champ potatoes, root vegetables, rosemary jus
+    - name: Roasted Half Chicken
+      desc: Pancetta, rosemary, new potatoes
+    - name: Lake Superior Whitefish
+      desc: Steamed spinach, beurre blanc, pine nuts
+
+  - name: dessert
+    choices:
+    - name: Whiskey Pecan Bread Pudding
+      desc: Vanilla ice cream, house-made caramel sauce
+    - name: Turtle Sundae
+      desc: Vanilla ice cream, candied pecans, house-made caramel &amp; chocolate sauce, shortbread cookies
+    - name: Warm Gingerbread
+      desc: Lightly sweetened cream, candied lemon peel

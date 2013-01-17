@@ -1,0 +1,34 @@
+name: Mariner's Inn
+address: 5339 Lighthouse Bay Drive, Madison 53704
+phone: 608.246.3120
+hours: Sun-Thurs 4:30p-10p, Fri 4:30p-11p
+lat: 43.1487989
+lng: -89.406993
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Chef&#39;s Favorite Salad
+      desc: Mixed greens with candied pecans, dried cherries, and blue cheese; then lightly dressed with maple balsamic
+    - name: Shrimp Cocktail
+      desc: A simple, elegant classic served with house-made cocktail sauce and lemon
+    - name: World Famous Clam Chowder
+
+  - name: Entree
+    choices:
+    - name: Classic Surf &amp; Turf (bumps price to $30)
+      desc: A 7 oz. center cut Top Sirloin steak paired with a succulent 6 oz. Lobster Tail (Turf only- 12 oz. New York Strip Steak)
+    - name: Mariner&rsquo;s Shrimp
+      desc: Six of those famous deep fried Mariner&rsquo;s Jumbo Shrimp that you just can&rsquo;t find anywhere else!  Simple, classic and memorable.
+    - name: Admiral&rsquo;s Salmon
+      desc: Fresh Salmon Filet stuffed with shrimp, crabmeat, and fresh vegetables then baked to perfection and glazed with a lobster cream sauce (Broiled Salmon Filet without shellfish is available upon request)
+
+  - name: Dessert
+    choices:
+    - name: Betty&rsquo;s Cheesecake with Door County Cherries
+    - name: Key Lime Pie
+    - name: Chocolate Decadence Cake

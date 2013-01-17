@@ -1,0 +1,52 @@
+name: Francesca's al Lago
+address: 111 Martin Luther Blvd., Madison 53703
+phone: 608.255.6000
+hours: Sun-Fri 11a-9p
+lat: 43.0736445
+lng: -89.38277250000002
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Anti-pasto
+    choices:
+    - name: Bruschette romana (1 piece) and choice of zuppa d&#39;giorno
+
+  - name: Entree
+    choices:
+    - name: Any salad entree, Pasta, Panino or Pollio D&#39;Giorno from our lunch menu
+
+  - name: Dolci
+    choices:
+    - name: Tiramisu
+    - name: Profiterole
+
+
+- type: dinner
+  price: 25
+
+  courses:
+  - name: insalata
+    choices:
+    - name: Caprese
+      desc: Sliced tomatoes, fresh mozzarella, olive oil and basil
+    - name: Francesca Salad
+      desc: Romaine, radicchio, endive, carrots, cucumber, tomatoes, arugula and red wine vinaigrette
+    - name: Zuppa del Giorno
+      desc: Chef&#39;s soup of the day
+
+  - name: Entree
+    choices:
+    - name: Ravioli ai Spinaci
+      desc: Spinach filled ravioli with a four cheese sauce, spinach and a tomato sauce
+    - name: Pollo al Limone
+      desc: Chicken breast with a lemon white wine sauce and capers and fresh saut&eacute;ed spinach
+    - name: Pesco ai Funghi
+      desc: Roasted tilapia with wild mushrooms, spinich, tomatoes and herbs
+
+  - name: Dolci
+    choices:
+    - name: Tiramisu
+    - name: Profiterole

@@ -1,0 +1,69 @@
+name: Biaggi's
+address: 601 Junction Road, Madison, 53717
+phone: 608.664.9288
+hours: Sun 11a-9p, Mon-Thurs 11a-9:30p, Fri &amp; Sat 11a-10:30p
+lat: 43.07323710000001
+lng: -89.5249841999999
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: appetizer
+    choices:
+    - name: Roman Style Goat Cheese Polenta
+      desc: Polenta folded with sweet creamy goat cheese, fresh herbs and garlic presented with marinara sauce
+    - name: Lobster Corn Chowder
+      desc: Lobster, crab, corn and aromatic vegetables in a rich shellfish cream
+    - name: Spinach with Honey Orange Vinaigrette
+      desc: Fresh spinach greens tossed with Mandarin oranges, English peas, thin slice fennel and parmesan cheese in a honey orange vinaigrette
+
+  - name: entree
+    choices:
+    - name: Parmesan Chicken with Fresh Tomato Basil Capellini
+      desc: Crispy fried parmesan chicken breast served with Capellini pasta tossed in a fresh tomato basil sauce
+    - name: Spaghetti Aglio e Olio
+      desc: Spaghetti pasta topped in lightly spiced garlic and fresh herb olive oil with baby shrimp
+    - name: Chicken and White Bean Pizza
+      desc: Grilled chicken, white beans, pancetta and lemon baked on our signature thin crust with mozzarella, provolone and parmesan cheeses
+
+  - name: dessert
+    choices:
+    - name: Tira Misu
+      desc: Classic chocolate espresso dessert
+    - name: Vanilla Almond Soda Float
+      desc: Almond soda with vanilla gelato
+    - name: Tart Apple Gillette
+      desc: Granny smith apple tart with vanilla whipped cream
+
+- type: dinner
+  price: 25
+
+  courses:
+  - name: appetizer
+    choices:
+    - name: Roman Style Goat Cheese Polenta
+      desc: Polenta folded with sweet creamy goat cheese, fresh herbs and garlic presented with marinara sauce
+    - name: Lobster Corn Chowder
+      desc: Lobster, crab, corn and aromatic vegetables in a rich shellfish cream
+    - name: Spinach with Honey Orange Vinaigrette
+      desc: Fresh spinach greens tossed with Mandarin oranges, English peas, thin slice fennel and parmesan cheese in a honey orange vinaigrette
+
+  - name: entree
+    choices:
+    - name: Parmesan Chicken with Fresh Tomato Basil Capellini
+      desc: Crispy fried parmesan chicken breast served with Capellini pasta tossed in a fresh tomato basil sauce
+    - name: Spaghetti Aglio e Olio
+      desc: Spaghetti pasta topped in lightly spiced garlic and fresh herb olive oil with baby shrimp
+    - name: Pork Shank Osso Bucco with White Bean Ragu
+      desc: Mini pork shank braised till tender and served with a white bean ragu of aromatic vegetables, pancetta and fresh herbs
+
+  - name: dessert
+    choices:
+    - name: Tira Misuo
+      desc: Classic chocolate espresso dessert.
+    - name: Vanilla Almond Soda Float
+      desc: Almond soda with vanilla gelato
+    - name: Tart Apple Gillette
+      desc: Granny smith apple tart with vanilla whipped cream
