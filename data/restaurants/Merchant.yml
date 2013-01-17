@@ -8,8 +8,86 @@ lng: -89.3808622
 meals:
 - type: lunch
   price: 15
-  courses: []
+  courses:
+  - name: Soup or Salad
+    choices:
+    - name: "Today's Chili"
+    - name: Vegetable Soup of the Day
+    - name: Buttermilk Salads
+    - name: Sunchoke &amp; Escaroles
+    - name: Warm Spinach &amp; Roasted Onion
+    - name: Endive &amp; Apple
+    - name: Classic Caesar
+    - name: Lemon &amp; Arugula
+    - name: Mixed Greens &amp; Beets
+
+  - name: Entr&eacute;e
+    choices:
+    - name: Merchant Pho
+    - name: Chicken Pot Pie
+    - name: Chilled Meatloaf Sandwich
+    - name: Fried Chicken Sandwich
+    - name: Cubano Sandwich
+    - name: Muffaletta
+    - name: Veggie Muffaletta
+    - name: Pork Belly Banh Mi
+    - name: "Shrimp Po'Boy"
+    - name: Sausage of the Day
+    - name: Sunrise Sandwich
+    - name: Grilled Ham &amp; Brie
+    - name: Grilled Mushroom &amp; Leek
+    - name: Merchant Club
+    - name: Merchant Burger
+    - name: Classic Burger
+
+  - name: Sweets
+    choices:
+    - name: Dark Chocolate Custard
+    - name: Chocolate &amp; Fruit
+    - name: Daily Gelato
+    - name: Apple Cobbler
 
 - type: dinner
   price: 30
-  courses: []
+
+  courses:
+  - name: Small Plate
+    choices:
+    - name: Soup of the Day
+    - name: Fried Sassy Cow Cheese Curds
+    - name: Roasted Maple Garlic Toast
+    - name: Patatas Bravas
+    - name: Pommes Frites
+    - name: Chicharrones
+    - name: Parmesean &amp; Almonds
+    - name: Steamed Mussels
+    - name: Roasted Beets
+    - name: Buttermilk Salad
+    - name: Arugula Salad
+    - name: Escarole Salad
+    - name: Cured Meats Board
+    - name: Local Cheeses Board
+    - name: Beef Tartare
+    - name: House-Pulled Burrata
+
+  - name: Entr&eacute;e
+    choices:
+    - name: Local Apple Panini
+    - name: Brat Sliders
+    - name: Foie Gras Burger
+    - name: The Merchant Burger
+    - name: Classic Burger
+    - name: Autumn Fregola
+    - name: Pappardelle with Pork Ragu
+    - name: Tallegio Rigatoni
+    - name: Red Wine Hanger Steak
+    - name: Wild Alaskan Salmon
+    - name: Chicken Under a Brick
+    - name: Berkshire Pork Shank
+
+  - name: Sweets
+    choices:
+    - name: Dark Chocolate Custard
+    - name: Chocolate &amp; Fruit
+    - name: Daily Gelato
+    - name: Apple Cobbler
