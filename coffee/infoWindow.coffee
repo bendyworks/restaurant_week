@@ -23,5 +23,6 @@
       obj = opts.obj
       $$.find('a.tab').on 'click', handleTabClick
       $$.find('.tab-content:first').addClass('open')
+      $$
 
 )(Zepto)

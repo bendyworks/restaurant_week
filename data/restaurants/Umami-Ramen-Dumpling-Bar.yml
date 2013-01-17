@@ -27,8 +27,6 @@ meals:
       desc: soy chicken broth w/fresh ramen noodles topped with egg, braised pork, corn, marinated bamboo, nori &amp; green onions
     - name: Veggie Ramen
       desc: seaweed &amp; mushroom broth w/fresh ramen noodles topped with shitake, smoked tofu, marinated bamboo, nori &amp; bean sprouts
-    - name: Vegan Ramen
-      desc: seaweed &amp; mushroom broth w/ vermicelli noodles topped with shitake, smoked tofu, marinated bamboo, nori &amp; bean sprouts
 
   - name: Dessert
     choices:
