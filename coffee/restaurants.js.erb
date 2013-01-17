@@ -1,0 +1,4 @@
+<%=
+  require File.expand_path('../../../models/restaurant', __FILE__)
+  "window.restaurants = #{Restaurant.all.to_json};"
+%>
