@@ -476,6 +476,14 @@ table {
 
   #footer {
     background: rgba(50, 50, 50, 0.5);
-    height: 40px; }
-    #footer img {
-      display: none; } }
+    height: 50px; }
+    #footer .content img {
+      display: none; }
+    #footer .content p.magazine, #footer .content p.sponsors, #footer .content a {
+      margin: 4px 5px;
+      font-size: 13px;
+      width: 130px; }
+    #footer .content .sponsors a.madeofmadison:before {
+      content: "Made of Madison"; }
+    #footer .content .sponsors a.bendyworks:before {
+      content: "Bendyworks"; } }

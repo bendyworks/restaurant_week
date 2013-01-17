@@ -202,9 +202,22 @@ $footer-height: 85px;
 
   #footer {
     background: rgba(50, 50, 50, .5);
-    height: 40px;
-    img {
-      display: none;
+    height: 50px;
+    .content {
+      img {
+        display: none;
+      }
+      p.magazine, p.sponsors, a{
+        margin: 4px 5px;
+        font-size: 13px;
+        width: 130px;
+      }
+      .sponsors a.madeofmadison:before {
+        content: "Made of Madison";
+      }
+      .sponsors a.bendyworks:before {
+        content: "Bendyworks";
+      }
     }
   }
 }
