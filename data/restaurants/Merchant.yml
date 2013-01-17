@@ -21,7 +21,7 @@ meals:
     - name: Lemon &amp; Arugula
     - name: Mixed Greens &amp; Beets
 
-  - name: Entr&eacute;e
+  - name: Entree
     choices:
     - name: Merchant Pho
     - name: Chicken Pot Pie
@@ -70,7 +70,7 @@ meals:
     - name: Beef Tartare
     - name: House-Pulled Burrata
 
-  - name: Entr&eacute;e
+  - name: Entree
     choices:
     - name: Local Apple Panini
     - name: Brat Sliders

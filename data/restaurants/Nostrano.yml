@@ -19,7 +19,7 @@ meals:
     - name: Bleu Mont Cheese Salad
       desc: Winter Greens, Willi's Bandaged Cheddar, Pickled Pears, Cipollini Mostarda, Walnut Sourdough
 
-  - name: Entr&eacute;e
+  - name: Entree
     choices:
     - name: Grilled Zucchini Panini
       desc: Fontina, Piperade, Arugula, Multigrain Sourdough
@@ -50,7 +50,7 @@ meals:
     - name: Bleu Mont Cheese Salad
       desc: "Winter Greens, Willi's Bandaged Cheddar, Pickled Pears, Cipollini Mostarda, Walnut Sourdough"
 
-  - name: Entr&eacute;e
+  - name: Entree
     choices:
     - name: Snapper Brodetto
       desc: Mussels, Clams, Tomato Broth, Chile Oil

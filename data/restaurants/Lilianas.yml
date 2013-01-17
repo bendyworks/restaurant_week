@@ -104,7 +104,7 @@ meals:
   price: 35
 
   courses:
-  - name: appetizer
+  - name: Appetizer
     choices:
     - name: Salad Ni&ccedil;oise
       desc: With fingerling potatoes, heirloom tomatoes, sustainable black-fin tuna, haricot verts, hard-boiled eggs, onions and capers

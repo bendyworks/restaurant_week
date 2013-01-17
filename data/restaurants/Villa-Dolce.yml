@@ -20,9 +20,9 @@ meals:
     choices:
     - name: Beef Tenderloin and Sea Scallops (add $5)
       desc: Oven roasted with a mushroom demi glace, served with seasonal vegetables, and garlic mashed potatoes
-    - name: Wild King Salmon ~ $25
+    - name: Wild King Salmon
       desc: With crabmeat and steamed asparagus, served with lemon saffron hollandaise sauce and jasmine rice
-    - name: Gourmet 12&quot; Villa Dolce Pizza ~ $25
+    - name: Gourmet 12&quot; Villa Dolce Pizza
       desc: Choose from any of our gourmet pizzas
 
   - name: Dessert
