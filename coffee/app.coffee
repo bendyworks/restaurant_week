@@ -51,5 +51,6 @@ $ ->
         map: map()
         title: data.name
 
-      handler = if $(window).width() <= 568 then tapHandler else clickHandler
+      # handler = if $(window).width() <= 568 then tapHandler else clickHandler
+      handler = clickHandler
       google.maps.event.addListener marker, 'click', handler(marker, rest)

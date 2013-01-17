@@ -1637,7 +1637,7 @@ $(function() {
         map: map(),
         title: data.name
       });
-      handler = $(window).width() <= 568 ? tapHandler : clickHandler;
+      handler = clickHandler;
       return google.maps.event.addListener(marker, 'click', handler(marker, rest));
     })(rest));
   }
