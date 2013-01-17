@@ -59,14 +59,17 @@
     #container
       #map_canvas
     #footer
-      .sponsors
-        %p
+      .content
+        %p.magazine
+          Restaurant Week courtesy of:
+          %a{href: 'http://www.http://www.madisonmagazine.com'}
+            Madison Magazine
+        %p.sponsors
           Brought to you By:
-
-        %a{href: 'http://www.madeofmadison.com'}
-          %img{src: 'assets/madeofmadison.png'}
-        %a{href: 'http://www.bendyworks.com'}
-          %img{src: 'assets/bendyworks.png'}
+          %a{href: 'http://www.madeofmadison.com'}
+            %img{src: 'assets/madeofmadison.png'}
+          %a{href: 'http://www.bendyworks.com'}
+            %img{src: 'assets/bendyworks.png'}
 
     :javascript
       var _gauges = _gauges || [];

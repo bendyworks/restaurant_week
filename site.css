@@ -435,17 +435,36 @@ table {
   z-index: 2;
   background: rgba(50, 50, 50, 0.5);
   max-height: 85px; }
-  #footer img {
-    float: right;
-    margin: 0px 5px; }
-  #footer p {
-    text-align: right;
-    color: white;
-    margin: 5px 20px 0 0;
-    font-size: 75%;
-    text-transform: uppercase;
-    clear: both;
-    font-family: "HammersmithOneRegular", sans serif; }
+  #footer .content {
+    width: 100%;
+    overflow: auto;
+    display: block; }
+    #footer .content a {
+      text-decoration: none;
+      color: white;
+      font-size: 18px;
+      margin: 10px 0;
+      text-transform: uppercase; }
+      #footer .content a:hover {
+        color: #FFCC66; }
+      #footer .content a img {
+        float: right;
+        margin: 0px 5px; }
+    #footer .content p {
+      color: white;
+      font-size: 75%;
+      font-family: "HammersmithOneRegular", sans serif; }
+      #footer .content p.sponsors {
+        float: right;
+        margin: 5px 20px 0 0;
+        width: 150px;
+        text-align: center;
+        text-transform: uppercase; }
+      #footer .content p.magazine {
+        margin: 25px 0 0 20px;
+        float: left;
+        font-size: 14px;
+        width: 190px; }
 
 @media screen and (max-device-width: 480px) {
   .tabs {
@@ -458,8 +477,5 @@ table {
   #footer {
     background: rgba(50, 50, 50, 0.5);
     height: 40px; }
-    #footer p {
-      float: left;
-      margin: 5px; }
     #footer img {
       display: none; } }

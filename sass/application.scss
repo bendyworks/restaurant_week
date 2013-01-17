@@ -146,19 +146,44 @@ $footer-height: 85px;
   z-index: 2;
   background: rgba(50, 50, 50, .5);
   max-height: 85px;
-  img {
-    float: right;
-    margin: 0px 5px;
-  }
 
-  p {
-    text-align: right;
-    color: white;
-    margin: 5px 20px 0 0;
-    font-size: 75%;
-    text-transform: uppercase;
-    clear: both;
-    font-family: 'HammersmithOneRegular', sans serif;
+  .content {
+    width: 100%;
+    overflow:auto;
+    display: block;
+    a {
+      text-decoration: none;
+      color: white;
+      font-size: 18px;
+      margin: 10px 0;
+      text-transform: uppercase;
+      &:hover {
+        color: #FFCC66;
+
+      }
+      img {
+        float: right;
+        margin: 0px 5px;
+      }
+    }
+    p {
+      color: white;
+      font-size: 75%;
+      font-family: 'HammersmithOneRegular', sans serif;
+      &.sponsors {
+        float: right;
+        margin: 5px 20px 0 0;
+        width: 150px;
+        text-align: center;
+        text-transform: uppercase;
+      }
+      &.magazine {
+        margin: 25px 0 0 20px;
+        float: left;
+        font-size: 14px;
+        width: 190px;
+      }
+    }
   }
 }
 
@@ -174,16 +199,10 @@ $footer-height: 85px;
     }
   }
 
-  .course {
-  }
 
   #footer {
     background: rgba(50, 50, 50, .5);
     height: 40px;
-    p {
-      float: left;
-      margin: 5px;
-    }
     img {
       display: none;
     }
