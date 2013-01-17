@@ -481,8 +481,14 @@ table {
     color: #3d3d5c;
     text-align: center;
     display: block; }
+    #mobile_overlay a.close:active {
+      background-color: #3d3d5c;
+      color: #FFF; }
 
-@media screen and (max-device-width: 568px) {
+@media screen and (max-width: 320px) {
+  .info ul.choices li {
+    width: 100%; } }
+@media screen and (max-width: 568px) {
   .tabs {
     font-size: 10px; }
     .tabs ul li {
