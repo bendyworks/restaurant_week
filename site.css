@@ -409,6 +409,8 @@ table {
     float: left;
     margin: 0 5px 10px 0;
     text-align: left; }
+    .info .choices li:nth-child(3n+1) {
+      clear: both; }
     .info .choices li h4 {
       margin: 0 2px;
       color: #520029; }

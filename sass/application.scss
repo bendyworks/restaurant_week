@@ -110,6 +110,9 @@
     float: left;
     margin: 0 5px 10px 0;
     text-align: left;
+    &:nth-child(3n+1) {
+      clear: both;
+    }
     h4 {
       margin: 0 2px;
       color: #520029;

@@ -1557,6 +1557,7 @@ window.restaurants = [{"basename":"43-North","data":{"name":"43 North","address"
       obj = opts.obj;
       $$.find('a.tab').on('click', handleTabClick);
       $$.find('.tab-content:first').addClass('open');
+      $$.parent().css('overflow-y', 'scroll');
       return $$;
     }
   });

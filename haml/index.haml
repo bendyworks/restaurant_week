@@ -40,17 +40,16 @@
               %h3 {{=c.name}}
               %ul.choices
                 {{~ c.choices :p }}
-                .choice
-                  %li
-                    %h4 {{=p.name}}
+                %li.choice
+                  %h4 {{=p.name}}
 
-                    {{?p.desc}}
-                    %p {{=p.desc}}
-                    {{?}}
+                  {{?p.desc}}
+                  %p {{=p.desc}}
+                  {{?}}
 
-                    {{?p.other}}
-                    %aside {{=p.other}}
-                    {{?}}
+                  {{?p.other}}
+                  %aside {{=p.other}}
+                  {{?}}
                 {{~}}
               .clearfix
             {{~}}

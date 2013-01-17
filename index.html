@@ -44,17 +44,15 @@
               <h3>{{=c.name}}</h3>
               <ul class='choices'>
                 {{~ c.choices :p }}
-                <div class='choice'>
-                  <li>
-                    <h4>{{=p.name}}</h4>
-                    {{?p.desc}}
-                    <p>{{=p.desc}}</p>
-                    {{?}}
-                    {{?p.other}}
-                    <aside>{{=p.other}}</aside>
-                    {{?}}
-                  </li>
-                </div>
+                <li class='choice'>
+                  <h4>{{=p.name}}</h4>
+                  {{?p.desc}}
+                  <p>{{=p.desc}}</p>
+                  {{?}}
+                  {{?p.other}}
+                  <aside>{{=p.other}}</aside>
+                  {{?}}
+                </li>
                 {{~}}
               </ul>
               <div class='clearfix'></div>
