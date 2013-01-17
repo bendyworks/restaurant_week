@@ -50,6 +50,20 @@ namespace :compile do
     end
   end
 
+  file 'js/zepto.js' => 'vendor/zepto/dist/zepto.js' do
+    FileUtils.cp('vendor/zepto/dist/zepto.js', 'js/zepto.js')
+  end
+
+  namespace :zepto do
+    file 'vendor/zepto/dist/zepto.js' => 'vendor/zepto/.git' do
+      sh 'cd vendor/zepto; rake concat[-ajax:-form:selector:touch]'
+    end
+
+    file 'vendor/zepto/.git' do
+      sh 'cd vendor; git clone git://github.com/madrobby/zepto'
+    end
+  end
+
   JS_FILES.zip(COFFEE_FILES).each do |target, source|
     file target => ['tmp/js', source] do
       sh "coffee -b -p -c #{source} > #{target}"
