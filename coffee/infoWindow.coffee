@@ -1,10 +1,16 @@
 (($) ->
   handleTabClick = (e) ->
     e.preventDefault()
-    $$ = $(@)
-    tabContents = $$.parents('.info').find('.tab-content')
+    activateTab($(@))
 
-    href = $$.attr('href').substring(1)
+  activateTab = ($tab) ->
+    $parentLi = $tab.parent()
+    $parentLi.addClass('active')
+    $parentLi.parent().find('> li').not($parentLi).removeClass('active')
+
+    tabContents = $tab.parents('.info').find('.tab-content')
+
+    href = $tab.attr('href').substring(1)
     tabContents.each (idx, el) ->
       $el = $(el)
       if $el.attr('id') == href
@@ -22,7 +28,7 @@
 
       obj = opts.obj
       $$.find('a.tab').on 'click', handleTabClick
-      $$.find('.tab-content:first').addClass('open')
+      activateTab($$.find('a.tab:first'))
       $$.parent().css('overflow-y', 'scroll')
       $$
 

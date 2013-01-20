@@ -381,7 +381,9 @@ table {
         border-top-right-radius: 6px;
         background-color: #B2D1F0; }
         .info .tabs ul li.active {
-          background-color: #B2D1F0; }
+          background-color: #3d3d5c; }
+          .info .tabs ul li.active a {
+            color: white; }
         .info .tabs ul li a {
           text-decoration: none;
           text-transform: uppercase;
