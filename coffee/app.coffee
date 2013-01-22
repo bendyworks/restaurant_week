@@ -60,15 +60,30 @@ $ ->
   for rest in restaurants
     do (rest) ->
       data = rest['data']
-      markerOpts = if hasLunch(data)
-        icon: 'https://www.google.com/intl/en_us/mapfiles/ms/micons/yellow-dot.png'
-        shadow: 'https://www.google.com/mapfiles/shadow50.png'
+      marker = if hasLunch(data)
+        shadow =
+          url: 'https://www.google.com/mapfiles/shadow50.png'
+          size: new google.maps.Size(59,32)
+          origin: new google.maps.Point(0,0)
+          anchor: new google.maps.Point(12,32)
+
+        pin =
+          url: 'https://www.google.com/intl/en_us/mapfiles/ms/micons/yellow-dot.png',
+          size: new google.maps.Size(32,32)
+          origin: new google.maps.Point(0,0)
+          anchor: new google.maps.Point(16,32)
+
+        new google.maps.Marker
+          position: new google.maps.LatLng(data.lat, data.lng)
+          map: map()
+          title: data.name
+          icon: pin
+          shadow: shadow
       else
-        {}
-      markerOpts.position = new google.maps.LatLng(data.lat, data.lng)
-      markerOpts.map = map()
-      markerOpts.title = data.name
-      marker = new google.maps.Marker markerOpts
+        new google.maps.Marker
+          position: new google.maps.LatLng(data.lat, data.lng)
+          map: map()
+          title: data.name
 
       handler = if $(window).width() <= 568 then tapHandler else clickHandler
       google.maps.event.addListener marker, 'click', handler(marker, rest)

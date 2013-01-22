@@ -1656,16 +1656,29 @@ $(function() {
   for (_i = 0, _len = restaurants.length; _i < _len; _i++) {
     rest = restaurants[_i];
     _results.push((function(rest) {
-      var data, handler, marker, markerOpts;
+      var data, handler, marker, pin, shadow;
       data = rest['data'];
-      markerOpts = hasLunch(data) ? {
-        icon: 'https://www.google.com/intl/en_us/mapfiles/ms/micons/yellow-dot.png',
-        shadow: 'https://www.google.com/mapfiles/shadow50.png'
-      } : {};
-      markerOpts.position = new google.maps.LatLng(data.lat, data.lng);
-      markerOpts.map = map();
-      markerOpts.title = data.name;
-      marker = new google.maps.Marker(markerOpts);
+      marker = hasLunch(data) ? (shadow = {
+        url: 'https://www.google.com/mapfiles/shadow50.png',
+        size: new google.maps.Size(59, 32),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(12, 32)
+      }, pin = {
+        url: 'https://www.google.com/intl/en_us/mapfiles/ms/micons/yellow-dot.png',
+        size: new google.maps.Size(32, 32),
+        origin: new google.maps.Point(0, 0),
+        anchor: new google.maps.Point(16, 32)
+      }, new google.maps.Marker({
+        position: new google.maps.LatLng(data.lat, data.lng),
+        map: map(),
+        title: data.name,
+        icon: pin,
+        shadow: shadow
+      })) : new google.maps.Marker({
+        position: new google.maps.LatLng(data.lat, data.lng),
+        map: map(),
+        title: data.name
+      });
       handler = $(window).width() <= 568 ? tapHandler : clickHandler;
       return google.maps.event.addListener(marker, 'click', handler(marker, rest));
     })(rest));
