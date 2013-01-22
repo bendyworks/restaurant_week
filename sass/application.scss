@@ -1,6 +1,10 @@
 @import 'normalize';
 @import 'fonts';
 
+.right {
+  float: right;
+}
+
 .info {
   font-size: 12px;
   ul {
@@ -153,42 +157,51 @@ $footer-height: 85px;
   background: rgba(50, 50, 50, .5);
   max-height: 85px;
 
-  .content {
-    width: 100%;
-    overflow:auto;
-    display: block;
-    a {
-      text-decoration: none;
-      color: white;
-      font-size: 18px;
-      margin: 10px 0;
-      text-transform: uppercase;
-      &:hover {
-        color: #FFCC66;
-
-      }
-      img {
-        float: right;
-        margin: 0px 5px;
-      }
+  a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin: 10px 0;
+    text-transform: uppercase;
+    &:hover {
+      color: #FFCC66;
     }
+  }
+
+  p {
+    color: white;
+    font-size: 75%;
+    font-family: 'HammersmithOneRegular', sans serif;
+  }
+
+  .magazine {
+    margin: 25px 0 0 20px;
+    float: left;
+    font-size: 14px;
+    width: 190px;
+  }
+
+  .brought_to_you {
+    float: right;
+    text-align: right;
+    padding-right: 20px;
+
     p {
-      color: white;
-      font-size: 75%;
-      font-family: 'HammersmithOneRegular', sans serif;
-      &.sponsors {
-        float: right;
-        margin: 5px 20px 0 0;
-        width: 150px;
-        text-align: center;
-        text-transform: uppercase;
-      }
-      &.magazine {
-        margin: 25px 0 0 20px;
-        float: left;
-        font-size: 14px;
-        width: 190px;
-      }
+      margin: 0 78px 0 0;
+      line-height: 28px;
+      text-transform: uppercase;
+    }
+
+    .sponsors {
+      margin-right: 10px;
+    }
+
+    .see_also {
+      margin-top: -12px;
+    }
+
+    > div {
+      float: left;
     }
   }
 }
@@ -236,23 +249,52 @@ $footer-height: 85px;
 
 
   #footer {
-    background: rgba(50, 50, 50, .5);
     height: 50px;
-    .content {
-      img {
-        display: none;
+    img {
+      display: none;
+    }
+
+    .magazine, .brought_to_you {
+      padding: 4px 5px;
+      margin: 0;
+      width: 150px;
+      &, p { line-height: 14px; }
+    }
+
+    .magazine {
+      &, a { font-size: 13px; }
+      a {
+        display: block;
+        margin: 0;
       }
-      p.magazine, p.sponsors, a{
-        margin: 4px 5px;
+    }
+
+    .brought_to_you {
+      > div {
+        float: right;
+      }
+
+      p {
+        margin-right: 0;
         font-size: 13px;
-        width: 130px;
+        text-transform: none;
       }
-      .sponsors a.madeofmadison:before {
-        content: "Made of Madison";
+
+      .sponsors, .see_also {
+        margin: 0;
+        a {
+          font-size: 13px;
+        }
       }
-      .sponsors a.bendyworks:before {
-        content: "Bendyworks";
-      }
+    }
+
+    .see_also a.madeofmadison:before {
+      font-family: 'HammersmithOneRegular', sans serif;
+      content: "Made of Madison";
+    }
+    .sponsors a.bendyworks:before {
+      font-family: 'HammersmithOneRegular', sans serif;
+      content: "Bendyworks";
     }
   }
 }

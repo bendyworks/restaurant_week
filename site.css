@@ -333,6 +333,9 @@ table {
   font-weight: normal;
   font-style: normal; }
 
+.right {
+  float: right; }
+
 .info {
   font-size: 12px; }
   .info ul {
@@ -439,36 +442,37 @@ table {
   z-index: 2;
   background: rgba(50, 50, 50, 0.5);
   max-height: 85px; }
-  #footer .content {
-    width: 100%;
-    overflow: auto;
-    display: block; }
-    #footer .content a {
-      text-decoration: none;
-      color: white;
-      font-size: 18px;
-      margin: 10px 0;
+  #footer a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin: 10px 0;
+    text-transform: uppercase; }
+    #footer a:hover {
+      color: #FFCC66; }
+  #footer p {
+    color: white;
+    font-size: 75%;
+    font-family: "HammersmithOneRegular", sans serif; }
+  #footer .magazine {
+    margin: 25px 0 0 20px;
+    float: left;
+    font-size: 14px;
+    width: 190px; }
+  #footer .brought_to_you {
+    float: right;
+    text-align: right;
+    padding-right: 20px; }
+    #footer .brought_to_you p {
+      margin: 0 78px 0 0;
+      line-height: 28px;
       text-transform: uppercase; }
-      #footer .content a:hover {
-        color: #FFCC66; }
-      #footer .content a img {
-        float: right;
-        margin: 0px 5px; }
-    #footer .content p {
-      color: white;
-      font-size: 75%;
-      font-family: "HammersmithOneRegular", sans serif; }
-      #footer .content p.sponsors {
-        float: right;
-        margin: 5px 20px 0 0;
-        width: 150px;
-        text-align: center;
-        text-transform: uppercase; }
-      #footer .content p.magazine {
-        margin: 25px 0 0 20px;
-        float: left;
-        font-size: 14px;
-        width: 190px; }
+    #footer .brought_to_you .sponsors {
+      margin-right: 10px; }
+    #footer .brought_to_you .see_also {
+      margin-top: -12px; }
+    #footer .brought_to_you > div {
+      float: left; }
 
 #mobile_overlay {
   display: none;
@@ -499,15 +503,33 @@ table {
       text-align: left; }
 
   #footer {
-    background: rgba(50, 50, 50, 0.5);
     height: 50px; }
-    #footer .content img {
+    #footer img {
       display: none; }
-    #footer .content p.magazine, #footer .content p.sponsors, #footer .content a {
-      margin: 4px 5px;
+    #footer .magazine, #footer .brought_to_you {
+      padding: 4px 5px;
+      margin: 0;
+      width: 150px; }
+      #footer .magazine, #footer .magazine p, #footer .brought_to_you, #footer .brought_to_you p {
+        line-height: 14px; }
+    #footer .magazine, #footer .magazine a {
+      font-size: 13px; }
+    #footer .magazine a {
+      display: block;
+      margin: 0; }
+    #footer .brought_to_you > div {
+      float: right; }
+    #footer .brought_to_you p {
+      margin-right: 0;
       font-size: 13px;
-      width: 130px; }
-    #footer .content .sponsors a.madeofmadison:before {
+      text-transform: none; }
+    #footer .brought_to_you .sponsors, #footer .brought_to_you .see_also {
+      margin: 0; }
+      #footer .brought_to_you .sponsors a, #footer .brought_to_you .see_also a {
+        font-size: 13px; }
+    #footer .see_also a.madeofmadison:before {
+      font-family: "HammersmithOneRegular", sans serif;
       content: "Made of Madison"; }
-    #footer .content .sponsors a.bendyworks:before {
+    #footer .sponsors a.bendyworks:before {
+      font-family: "HammersmithOneRegular", sans serif;
       content: "Bendyworks"; } }
