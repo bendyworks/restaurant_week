@@ -52,15 +52,23 @@ tapHandler = (marker, rest) ->
 
       overlay.show()
 
+hasLunch = (data) ->
+  $.grep(data.meals, (meal) -> meal.type == 'lunch').length > 0
+
 $ ->
 
   for rest in restaurants
     do (rest) ->
       data = rest['data']
-      marker = new google.maps.Marker
-        position: new google.maps.LatLng(data.lat, data.lng)
-        map: map()
-        title: data.name
+      markerOpts = if hasLunch(data)
+        icon: 'https://www.google.com/intl/en_us/mapfiles/ms/micons/yellow-dot.png'
+        shadow: 'https://www.google.com/mapfiles/shadow50.png'
+      else
+        {}
+      markerOpts.position = new google.maps.LatLng(data.lat, data.lng)
+      markerOpts.map = map()
+      markerOpts.title = data.name
+      marker = new google.maps.Marker markerOpts
 
       handler = if $(window).width() <= 568 then tapHandler else clickHandler
       google.maps.event.addListener marker, 'click', handler(marker, rest)
