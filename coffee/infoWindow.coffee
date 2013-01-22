@@ -32,4 +32,4 @@
       $$.parent().css('overflow-y', 'scroll')
       $$
 
-)(Zepto)
+)(jQuery)

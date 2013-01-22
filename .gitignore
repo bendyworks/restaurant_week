@@ -1,3 +1,4 @@
 .sass-cache
 tmp
 vendor/zepto/
+.DS_Store

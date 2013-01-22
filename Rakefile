@@ -10,7 +10,7 @@ COFFEE_FILES = FileList['coffee/*.coffee']
 JS_FILES = COFFEE_FILES.pathmap('tmp/js/%n.js')
 
 ALL_JS = %w(js/strict.js
-            js/zepto.js
+            js/jquery.js
             js/doT.js
             js/restaurants.js
             tmp/js/infoWindow.js
@@ -50,18 +50,8 @@ namespace :compile do
     end
   end
 
-  file 'js/zepto.js' => 'vendor/zepto/dist/zepto.js' do
-    FileUtils.cp('vendor/zepto/dist/zepto.js', 'js/zepto.js')
-  end
-
-  namespace :zepto do
-    file 'vendor/zepto/dist/zepto.js' => 'vendor/zepto/.git' do
-      sh 'cd vendor/zepto; rake concat[-ajax:-form:selector:touch]'
-    end
-
-    file 'vendor/zepto/.git' do
-      sh 'cd vendor; git clone git://github.com/madrobby/zepto'
-    end
+  file 'js/jquery.js' => 'vendor/jquery.js' do
+    FileUtils.cp('vendor/jquery.js', 'js/jquery.js')
   end
 
   JS_FILES.zip(COFFEE_FILES).each do |target, source|

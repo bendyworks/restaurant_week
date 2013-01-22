@@ -25,7 +25,7 @@ map = memoized ->
 clickHandler = (marker, rest) ->
   (event) ->
     do (info = infoWindow()) ->
-      template = tmpl()(rest)
+      template = $.trim tmpl()(rest)
       content = $(template).infoWindow({obj: info})[0]
 
       info.setContent(content)
