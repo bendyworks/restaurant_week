@@ -12,8 +12,8 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Caesar Salad
-      desc: Romaine, homemade Caesar dressing, garlic croutons, Parmesan cheese
+    - name: Bada Bang Shrimp
+      desc: Three jumbo shrimp tossed in a sauce that screams...Sweet and Sassy
     - name: Betta Bruschetta
       desc: Grilled Facaccia bread, Roma tomatoes, goat cheese, onions, olive oil and basil (What makes it Betta is the goat cheese)
     - name: Supper Club Spinach Salad
@@ -21,12 +21,12 @@ meals:
 
   - name: Entree
     choices:
-    - name: Chef Andy&#39;s Homemade Cavatappi
-      desc: Spicy Italian sausage, portabella mushrooms, cavatoppi pasta, spicy tomato cream sauce
-    - name: Chicken DeBurgo
-      desc: Tender scalloppine of chicken breast, saut&eacute;ed with an herbaceous cream sauce
-    - name: Grilled Cheese with Tomato Bisque
-      desc: Grilled sourdough filled with Wisconsin cheddar and Swiss cheese, served with homemade tomato bisque
+    - name: Chicken Parmigiano
+      desc: Parmesan breaded chicken breast, marinara, mozzarella, served with pasta marinara
+    - name: Johnny's Oven Stuffed Meatloaf
+      desc: Homemade meatloaf stuffed with ricotta cheese, spinach, chopped mushrooms, served with rosemary gravy, garlic mashed potatoes
+    - name: Four Cheese Ravioli
+      desc: Ravioli, basil pesto, parmesan, fresh basil
 
   - name: Dessert
     choices:
@@ -39,26 +39,26 @@ meals:
 
 
 - type: dinner
-  price: 35
+  price: 30
 
   courses:
   - name: Appetizer
     choices:
-    - name: (Soon To Be Famous) Lobster Mac-n-Cheese
-      desc: Shell pasta baked in a rich cream with real lobster and crunchy bread crumb top
-    - name: Jumbo Lump Crab cake
-      desc: Served with homemade remoulade sauce
+    - name: Bada Bang Shrimp
+      desc: Three jumbo shrimp tossed in a sauce that screams...Sweet and Sassy
+    - name: Betta Bruschetta
+      desc: Grilled Facaccia bread, Roma tomatoes, goat cheese, onions, olive oil and basil (What makes it Betta is the goat cheese)
     - name: Supper Club Spinach Salad
-      desc: Spinach, hot bacon dressing, sun-dried tomatoes, pecans, Prosciutto, hard cooked eggs
+      desc: Spinach, hot bacon dressing, sun-dried tomatoes, pecans, Proscuitto, hard cooked eggs
 
   - name: Entree
     choices:
-    - name: Chicken Piccata
-      desc: Saut&eacute;ed chicken breast, lemon, butter, white wine, capers, red onions
-    - name: Drunken Steak
-      desc: 6oz sirloin marinated in Samuel Adams and special herbs, garlic cream sauce
-    - name: Basilico Angel Hair
-      desc: Vegetarian delight with angel hair pasta, fresh basil, garlic and tomatoes seasoned to perfection
+    - name: Seafood Pomodoro
+      desc: Shrimp, mussel, scallop, roma tomatoes, garlic, spinach, portabella mushrooms, olive oil and aromatic broth, fettuccine
+    - name: Steak Crusted Steak
+      desc: Your choice of our steak toppers; Gorgonzola blue cheese, rich parmesan, horseradish crust atop your steak cooked to your liking served with our garlic mashed potatoes
+    - name: Tortellini Portabella
+      desc: Vegetarian delight with saut&eacute;ed portabella mushrooms, fresh broccoli, red peppers, parmesan cream sauce, cheese tortellini
 
   - name: Dessert
     choices:
@@ -66,5 +66,5 @@ meals:
       desc: 3 layered citrus cake with raspberry preserves, fresh lemon custard and fresh berries
     - name: Warm Chocolate cake
       desc: Fresh baked chocolate cake with molten center served with cinnamon ice cream
-    - name: Grasshopper cheesecake
-      desc: Lip smacking delicious grasshopper flavored cheesecake with a deep chocolate crust, topped with Andes chocolate candy
+    - name: Roasted Banana Cheesecake
+      desc: Topped with brulee of fresh banana and salted rum butterscotch

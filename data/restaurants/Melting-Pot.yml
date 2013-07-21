@@ -6,33 +6,110 @@ lat: 43.0566274
 lng: -89.5004112
 
 meals:
+- type: lunch
+  name: American Cuisine
+  price: 15
+
+  courses:
+  - name: Cheese
+    choices:
+    - name: Macaroni &amp; Cheese Fondue
+      desc: Cheedar, Swiss and Blue Cheese, Garlic and Macaroni with White Wine and Sherry
+  - name: Salad
+    choices:
+    - name: Wedge Salad
+      desc: Iceberg Lettuce, Roma Tomatoes, Gorgonzola Cheese, Bacon, Peppercorn Ranch &amp; Scallions
+  - name: Chocolate
+    choices:
+    - name: Peanut Butter &amp; Jelly Milk Chocolate Fondue
+      desc: Milk Chocolate, Peanut Butter &amp; Wildberry Puree
+
+- type: lunch
+  name: Caribbean Cuisine
+  price: 15
+
+  courses:
+  - name: Cheese
+    choices:
+    - name: Caribbean Cheese Fondue
+      desc: White Wine, Pineapple Juice, Garlic, Peppadew Peppers, Butterkase &amp; Fontina Cheeses, Lime &amp; Scallions
+  - name: Salad
+    choices:
+    - name: Tropical Salad
+      desc: Romaine/Iceberg Mix, Spring Mix, Diced Tomatoes, Strawberries, Hearts of Palm, Creamy Citrus Dressing topped with crusted pine nuts
+  - name: Chocolate
+    choices:
+    - name: Flaming Coconut White Chocolate Fondue
+      desc: White Chocolate, Pineapple, Coconut Flakes &amp; Almonds
+
+- type: lunch
+  name: Latin Cuisine
+  price: 15
+
+  courses:
+  - name: Cheese
+    choices:
+    - name: Fiesta Cheese Fondue
+      desc: Cheddar &amp; Swiss cheeses, Salsa, Pepper, Beer and Jalapenos
+  - name: Salad
+    choices:
+    - name: Shrimp Ceviche Salad
+      desc: Shrimp, Jalapeno, Red Onion, Cilantro with a Lime Vinaigrette
+  - name: Chocolate
+    choices:
+    - name: Mexican Hot Dark Chocolate Fondue
+      desc: Cayenne Pepper &amp; Cinnamon
+
 - type: dinner
+  name: American Cuisine
   price: 25
 
   courses:
-  - name: Appetizer
+  - name: Salad
     choices:
-    - name: Bittersweet Spinach Salad
-      desc: Spinach, roma tomatoes, blue cheese, golden raisins, candied pecans, roasted red pepper with a balsamic vinaigrette
-    - name: Lettuce Wraps
-      desc: Curly carrots, bean sprouts, cucumbers, mint, honey roasted almonds, black sesame seeds and scallions wrapped in lettuce with a mandarin orange ginger dressing
-    - name: Orchard Salad
-      desc: Mixed greens, romaine and iceberg lettuce mixed with candied pecans, swiss cheese, sliced apples and golden raisins with an apple ranch dressing
-
+    - name: Wedge Salad
+      desc: Iceberg Lettuce, Roma Tomatoes, Gorgonzola Cheese, Bacon, Peppercorn Ranch &amp; Scallions
   - name: Entree
     choices:
-    - name: Cajun entree
-      desc: Spicy chicken, spicy shrimp and andouille sausage
-    - name: Citrus entree
-      desc: Cilantro-Lime Shrimp, lemon garlic pork and honey orange chicken
-    - name: Vegetarian Pasta entree
-      desc: Wild mushroom sacchetti, spinach artichoke ravioli and vegetable potstickers
-
-  - name: Dessert
+    - name: Chicken &amp; Dumplings
+      desc: Herb-crusted Chicken &amp; Spinach and Edamame Dumplings
+  - name: Chocolate
     choices:
-    - name: Dark Chocolate Raspberry Fondue
-      desc: Dark chocolate swirled with raspberry flavor
-    - name: Choccocina Fondue
-      desc: Milk chocolate and espresso
-    - name: Passion fruit ying &amp; yang fondue
-      desc: Artfully balanced dark chocolate and passion fruit white chocolate
+    - name: Peanut Butter &amp; Jelly Milk Chocolate Fondue
+      desc: Milk Chocolate, Peanut Butter &amp; Wildberry Puree
+
+- type: dinner
+  name: Caribbean Cuisine
+  price: 25
+
+  courses:
+  - name: Salad
+    choices:
+    - name: Tropical Salad
+      desc: Romaine/Iceberg Mix, Spring Mix, Diced Tomatoes, Strawberries, Hearts of Palm, Creamy Citrus Dressing topped with crusted pine nuts
+  - name: Entree
+    choices:
+    - name: Voo Doo Entr&eacute;e
+      desc: Vanilla Rum Chicken, Citrus Pork Tenderloin, Peppered Shrimp
+  - name: Chocolate
+    choices:
+    - name: Flaming Coconut White Chocolate Fondue
+      desc: White Chocolate, Pineapple, Coconut Flakes &amp; Almonds
+
+- type: dinner
+  name: Latin Cuisine
+  price: 25
+
+  courses:
+  - name: Salad
+    choices:
+    - name: Shrimp Ceviche Salad
+      desc: Shrimp, Jalapeno, Red Onion, Cilantro with a Lime Vinaigrette
+  - name: Entree
+    choices:
+    - name: Cajun Entr&eacute;e
+      desc: Spicy Chicken, Tequila Shrimp, Andouille Sausage
+  - name: Chocolate
+    choices:
+    - name: Mexican Hot Dark Chocolate Fondue
+      desc: Cayenne Pepper &amp; Cinnamon

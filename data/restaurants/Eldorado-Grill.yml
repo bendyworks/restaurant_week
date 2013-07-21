@@ -12,27 +12,29 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Kw&#39;s Texas Chili
-      desc: Beef tips simmered in four chilies, and garlic. Served with cheddar, diced onions and a corn cake (substitute Taylor&#39;s 10 Pepper Vegan Chili for vegetarians and vegans)
+    - name: Kw's Texas Chili
+      desc: Beef tips simmered in New Mexican red, ancho, pasila, and Oaxacan chiles, with onions, garlic, and chicken stock. Served with cheddar cheese, diced onions and a corn cake
     - name: Texas Torpedoes
       desc: Pickled jalape&ntilde;o peppers stuffed with shrimp and Monterey Jack cheese, wrapped with smoked bacon and grilled to perfection. Served with pico de gallo, sour cream, and fresh lime
-    - name: Spinach Salad with Goat Cheese
-      desc: Fresh spinach, red onions, tomatoes, candied chile, spiced pecans and goat cheese with house dressing
+    - name: Shrimp Ceviche Salad with Sweet Lime Dressing
+      desc: Spring greens tossed with sweet lime dressing. Topped with red pepper, red onion, jicama and shrimp ceviche
+    - name: Taylor's Ten Pepper Vegan Chile
+      desc: We slow cook ten different chiles, garlic, onions, smoked tomatoes, vegan chorizo and vegetable protein then top it all with guacamole and pico de gallo
 
   - name: Entree
     choices:
-    - name: Baby Back Ribs
-      desc: Kansas City, dry-rubbed, slow-smoked pork ribs. Served with Kentucky-style bbq sauce, chipotle potato salad, green chile pinto beans, house slaw, corn cake, pickles and onions
-    - name: Seasonal Vegetable and Quinoa Stuffed Poblano Chile
-      desc: A smoked poblano pepper filled with garlic infused quinoa and roasted seasonal vegetables. Served over salsa Nortena and garnished with guacamole and queso fresco
-    - name: Ancho Agave Glazed Grilled Salmon
-      desc: Filet of salmon grilled to perfection and glazed with a sweet citrus ancho agave sauce.  Served atop garlic mashed potatoes and house collard greens. Garnished with crispy garlic and fresh citrus 
+    - name: Slow Braised Pork Adobo
+      desc: Slow braised pork in a rich adobe sauce served over red rice and topped with fresh avocado, escabeche and queso fresco
+    - name: Pan Seared Mahi Mahi with Strawberry Habanero Relish
+      desc: Mahi Mahi pan seared and topped with a strawberry habanero relish. Served over a grilled cactus and chayote squash salad
+    - name: Quinoa and Vegetable Stuffed Poblano
+      desc: Garlic-infused quinoa and seasonal roasted vegetables in a smoked poblano pepper.  Topped with guacamole and queso fresco. Served over salsa Nortena and black beans
 
   - name: Dessert
     choices:
     - name: Jalapeno Key Lime Pie
-      desc: We squeeze fresh lemon juice then mix it with eggs, milk, sugar and fresh diced jalapeno.  Then we bake it in a house-made pie crust. Served with whipped cream and a sprig of mint
-    - name: Spicy Chocolate Strawberries
-      desc: Fresh strawberries dipped in chile-infused dark chocolate served alongside an agave and red chile infused tequila taster
-    - name: Mexican Coke Float
-      desc: Mexican Coke poured over chocolate mole ice cream and topped with whipped cream and a cherry
+      desc: We squeeze fresh lemon juice then mix it with eggs, milk, sugar and fresh diced jalape&ntilde;o.  Then we bake it in a house-made pie crust. Served with whipped cream and a sprig of mint
+    - name: Chocolate Ancho Pecan Pie
+      desc: 'Homemade pecan pie with a double kick of chiles! Served with a tequila crème anglaise, whipped cream and mint'
+    - name: Horchata Milk Shake
+      desc: We blend chocolate shoppe vanilla ice cream with our homemade horchata and top it with whip cream and a sopapilla chip

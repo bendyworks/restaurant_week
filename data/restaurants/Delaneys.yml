@@ -19,11 +19,11 @@ meals:
 
   - name: Second Course
     choices:
-    - name: 6 oz. Filet
+    - name: 6 oz. Filet ($30)
       desc: Garlic mashed potatoes, local vegetables, bacon-mushroom bordelaise with blue cheese crumbles
-    - name: Walleye
+    - name: Walleye ($25)
       desc: Pan fried with artichoke salad, Lemon caper Orzo and amaretto cream sauce
-    - name: Grilled Pork Tenderloin
+    - name: Grilled Pork Tenderloin ($25)
       desc: Shrimp and sausage jambalaya, Greens and Creole sauce
 
   - name: Third Course

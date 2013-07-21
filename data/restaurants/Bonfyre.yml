@@ -10,63 +10,61 @@ meals:
   price: 15
 
   courses:
-  - name: First Course
+  - name: Appetizer
     choices:
-    - name: Butternut Squash Soup
-    - name: Minestrone
-    - name: Grilled Caesar Salad
+    - name: Our Famous Butternut Soup
+    - name: Seasonal Soup
+    - name: Wedge Salad
     - name: House Salad
 
-  - name: Second Course
+  - name: Entree
     choices:
-    - name: Smoked Port Tenderloin
-      desc: in a creamy gouda cheese sauce with cranberry and wild mushroom orzo and sauteed spinach
-    - name: Bonfyre Rotisserie Chicken
-      desc: with your choice of either herb or BBQ, served with Bonfyre mash and fresh vegetables
-    - name: Chicken and Sausage Orecchiette
-      desc: in a creamy sun-dried tomato sauce tossed with asparagus, shiitakes and fresh spinach and sprinkled with goat cheese
+    - name: Pan Fried Walley
+      desc: with roasted rosemary potatoes and seasonal vegetable
+    - name: Woodfyred Rotisserie Chicken
+      desc: "herb marinated or BBQ w/mashed red potatoes and seasonal vegetable"
 
-  - name: Third Course
+  - name: Dessert
     choices:
-    - name: Your choice of any of our Mini desserts
+    - name: Your choice of any of our delicious Mini desserts
 
 - type: dinner
   price: 25
   name: Dinner 1
 
   courses:
-  - name: First Course
+  - name: Appetizer
     choices:
-    - name: Spinach &amp; Artichoke Bruschetta
+    - name: Maytag Blue Chips
+      desc: hand cut potato chips w/creamy maytag blue cheese sauce, pepper jack cheese, blue cheese crumbles, tomatoes
 
-  - name: Second Course
+  - name: Entree
     choices:
-    - name: Smoked Pork Tenderloin in a creamy gouda cheese saucse
-      desc: with cranberry and wild mushroom orzo and sauteed spinach
-      other: 'Suggested Wine Pairing: Bridlewood Pinot Noir, California $9 glass $33 bottle'
+    - name: Summer Salmon Orrchiette
+      desc: asparagus, onion, shittake mushrooms, bell peppers, roasted tomato, and fresh salmon tossed in a lemon cream sauce
 
-  - name: Third Course
+  - name: Dessert
     choices:
-    - name: Your choice of any of our Mini desserts
+    - name: Your choice of any of our delicious Mini desserts
 
 - type: dinner
-  price: 30
+  price: 35
   name: Dinner 2
 
   courses:
   - name: First Course
     choices:
-    - name: Spicy Garlic Shrimp
+    - name: Grilled and Chilled Shrimp Cocktail
+    - name: Ginger Lime marinated shrimp, wasabi cream, asian style slaw
 
-  - name: Second Course
+  - name: Entree
     choices:
-    - name: Six ounce Certified Angus Beef Prime center Cut Top Sirloin
-      desc: served with gratin potatoes and asparagus
-      other: 'Suggested Wine Pairing: Louis M. Martini Cabernet Sauvignon, Sonoma California $8 glass $30 bottle'
+    - name: Wood Fyred Sirloin
+      desc: 6 oz. prime center-cut sirloin grilled to perfection and served with seared polenta, asparagus and cherry demi-glace
 
-  - name: Third Course
+  - name: Dessert
     choices:
-    - name: Your choice of any of our Mini desserts
+    - name: Your choice of any of our delicious Mini desserts
 
 - type: dinner
   price: 35
@@ -75,14 +73,14 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: Steak Tartare
+    - name: Mexican Style Ceviche
+      desc: shrimp, tomatoes, jalapenos, onion, cilantro and lime served with corn chips
 
   - name: Second Course
     choices:
-    - name: Bourbon Street Seabass
-      desc: with Creole rice and fresh vegetables
-      other: 'Suggested Wine Pairing: Apothic White Blend, California $8 glass $30 bottle'
+    - name: Sea Bass
+      desc: seared sea bass, coconut risotto, snow peas, water chestnuts, spicy pineapple salsa
 
   - name: Third Course
     choices:
-    - name: Your choice of any of our Mini desserts
+    - name: Your choice of any of our delicious Mini desserts

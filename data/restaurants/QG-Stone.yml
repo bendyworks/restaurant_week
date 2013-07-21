@@ -1,4 +1,4 @@
-name: Quivey's Grove Stone
+name: Quivey's Grove Stone House
 address: 6261 Nesbitt Road, Fitchburg 53719
 phone: 608.273.4900
 hours: Sun-Fri 5-9p
@@ -12,27 +12,27 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: Creamy Onion Soup
-      desc: Sweet onions slowly braised in blonde veal stock, finished with cream, topped with crispy onions and asiago cheese
-    - name: Smoked Trout Cakes
-      desc: Crispy smoked trout cakes with spicy remoulade sauce, served with baby greens with citrus vinaigrette
-    - name: Wisconsin Raclettes
-      desc: Roth Kase Raclette cheese, baby red potatoes, baby dill pickles, pickled onions
+    - name: Smoked Whitefish Croquettes
+      desc: Fresh Great Lakes Whitefish house smoked over alderwood with spicy remoulade sauce
+    - name: Taste of Wisconsin Salad
+      desc: Chopped romaine and iceberg, Bavaria summer sausage, Lodi Meats State Fair bacon, Pinah's garlic rye croutons, and Quivey's beer cheese dressing made with Hook's seven year old cheddar cheese and New Glarus Spotted Cow
+    - name: Hot and Cold Corn Chowder
+      desc: with cucumber, jalapeno peppers, baby Yukon gold potatoes, sweet corn kernels and buttermilk
 
   - name: Entree
     choices:
-    - name: Lamb Shank
-      desc: Slowly braised &#39;til fall of the bone tender with Wollersheim Domaine du Sac and root vegetables, served with pan juices and rosemary garlic mashed potatoes
+    - name: Lake Trout
+      desc: Fresh lake trout filets cold smoked over alder wood, then baked with lemon dill caper butter, served with a parmesan potato
     - name: Medallion Trio
-      desc: Beef tenderloin on mushroom ragout, pork tenderloin in puff pastry, and chicken roulade on wild rice.  Served with a trio of sauces
-    - name: Salmon
-      desc: Baked with a horseradish crust, served on pan roasted vegetables with a tomato buerre blanc
+      desc: Beef tenderloin filet, smoke roasted pork tenderloin medallion, and boneless duck breast, served with a trio of sauces and garlic potato tart
+    - name: Stuffed Chicken Breast
+      desc: Pretzel crusted boneless chicken breast stuffed with Westphalian ham and Saxon Creamery Greenfields cheese, served with wild rice and port wine and dried cherry sauce
 
   - name: Dessert
     choices:
-    - name: Apple Strudel
-      desc: Baked with golden raisin and black walnuts and served on cr&egrave;me anglais with a drizzle of maple caramel
-    - name: Cranberry Orange Steamed Pudding
-      desc: Served with brandy cream sauce
-    - name: Chocolate Hazelnut Tart
-      desc: Ground hazelnut cookie crust, chocolate ganache, Frangelica whipped cream
+    - name: Strawberry Shortcake
+      desc: Fresh baked sweet buttermilk biscuits, served with fresh strawberries and Sassy Cow whipped cream
+    - name: Blueberry Crisp
+      desc: Fresh blueberries baked under an oatmeal crumb crust, served with Chocolate Shoppe Vanilla ice cream
+    - name: Key Lime Martini
+      desc: Tangy and refreshing lime custard, topped with Sassy Cow whipped cream and graham crumbs, with Lime Zest

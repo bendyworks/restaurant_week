@@ -13,29 +13,30 @@ meals:
   - name: Starters
     choices:
     - name: Reuban Rolls
-      desc: Taste of Madison Award Winner. Corned beef, sauerkraut and Great Lakes swiss cheese blended together and made into an eggroll. Accompanied with thousand island dressing
+      desc: Corned beef, sauerkraut and Great Lakes swiss cheese blended together and made into an eggroll. Accompanied with thousand island dressing
     - name: Cheese Curd Fritters
-      desc: Succulent Wesby cheese curds in fritter batter, fried golden brown and served hot with honey Dijon dressing
-    - name: Garlic Parsley Frites
-      desc: Portage county grown russet potato frites, fried golden brown and tossed with chopped garlic, parsley and olive oil
+      desc: Succulent Wesby cheese curds in fritter batter, deep fried with honey Dijon dressing
+    - name: Deviled Eggs Trio
+      desc: Three deviled eggs, one pesto topped with candied bacon, one roasted red pepper topped with portabella, and caramelized onion, topped with bratwurst
 
   - name: Entree
     choices:
     - name: Capital Dark BBQ Pulled Pork
-      desc: Taste of Madison Award Winner. Melt in your mouth tender pulled pork, flavored with our homemade Capital Dark BBQ piled high on a ciabatta bun and served with homemade Borzynski Brothers cabbage coleslaw on top
+      desc: Melt in your mouth tender pulled pork, flavored with our homemade Capital Dark BBQ, piled high and topped with our homemade coleslaw inside a soft Ciabatta bun
     - name: The Harvester
-      desc: A mound of grilled Hometown Harvest vegetables and roasted portabella mushroom tossed in balsamic vinegar and olive oil and layered on Tuscan bread
-    - name: Flank Steak Sandwi
-      desc: Char broiled flank steak, sliced and served on a French roll, topped with crispy fried onions, with slaw and pickle chips
+      desc: Grilled vegetables saut&eacute;ed in balsamic vinegar, served on Tuscan bread with goat cheese
+    - name: Flank Steak Sandwich
+      desc: Grilled flank steak, served over Tuscan bread w/roasted garlic aioli and topped with salsa Fresca
 
   - name: Dessert
     choices:
-    - name: Chocolate Brownie
-      desc: Luscious chocolate brownie, served with vanilla ice cream and chocolate sauce
-    - name: Apple Pie Eggrolls
-      desc: Spiced Hometown Harvest apples cooked in butter and brown sugar, then put in eggroll wraps and fried golden, served with vanilla ice cream and caramel
-    - name: Apple Turnover
-      desc: Hometown Harvest apples cooked in brown sugar in a puff pastry shell, with Wisconsin sharp white cheddar cheese.
+
+    - name: Bread Pudding
+      desc: Beer doughnuts cubed in sweet custard with cranberries, baked and served over an orange cream
+    - name: New York Cheesecake
+      desc: Classic New York cheesecake served with berry compote
+    - name: Chocolate Cake
+      desc: Rich chocolate cake with chocolate sauce
 
 
 - type: dinner
@@ -44,27 +45,27 @@ meals:
   courses:
   - name: Starters
     choices:
-    - name: Reuben Rolls
-      desc: Taste of Madison Award Winner. Corned beef, sauerkraut and Great Lakes swiss cheese blended together and made into an eggroll.  Accompanied with thousand island dressing
-    - name: Cheese Curd Apple Fritters
-      desc: Succulent Wesby cheese curds and spiced apples in a fritter batter, fried golden brown and served hot with honey Dijon dressing
-    - name: Garlic Parsley Frites
-      desc: Portage county grown russet potato frites, fried golden brown and tossed with chopped garlic, parsley and olive oil
+    - name: Reuban Rolls
+      desc: Corned beef, sauerkraut and Great Lakes swiss cheese blended together and made into an eggroll. Accompanied with thousand island dressing
+    - name: Cheese Curd Fritters
+      desc: Succulent Wesby cheese curds in fritter batter, deep fried with honey Dijon dressing
+    - name: Deviled Eggs Trio
+      desc: Three deviled eggs, one pesto topped with candied bacon, one roasted red pepper topped with portabella, and caramelized onion, topped with bratwurst
 
   - name: Entree
     choices:
-    - name: Smoked Airline Chicken Breast
-      desc: Smoked airline chicken breast, served over garlic mashed potatoes, with Haus vegetables and topped with a red wine sauce
-    - name: Grilled Iowa Pork Chop
-      desc: An Iowa chop, char grilled and served on top of garlic mashed potatoes, with Haus vegetables, and topped with an apple cider pork demi glace reduction.
-    - name: Grilled Flank Steak
-      desc: Char broiled flank steak, sliced and served over garlic mashed potatoes, topped with crispy fried onions, with Haus vegetables over a garlic demi reduction
+    - name: Grilled Norwegian Salmon
+      desc: Grilled Norwegian salmon topped with dill cream, served over garlic mashed potatoes and summer vegetables
+    - name: Airline Chicken
+      desc: Semi boneless chicken breast served over garlic mashed potaotes and summer vegetables, topped with red wine sauce
+    - name: Steak Frites
+      desc: Flank steak, char grilled and topped with salsa Fresca, served with our hand cut frites
 
   - name: Dessert
     choices:
-    - name: Chocolate Brownie
-      desc: Luscious chocolate brownie, served with vanilla ice cream and chocolate sauce
-    - name: Apple Pie Eggrolls
-      desc: Spiced Hometown Harvest apples cooked in butter and brown sugar, then put in eggroll wraps and friend golden, served with vanilla ice cream and caramel
-    - name: Apple Turnover
-      desc: Hometown Harvest apples cooked in brown sugar in a puff pastry shell, with Wisconsin sharp white cheddar cheese
+    - name: Bread Pudding
+      desc: Custard bread pudding baked golden brown and topped with caramel sauce
+    - name: New York Cheesecake
+      desc: Classic New York cheesecake served with berry compote
+    - name: Rich Chocolate Cake
+      desc: Chocolate cake with chocolate sauce

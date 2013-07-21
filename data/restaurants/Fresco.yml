@@ -12,27 +12,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Ceddar Risotto Cake
-      desc: Hook&#39;s cheddar cheese, summer sausage
-    - name: Carrot Soup
-      desc: Spiced carrot, crab salad
-    - name: Wisconsin Apple Salad
-      desc: Farmers&#39; market antique apples, mixed greens, sweet &amp; salty walnuts, hook&#39;s blue paradise cheese, apple vinaigrette
+    - name: Summer Soup
+      desc: Seasonal Preparation
+    - name: Pea &amp; Parmesan Risotto Cake
+      desc: White truffle pea puree
+    - name: Tomato &amp; Corn Salad
+      desc: Mixed Greens, basil, lemon vinaigrette
 
   - name: Entree
     choices:
-    - name: Seared Mahi Mahi
-      desc: Roasted cauliflower risotto, almond, raspberry vinaigrette
-    - name: Tomato-braised Short Rib Pasta
-      desc: Penne, seasonal vegetables, fresh tomato sauce, basil pistou, parmesan cheese
+    - name: Seared Halibut
+      desc: Seasonal Preparation
+    - name: Short Rib
+      desc: Smoked butter polenta, seasonal vegetable, beef reduction
     - name: Ricotta Cheese Gnocchi
       desc: Handmade ricotta gnocchi, seasonal vegetables, brown butter herb creme
 
   - name: Dessert
     choices:
-    - name: Carrot Cake Cheesecake
-      desc: Crushed walnuts, maple whipped cream
-    - name: Citrus Panna Cotta
-      desc: Almond Biscotti
+    - name: Lemon Cheesecake
+      desc: Blueberry sauce
+    - name: Brown Butter Cake
+      desc: Lemon cr&egrave;me fraiche, cilantro simple syrup
     - name: House Made Kit Kat
-      desc: Peanut Butter Mousse
+      desc: Sorbet

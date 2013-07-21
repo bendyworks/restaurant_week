@@ -12,32 +12,27 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: Lobster Bisque
-    - name: Roasted Goat
-      desc: Goat cheese layered with roasted beets, drizzled with a raspberry chipotle sauce, served with warm pita chips
-    - name: Ceasar Salad
-      desc: Romaine lettuce tossed in a caesar dressing, topped with shaved parmesan and homemade croutons
-    - name: Stuffed Mushrooms
-      desc: Mushrooms stuffed with a garlic herb cream, breaded and served with a creamy horseradish sauce
+    - name: Choose one of eleven delicious mini appetizers on our regular menu, a bowl of soup, or a house salad
 
   - name: Second Course
     choices:
-      - name: 1/2 Prime Rib Sandwich Combo
-        desc: Sliced prime rib sauteed with mushrooms, topped with melted provolone on a toasted hoagie served with our homemade aujus &amp; horsey sauce - choice of soup du jour, baked french onion or side salad
-      - name: Italian Chicken Sandwich
-        desc: Grilled chicken breast topped with fresh mozzerella, balsamic tomatoes and a pesto sauce on a ciabatta bun, served with sweet potato fries
-      - name: Jambalaya
-        desc: Tender chicken, sauteed shrimp &amp; andouille sausage tossed with rice, peppers, &amp; onions in a spicy creole sauce
-      - name: Sea Salad
-        desc: Grilled shrimp, scallops and mahi mahi served over watercress lettuce, with baby arugula &amp; red onions, tossed in a shallot orange vineagarette
+      - name: French Dip
+        desc: Tender roast beef on a toasted hoagie with provolone cheese and aus jus. Served with one side
+      - name: Traditional Pressed Cuban Sandwich
+        desc: served with one side
+      - name: BBQ Salmon Salad
+        desc: with pineapple mango salsa, red peppers, red onions, pepper jack cheese &amp; mixed greens
+      - name: Chipotle Chicken Pasta
+        desc: Penne pasta tossed with a chipotle garlic cream sauce with onions, mushrooms, red and green peppers, and blackened chicken
+      - name: Caprese Entr&eacute;e Salad (V)
+        desc: Buffalo mozzarella, Roma tomatoes, capers, red onions, and balsamic reduction
 
   - name: Third Course
     choices:
-      - name: Bread Pudding
-        desc: with Vanilla Ice Cream
-      - name: Apple Pie
-        desc: with Vanilla Ice Cream
-      - name: Pop Rocks Strawberry Shortcake
+      - name: Snickers Ice Cream Pie
+      - name: Banana Slamma
+      - name: Fudge Brownie &amp; Ice Cream
+      - name: Strawberry Cheesecake
 
 - type: dinner
   price: 30
@@ -45,27 +40,24 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: Lobster Bisque
-    - name: Roasted Goat
-      desc: Goat cheese layered with roasted beets, drizzled with a raspberry chipotle sauce, served with warm pita chips
-    - name: Duck Sliders
-      desc: Two duck sliders stacked high with a spring mix &amp; a homemade blackberry bbq sauce
-    - name: Grilled Romaine Salad
-      desc: Grilled romaine leaves drizzled with extra virgin olive oil and a balsamic glaze, topped with bleu cheese crumbles
+    - name: Choose one of eleven delicious mini appetizers on our regular menu, a bowl of soup, or a house salad
 
   - name: Second Course
     choices:
-    - name: Prime Pork Ribeye
-      desc: Sun dried tomatoes and garlic encrusted Prime USDA pork ribeye served with sweet potato hash and roasted brussel sprouts
-    - name: Crab Stuffed Tenderloin
-      desc: Medallions of tenderloin layered with jumbo lump crab meat and hollandaise sauce served with garlic mashed potatoes and grilled asparagus
-    - name: Grilled Salmon
-      desc: Fresh Atlantic salmon grilled to perfection, topped with a light lemon sauce, served with rice pilaf and grilled spinach
-    - name: Chicken Roulade
-      desc: Chicken breast stuffed with cream cheese, spinach, mushroom &amp; prosciutto drizzled with a caper &amp; sage sauce, served with cous cous and harvest vegetables
+    - name: Seafood Trio
+      desc: 3 oz Grilled Mahi Mahi with mango salsa, 3 oz. grilled salmon with light lemon butter sauce, and 2 jumbo grilled scallops with a balsamic reduction, served with rice and broccolini
+    - name: Flat Iron Steak
+      desc: Served over polenta with mushroom ragu and &amp; broccolini
+    - name: Florentine Lasagna (V)
+      desc: Spinach, zucchini, squash, mushrooms, red &amp; green peppers.
+    - name: Grilled combo
+      desc: 1/2 rack of slow cooked ribs &amp; 5 oz chicken breast smothered with mushrooms, onions, and melted provolone cheese.  Served with garlic mashed potatoes and corn on the cob.
+    - name: Steak Gorgonzola Pasta
+      desc: Penne pasta tossed with a garlic cream sauce, onions, peppers, mushrooms with grilled tenderloin then baked with Gorgonzola cheese.
 
   - name: Third Course
     choices:
-    - name: Warm Pecan Pie
-    - name: Chocolate Lava Cake
-    - name: Pop Rocks Strawberry Shortcake
+      - name: Snickers Ice Cream Pie
+      - name: Banana Slamma
+      - name: Fudge Brownie &amp; Ice Cream
+      - name: Strawberry Cheesecake

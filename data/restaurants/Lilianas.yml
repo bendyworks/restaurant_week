@@ -12,30 +12,41 @@ meals:
   courses:
   - name: Starter
     choices:
-    - name: Hoppin John
-      desc: A traditional New Orleans New Years soup with ham and beans
-    - name: Butternut Squash Soup
-      desc: Toasted pepitas, creme fraiche, chives
-    - name: Roasted Pumpkin Salad
-      desc: Yesteryear Farms pumpkin, spicy pecans, montrachet cheese, red onion, balsamic vinaigrette
+    - name: Tomato Bisque
+    - name: Endive Salad
+    - name: Crab Cake
 
   - name: Entree
     choices:
-    - name: '&quot;BPT&quot; Breaded Pork Tenderloin'
-      desc: Pork tenderloin fried in panko, on grilled bun with lettuce and chipotle mayo served with white bean salad and sweet potato chips
     - name: Jambalaya
-      desc: Blackened shrimp, andouille sausage, tasso ham, Neuskie&#39;s bacon, peppers, tomatoes, onions, rice
-    - name: Wisconsin Mac and Cheese
-      desc: Hooks 3 year aged cheddar, Carr Valley Menage, Farmer John&#39;s provolone, cream, orecchiette pasta
+    - name: Gumbo
+    - name: Chicken Salad Po'Boy
 
   - name: Dessert
     choices:
-    - name: Bananas Foster
+    - name: Bananas Foster (GF, VT)
       desc: Bananas, rum flambe, vanilla ice cream
-    - name: Chocolate Mousse
+    - name: Chocolate Mousse (GF, VT)
       desc: Rich, decadent chocolate mousse
-    - name: Cherries Jubilee
-      desc: Tart cherries, rum flambe, vanilla ice cream
+    - name: Chocolate Mousse
+
+- type: dinner
+  name: Creole Dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Fried alligator with piquillo pepper chutney and red pepper aioli
+
+  - name: Entree
+    choices:
+    - name: Shrimp and crawfish etoufee
+
+  - name: Dessert
+    choices:
+    - name: Beignets
+      desc: Deep fried brioche dough with powdered sugar
 
 
 - type: dinner
@@ -45,59 +56,18 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Alligator Gumbo
-      desc: Topped with piquillo pepper, chutney and house made alligator sauce
+    - name: Barbecue Prawns
+      desc: Split giant Madagascar salt prawn sauteed in garlic, butter and creole spices
 
   - name: Entree
     choices:
     - name: Blackened Catfish
-      desc: With red beans, rice, and bacon braised collard greens
+      desc: Fresh catfish, blackened and served on a bed of red beans with bacon braised collard greens
 
   - name: Dessert
     choices:
-    - name: Bananas Foster Bread Pudding
+    - name: Bourbon Pecan Caramel Bread Pudding
       desc: 'With spiced run cr&egrave;me anglaise'
-
-- type: dinner
-  name: Vegetarian Dinner
-  price: 25
-
-  courses:
-  - name: Appetizer
-    choices:
-    - name: Vegetarian Ni&ccedil;oise
-      desc: With fingerling potatoes, heirloom tomatoes, haricot verts, hard boiled eggs, onion and capers
-
-  - name: Entree
-    choices:
-    - name: Wild Mushroom Risotto
-      desc: With shaved Parmigiano-Reggiano and grilled asparagus
-
-  - name: Dessert
-    choices:
-    - name: Vegan chocolate cake 
-      desc: with raspberry coulis
-
-
-- type: dinner
-  name: Creole Dinner
-  price: 30
-
-  courses:
-  - name: Appetizer
-    choices:
-    - name: Shrimp Remoulade
-      desc: Over a chiffonade of local organic romaine
-
-  - name: Entree
-    choices:
-    - name: Trout Amandine
-      desc: With grilled asparagus and roasted baby new potatoes
-
-  - name: Dessert
-    choices:
-    - name: Bourbon chocolate pecan pie tart a la mode
-      desc: 
 
 - type: dinner
   name: French Quarter Dinner
@@ -106,15 +76,33 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Salad Ni&ccedil;oise
-      desc: With fingerling potatoes, heirloom tomatoes, sustainable black-fin tuna, haricot verts, hard-boiled eggs, onions and capers
+    - name: Nicoise Salad
+      desc: with fresh yellowfin tuna
 
   - name: Entree
     choices:
-    - name: Black Angus Rib-eye
-      desc: Stuffed with a Gorgonzola and mushroom ragout, with Brussels sprouts and herb mash
+    - name: Surf and Turf
+      desc: petite filet with sauteed prawn, grilled asparagus and truffle mash
 
   - name: Dessert
     choices:
-    - name: Trio of dessert
-      desc: Chocolate mousse (GF, VT), cr&egrave;me br&ucirc;l&eacute;e (GF, VT) and beignets (VT)
+    - name: Mocha Creme Brulee
+
+- type: dinner
+  name: Vegetarian Dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Creole Salad
+      desc: with carrots, tomatoes, radish and caramelized onion vinaigrette
+
+  - name: Entree
+    choices:
+    - name: Blackened Seitan
+      desc: with sweet potato puree and julienned vegetables
+
+  - name: Dessert
+    choices:
+    - name: Gluten Free/Vegan Chocolate Cake

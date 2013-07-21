@@ -12,27 +12,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Captain Bill&#39;s World Famous Clam Chowder
+    - name: Captain Bill's World Famous Clam Chowder
       desc: as seen on The Food Network
-    - name: Wedge Salad
-      desc: Iceberg Lettuce wedge topped with sliced red onion, grape tomatoes, crumbled Blue cheese and Blue cheese dressing
-    - name: Spinach Salad with Hot Bacon Dressing
-      desc: Baby Spinach topped with red onion, house-made croutons, a hard-boiled egg and hot bacon dressing
+    - name: Strawberry &amp; Mixed Green Salad
+      desc: Sliced strawberries tossed with mixed spring greens, red onions and raspberry vinaigrette
+    - name: Crab Salad Stuffed Tomato
+      desc: Crisp tomato stuffed with creamy crab salad, resting on a bed of greens and drizzled with balsamic vinaigrette
 
   - name: Entree
     choices:
     - name: Surf and Turf
       desc: A 6 oz. Tenderloin Filet with a 6 oz. Lobster Tail (Turf only option- 12 oz. New York Strip Steak), Side Vegetable
     - name: Shrimp Duet
-      desc: Our fabulous Coconut Shrimp paired with Broiled Shrimp stuffed with crab, then glazed with Hollandaise Sauce, Side Vegetable
-    - name: Grilled Mahi Mahi
-      desc: An 8 oz. Mahi Mahi steak grilled to order and topped with our pineapple-poached apple and roasted red pepper chutney (available without chutney if desired), Side Vegetable
+      desc: Our fabulous Coconut Shrimp paired with Pan-Seared Scallops topped with citrus-butter, Side Vegetable
+    - name: Cedar Planked Salmon
+      desc: An eight-ounce, hand-cut fillet of Atlantic Salmon, oven roasted on a cedar plank and drizzled with a honey, brown sugar and whole-grain mustard sauce
 
   - name: Dessert
     choices:
     - name: Key Lime Pie
       desc: A family favorite of ours, and soon to become a favorite of yours too!
-    - name: Chocolate Bread Pudding
-      desc: Glazed with Cr&egrave;me Anglaise
-    - name: Apple Crisp
-      desc: Our house-made apple crisp served with Chocolate Shoppe Cinnamon Ice Cream
+    - name: Chocolate Trifle
+      desc: Layers of rich chocolate cake, chocolate Bavarian cream and Godiva Liqueur-soaked blueberries beautifully presented in a wine glass
+    - name: Door County Cherry Tart
+      desc: Our house-made cherry tart served with Chocolate Shoppe Vanilla Bean Ice Cream

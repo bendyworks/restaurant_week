@@ -12,12 +12,12 @@ meals:
   courses:
   - name: appetizer
     choices:
-    - name: Roasted Garlic &amp; Cambozola Flatbread
-      desc: Cambozola Cheese, Roasted Garlic Puree, Sweet Curried Chutney, Naan Flatbread
-    - name: Fire Roasted Prince Edward Island Mussels
-      desc: Beurre fondue, garlicky sourdough toast
-    - name: Duck Fat Fried Fingerling Potatoes
-      desc: Bacon, shallot, habanero aioli
+    - name: Crispy Chili Glazed Shrimp
+      desc: Peanut-soy slaw
+    - name: Antipasto Plate
+      desc: Chilled roasted vegetables, cured Italian meats, basil-walnut pesto, baguette
+    - name: Roman Style Caesar
+      desc: Romaine heart, garlicky lemon-anchovy vinaigrette, shaved parmesan, baguette crouton
 
   - name: entree
     choices:
@@ -25,17 +25,11 @@ meals:
       desc: Cup of rustic fagioli or potato leek soup &amp; 1/2 Reuben or 1/2 Rachel sandwich
     - name: Seared Salmon Fillet
       desc: Fingerling potatoes, garlic spinach, beurre rouge
-    - name: Guinness Stout Burger
-      desc: Pretzel bun, rashers, grilled red onion & blue cheese, Seasoned chips or mized green salad
+    - name: Sweet Corn &amp; Prince Edward Island Mussel Risotto
+      desc: Local sweet corn, fire roasted mussels sans shells, mascarpone, scallion
 
   - name: dessert
     choices:
-    - name: Whiskey Pecan Bread Pudding
-      desc: Vanilla ice cream, house-made caramel sauce
-    - name: Turtle Sundae
-      desc: Vanilla ice cream, candied pecans, house-made caramel &amp; chocolate sauce, shortbread cookies
-    - name: Warm Gingerbread
-      desc: Lightly sweetened cream, candied lemon peel
 
 
 - type: dinner
@@ -44,27 +38,25 @@ meals:
   courses:
   - name: appetizer
     choices:
-    - name: Roasted Garlic &amp; Cambozola Flatbread
-      desc: Cambozola cheese, roasted garlic puree, sweet curried chutney, naan flatbread
-    - name: Fire Roasted Prince Edward Island Mussels
-      desc: Beurre fondue, garlicky sourdough toast
-    - name: Duck Fat Fried Fingerling Potatoes
-      desc: Bacon, shallot, habanero aioli
+    - name: Bay Scallop Ceviche
+      desc: Coconut, lemongrass, cilantro, habanero, crispy wonton
+    - name: Heirloom Tomato Tower
+      desc: Burrata, thai basil, white balsamic
+    - name: Roman Style Caesar
+      desc: Romaine heart, garlicky lemon-anchovy vinaigrette, shaved parmesan, baguette crouton
 
   - name: entree
     choices:
-    - name: Braised Lamb Shank
-      desc: Champ potatoes, root vegetables, rosemary jus
-    - name: Roasted Half Chicken
-      desc: Pancetta, rosemary, new potatoes
-    - name: Lake Superior Whitefish
-      desc: Steamed spinach, beurre blanc, pine nuts
+    - name: Macadamia Encrusted Mahi-Mahi
+      desc: Sweet &amp; Sour Pineapple, Peruvian Purple Potato
+    - name: Chili Rubbed Flank Steak
+      desc: Poblano hominy, pasilla butter
+    - name: Sweet Corn &amp; Scallop Risotto
+      desc: Local sweet corn, wild bay scallop, mascarpone, scallion
 
   - name: dessert
     choices:
-    - name: Whiskey Pecan Bread Pudding
-      desc: Vanilla ice cream, house-made caramel sauce
-    - name: Turtle Sundae
-      desc: Vanilla ice cream, candied pecans, house-made caramel &amp; chocolate sauce, shortbread cookies
-    - name: Warm Gingerbread
-      desc: Lightly sweetened cream, candied lemon peel
+    - name: Charred Pineapple Cake
+      desc: Grand marnier syrup, vanilla bean ice cream
+    - name: Milk Chocolate Mousse
+      desc: Fresh raspberries, Belgian dark chocolate shavings

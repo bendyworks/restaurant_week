@@ -12,30 +12,29 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Fonduta Classico
-      desc: A rich pecorino cheese sauce with shaved speck and herbed bread crisps (can be made vegetarian)
-    - name: Prosciutto Pillows
-      desc: Herbed goat cheee wrapped in prosciutto ham and baked with a roasted red pepper sauce and served with crostini
-    - name: Venetian Salad
-      desc: Sun-dried tomatoes, artichokes and kalamata olives in a buttery pastry served on mixed greens with a balsamic drizzle
+    - name: Gazpacho
+      desc: Cucumbers, peppers and onions in a light tomato broth with a hint of chilis and herbs
+    - name: Caprese Skewers
+      desc: Homemade fresh mozzeralla caprese skewers.... Luigi's homemade fresh mozzarella with cherry tomatoes and fresh basil
+    - name: Artisinal Cheese Plate
+      desc: Local cheeses paired with grapes and crostini
 
   - name: Entree
     choices:
-    - name: Winter Squash Pizza
-      desc: Butternut and spaghetti squash with fontina cheese, brown butter and truffle oil
-    - name: Italian Scalloped Potato and Ham Pizza
-      desc: Fig jam with fingerling potatoes, gorgonzola cheese, rosemary and speck
-    - name: Bad Breath Pizza
-      desc: Slow cooked pork with balsamic marinated onions, roasted garlic, white sauce and smoked gouda and gorgonzola with a tomato sauce drizzle
+    - name: Pan-fried Steak Sandwich
+      desc: Parmesan and parsley crusted steak sandwich topped with fresh mozzarella, tomato, red onion and capers. Served with small mixed green salad
+    - name: Pizza Carbonara
+      desc: White sauce with crisp bacon, caramelized onions, and grilled summer squash topped with fontina cheese and baked with a fresh egg for an ultra rich sauce
+    - name: Strawberry-gorgonzola Salad
+      desc: Fresh greens tossed with candied walnuts, fresh strawberries and gorgonzola cheese in a balsamic dressing
 
   - name: Dessert
     choices:
-    - name: Butterscotch Budino
-      desc: With salted caramel sauce
-    - name: Smores Pizza
-      desc: Graham cracker crust with marshmallow cream and chocolate sauce
-    - name: Caramel Ice Cream Sundae
-      desc: With salted peanuts, sweet cookie and chocolate sauce
+    - name: Madeira marinated strawberries served with fresh pound cake and whipped cream
+    - name: Chocolate Tartufo
+      desc: A creamy zabione center surrounded by chocolate gelato and caramelized hazelnuts
+    - name: Lemon Mascarpone Cake
+      desc: Lemon sponge cake topped with mascarpone and white chocolate
 
 
 - type: dinner
@@ -45,26 +44,26 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Fonduta Classico
-      desc: A rich pecorino cheese sauce with shaved speck and herbed bread crisps (can be made vegetarian)
-    - name: Prosciutto Pillows
-      desc: Herbed goat cheese wrapped in prosciutto ham and baked with a roasted red pepper sauce and served with crostini
-    - name: Venetian Salad
-      desc: Sun-dried tomatoes, artichokes and kalamata olives in a buttery pastry served on mixed greens with a balsamic drizzle
+    - name: Gazpacho
+      desc: Cucumbers, peppers and onions in a light tomato broth with a hint of chilis and herbs
+    - name: Caprese Skewers
+      desc: Homemade fresh mozzeralla caprese skewers....Luigi's homemade fresh mozzarella with cherry tomatoes and fresh basil
+    - name: Artisinal Cheese Plate
+      desc: Local cheeses paired with grapes and crostini
 
   - name: Entree
     choices:
-    - name: Winter Squash Crespelle 
-      desc: Herb roasted winter squash stuffed savory crepes baked in a rich truffle cream sauce baked with rosemary-walnut bread crumbs
-    - name: Chicken Cacciatore
-      desc: Classic Italian dish of braised chicken with peppers, onion, potatoes, salami and tomatoes served with pasta
-    - name: Spaghetti Pie
-      desc: Mama Luigi&#39;s famous meatballs baked with spaghetti, herbed ricotta and mozzarella cheese until bubbly and delicious
+    - name: Grilled Eggplant Rolls
+      desc: Grilled eggplant stuffed with quinoa, grilled vegetables and tomato sauce. Topped with feta cheese and served on arugula tossed in balsamic vinegar
+    - name: Roasted Salmon
+      desc: Fresh roasted salmon served on fingerling potatoes and roasted vegetables with a light mint pesto drizzle
+    - name: Chicken Saltimbocca
+      desc: Breaded chicken breast topped with prosciutto ham and fresh mozzarella and baked; served with potatoes and vegetable in a light chicken jus
 
   - name: Dessert
     choices:
-    - name: Butterscotch budino with salted caramel sauce
-    - name: Smores Pizza
-      desc: Graham cracker crust with marshmallow cream and chocolate suace
-    - name: Caramel Ice Cream Sundae
-      desc: With salted peanuts, sweet cookie and chocolate sauce
+    - name: Madeira marinated strawberries served with fresh pound cake and whipped cream
+    - name: Chocolate Tartufo
+      desc: A creamy zabione center surrounded by chocolate gelato and caramelized hazelnuts
+    - name: Lemon Mascarpone Cake
+      desc: Lemon sponge cake topped with mascarpone and white chocolate

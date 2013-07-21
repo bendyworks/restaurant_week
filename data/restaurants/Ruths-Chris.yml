@@ -16,8 +16,7 @@ meals:
       desc: Iceberg, Romaine and baby lettuces with cherry tomatoes, garlic croutons and red onions with your choice of one of our homemade dressing.
     - name: Caesar Salad
       desc: Fresh crisp Romaine hearts tossed with Romano cheese, and a creamy Caesar dressing, topped with Parmesan and black pepper crisps, served with grape tomatoes and sprinkled with fresh ground pepper.
-    - name: Lobster Bisque
-      desc: A rich creamy lobster based soup with brandy
+    - name: Soup of the Day
 
   - name: Entree
     choices:
@@ -33,7 +32,7 @@ meals:
     - name: Mashed Potatoes
       desc: Flavored with a hint of roasted garlic.
     - name: Creamed Spinach
-      desc: Ruth&rsquo;s original recipe.
+      desc: Ruth's original recipe.
     - name: Saut&eacute;ed Mushrooms
       desc: Fresh mushrooms saut&eacute;ed in butter.
 
@@ -43,5 +42,5 @@ meals:
       desc: Traditional bread pudding topped with whiskey sauce.
     - name: Chocolate Mousse Cup
       desc: Chocolate Mousse in an edible Chocolate Godiva Cup.
-    - name: Fresh Seasonal Berries with Sweet Cream Sauce 
+    - name: Fresh Seasonal Berries with Sweet Cream Sauce
       desc: A celebration of natural flavors. Simple and simply sensational!

@@ -10,17 +10,26 @@ meals:
   price: 15
 
   courses:
-  - name: Anti-pasto
+  - name: Appetizer
     choices:
-    - name: Bruschette romana (1 piece) and choice of zuppa d&#39;giorno
+    - name: Insalata con Nocci e Frutta
+      desc: Mixed greens, toasted walnuts, blue cheese, fresh mango, strawberries and grilled peaches with prosecco vinaigrette
+    - name: Francesca Salad
+    - name: Calamari
 
   - name: Entree
     choices:
-    - name: Any salad entree, Pasta, Panino or Pollio D&#39;Giorno from our lunch menu
+    - name: Thin Crust Pizza
+      desc: with basil pesto, fresh mozzarella, beefsteak tomatoes, grilled onions and roasted bell peppers
+    - name: Tilapia con Fagiulini
+      desc: Pan seared tilapia with mushrooms, cannellini bean, cherry tomatoes, escarole and smoked apple wood bacon in tarragon butter sauce
+    - name: Pollo con Risotto
+      desc: Pan roasted chicken breast served over risotto with mushroom, roasted red bell pepper, spinach and sun dried tomatoes in pesto basil sauce
 
   - name: Dolci
     choices:
     - name: Tiramisu
+    - name: Espresso Brule
     - name: Profiterole
 
 
@@ -30,23 +39,22 @@ meals:
   courses:
   - name: insalata
     choices:
-    - name: Caprese
-      desc: Sliced tomatoes, fresh mozzarella, olive oil and basil
+    - name: Insalata con Nocci e Frutta
+      desc: Mixed greens, toasted walnuts, blue cheese, fresh mango, strawberries and grilled peaches with prosecco vinaigrette
     - name: Francesca Salad
-      desc: Romaine, radicchio, endive, carrots, cucumber, tomatoes, arugula and red wine vinaigrette
-    - name: Zuppa del Giorno
-      desc: Chef&#39;s soup of the day
+    - name: Calamari
 
   - name: Entree
     choices:
-    - name: Ravioli ai Spinaci
-      desc: Spinach filled ravioli with a four cheese sauce, spinach and a tomato sauce
-    - name: Pollo al Limone
-      desc: Chicken breast with a lemon white wine sauce and capers and fresh saut&eacute;ed spinach
-    - name: Pesco ai Funghi
-      desc: Roasted tilapia with wild mushrooms, spinich, tomatoes and herbs
+    - name: Tilapia Con Porri
+      desc: Pan roasted tilapia with leeks, mushrooms, fresh tomatoes, artichokes and capers in oregano butter sauce
+    - name: Cappellini al Pomopori
+      desc: Angel hair pasta sautéed with roasted garlic, basil, fresh tomatoes and spinach tossed with fresh mozarella
+    - name: Romano Chicken
+      desc: 1/2 chicken breast roasted with herbs and potatoes
 
   - name: Dolci
     choices:
     - name: Tiramisu
+    - name: Espresso Brule
     - name: Profiterole

@@ -1,0 +1,36 @@
+name: Pasqual's (Verona)
+address: 100 Cross Country Road, Verona, WI 53593
+phone: 608.497.3333
+hours: 
+lat: 43.001854
+lng: -89.528908
+
+meals:
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Mexican Potato Soup
+      desc: with red chile creme
+    - name: Salad of Arugula
+      desc: with chipotle balsamic, strawberries and ch&egrave;vre cream
+    - name: House Made Pinto Bean and Chorizo Mash
+      desc: with queso fresco- served with chips
+
+  - name: Entree
+    choices:
+    - name: Green Chile Chicken Breast
+      desc: with grilled pineapple salsa and green rice
+    - name: Shrimp Diablo
+      desc: kissed with spice and grilled to perfection, served with saffrom basmati rice, roasted peppers and onions
+    - name: Short Ribs
+      desc: slow roasted guajillo chile beef ribs served with Santa Fe black beans and collard greens
+
+  - name: Dessert
+    choices:
+    - name: Mexican Chocolate Cake
+      desc: with mole caramel
+    - name: Key Lime Tart
+    - name: Strawberry Daiquiri Cheesecake

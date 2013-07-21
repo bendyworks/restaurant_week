@@ -12,29 +12,32 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: New England Clam Chowder
-      desc: with fresh Dill
-    - name: Salad of Mix Greens 
-      desc: with dried cranberries, candied walnuts, grilled onions, shredded parmesan and citrus vinaigrette
-    - name: Wisconsin Artisanal Cheese and Garnishes
+    - name: Roasted Sweet Corn Bisque
+      desc: with crispy applewood bacon and semolina croutons
+    - name: House Caesar
+      desc: chopped hearts of romaine tossed with house-made caesar dressing and served with shredded parmesan, croutons and lemon
+    - name: Flash Fried Calamari
+      desc: with sweet and spicy chili sauce and crushed peanuts
 
   - name: Entree
     choices:
-    - name: Blackened Chicken Breast Sandwich 
-      desc: with mozzarella, lettuce, tomato, onion, and herbed garlic aioli on ciabatta bread *vegetarian with roasted mushroom cap instead of chicken
-    - name: Jambalaya
-      desc: andouille, rock shrimp, and mussels with creole tomato sauce over rice
-    - name: Smoked Beef Tenderloin Sous Vide
-      desc: sliced and served with roasted root vegetables with agave nectar glaze, crispy kale and horseradish cream sauce
+    - name: PEI Mussels
+      desc: simmered in a coconut curry broth with potatoes, carrots, onions and served with garlic toasted bread
+    - name: Miso Cod
+      desc: with roasted mushrooms and baby spinach and drizzled with balsamic teriyaki (vegetarian if portabella cap is substitued for the Cod)
+    - name: Smoked Beef Brisket Sandwich
+      desc: with caramelized onions, cheddar and roasted garlic aioli served with mixed greens tossed in balsamic dressing
+    - name: Lobster Club ($20)
+      desc: Lobster salad with mayonnaise, olives and fresh lemon topped with applewood smoked bacon, local tomato and leaf lettuce on toasted sourdough bread.  Served with fries.
 
   - name: Dessert
     choices:
-    - name: Dark Chocolate Mocha Tart
-      desc: with salted caramel and fresh raspberries
-    - name: House Made Sorbet served 
-      desc: with fresh fruit and sugared wonton crisp
-    - name: Brandy Apple Cobbler
-      desc: with cream cheese, streusel topping and cardamom chantilly cream
+    - name: Key Lime Tart
+      desc: with chantilly cream, lime supremes and strawberry
+    - name: Chocolate Terrine
+      desc: with berry coulis, ginger chantilly, raspberries and sea salt
+    - name: House Made Fruit Sorbet
+      desc: House made fruit sorbet with a sugared wonton and fresh fruit
 
 
 - type: dinner
@@ -43,26 +46,27 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: New England Style Clam Chowder
-      desc: with fresh Dill
-    - name: Salad of Mixed Greens
-      desc: with dried cranberries, candied walnuts, onion, shredded parmesan and citrus vinaigrette
-    - name: Wisconsin Artisanal Cheese and Garnishes
+    - name: Roasted Sweet Corn Bisque
+      desc: with crispy applewood bacon and semolina croutons
+    - name: House Caesar
+      desc: chopped hearts of romaine tossed with house-made caesar dressing and served with shredded parmesan, croutons and lemon
+    - name: Flash Fried Calamari
+      desc: with sweet and spicy chili sauce and crushed peanuts
 
   - name: Second Course
     choices:
-    - name: Slow Roasted and Garlic Stuffed Porchetta
-      desc: sliced and served with roasted root vegetables with agave nectar glaze, crispy kale and Italian salsa verde
-    - name: Ginger and Scallion Crusted Salmon
-      desc: with roasted garlic mashed potatoes, crispy onion, hoisin and plum sauce
-    - name: Steak Medallions Au Poivre
-      desc: with creamy whipped potatoes, roasted brussel 
+    - name: CAB Strip Loin
+      desc: with Vietnamese steak sauce, charred scallions, roasted garlic mashed potatoes and braised mushroom blend. Upgrade to 8oz. tenderloin for $15 supplement.
+    - name: Salmon au Poivre
+      desc: with spiced fig vinaigrette, citrus scented summer squash and fresh arugula
+    - name: Scaloppini of Airline Chicken Breast
+      desc: with honey and thyme braised carrots, saut&eacute;ed pea pods and piquant caribbean agro dolce
 
-  - name: Third Course
+  - name: Dessert
     choices:
-    - name: Dark Chocolate Mocha Tart
-      desc: with salted caramel and fresh raspberries
-    - name: House Made Sorbet
-      desc: served with fresh fruit and sugared wonton crisp
-    - name: Brandy Apple Cobbler
-      desc: with cream cheese, streusel topping and cardamom chantilly cream
+    - name: Key Lime Tart
+      desc: with chantilly cream, lime supremes and strawberry
+    - name: Chocolate Terrine
+      desc: with berry coulis, ginger chantilly, raspberries and sea salt
+    - name: House Made Fruit Sorbet
+      desc: House made fruit sorbet with a sugared wonton and fresh fruit

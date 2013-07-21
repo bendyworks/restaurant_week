@@ -10,54 +10,54 @@ meals:
   price: 15
 
   courses:
-  - name: First Course
+  - name: Appetizer
     choices:
-    - name: Mushroom, Caramelized Leek and Brie Tart
-      desc: with Chive Crema
-    - name: Caramelized Bacon and Roasted Fennel Soup
-      desc: with Apricot Mousse and Grilled Sourdough
-    - name: 'Scallop with Corn 3 Ways:'
-      desc: Cornmeal Crust, Apple Bacon Corn Ragout, Saffrom Corn Puree
+    - name: Roast Beets
+      desc: with pistachios, gorgonzola and orange
+    - name: Fried Sweet Sausage
+      desc: stuffed with olive crostini with fresh mozzarella and tomato
+    - name: Roast Summer Squash Salad
+      desc: with warmed blue cheese and balsamic
 
-  - name: Second Course
+  - name: Entree
     choices:
-    - name: Wisconsin Aged Cheddar and Root Vegetable Gratin
-      desc: with black truffle cream sauce and sauteed swiff chard
-    - name: Prosciutto Wrapped Apple and Pork Roulade
-      desc: with orange rosemary cream and vegetable
-    - name: Shiitake, corn and roasted garlic cream cheese stuffed fish
-      desc: with brown butter vegetable and radish
+    - name: Fancy Pork and Beans
+      desc: "(not from a can)"
+    - name: Hoisin Glazed Beef
+      desc: with sweet wasabi potato
+    - name: Asparagus Ravioli
+      desc: with spinach-lemon-pistachio
 
-  - name: Third Course
+  - name: Dessert
     choices:
-    - name: Maple Bacon Cupcake with Caramelized Bacon
-    - name: Coconut Tres Leches, Blood Orange Strawberry Jam
-    - name: Saffron Poached Pear with Winter Spiced Lemon Custard
+    - name: Strawberry Shortcake
+    - name: Mixed Berry Free Form Tart
+    - name: Profiteroles and Chocolate Cream
 
 - type: dinner
-  price: 15
+  price: 25
 
   courses:
-  - name: First Course
+  - name: Appetizer
     choices:
-    - name: Mushroom, Caramelized Leek and Brie Tart
-      desc: with Chive Crema
-    - name: Caramelized Bacon and Roasted Fennel Soup
-      desc: with Apricot Mousse and Grilled Sourdough
-    - name: 'Scallop with Corn 3 Ways:'
-      desc: Cornmeal Crust, Apple Bacon Corn Ragout, Saffrom Corn Puree
+    - name: Roast Beets
+      desc: with pistachios, gorgonzola and orange
+    - name: Fried Sweet Sausage
+      desc: stuffed with olive crostini with fresh mozzarella and tomato
+    - name: Roast Summer Squash Salad
+      desc: with warmed blue cheese and balsamic
 
-  - name: Second Course
+  - name: Entree
     choices:
-    - name: Wisconsin Aged Cheddar and Root Vegetable Gratin
-      desc: with black truffle cream sauce and sauteed swiff chard
-    - name: Prosciutto Wrapped Apple and Pork Roulade
-      desc: with orange rosemary cream and vegetable
-    - name: Shiitake, corn and roasted garlic cream cheese stuffed fish
-      desc: with brown butter vegetable and radish
+    - name: Fancy Pork and Beans
+      desc: "(not from a can)"
+    - name: Hoisin Glazed Beef
+      desc: with sweet wasabi potato
+    - name: Asparagus Ravioli
+      desc: with spinach-lemon-pistachio
 
-  - name: Third Course
+  - name: Dessert
     choices:
-    - name: Maple Bacon Cupcake with Caramelized Bacon
-    - name: Coconut Tres Leches, Blood Orange Strawberry Jam
-    - name: Saffron Poached Pear with Winter Spiced Lemon Custard
+    - name: Strawberry Shortcake
+    - name: Mixed Berry Free Form Tart
+    - name: Profiteroles and Chocolate Cream

@@ -1,0 +1,32 @@
+name: Tempest Oyster Bar
+address: 120 East Wilson Street, Madison, WI 53703
+phone: 608.258.1443
+hours:
+lat: 43.07379
+lng: -89.379739
+
+meals:
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Fish and Corn Chowder
+      desc: Arugula salad with chevre and hazelnuts
+
+  - name: Entree
+    choices:
+    - name: Blue Marlin
+      desc: Boiled with pesto crust, lime aioli and fried leeks
+    - name: Salmon
+      desc: Broiled with red and gold beets, apple rum syrup, walnuts and kale
+    - name: Whitefish
+      desc: Pan fried with buttermilk, sweet corn, leeks and roasted capers
+    - name: Double Cut Pork Chop
+      desc: Pan seared with blue cheese, apple mustard jus and Yukon gold mash
+
+  - name: Dessert
+    choices:
+    - name: Carmel Chocolate Pecan Tart
+    - name: Key Lime Pie

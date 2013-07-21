@@ -12,30 +12,30 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Squash Soup
-      desc: Cocoa Sp&auml;tzli, Pumpkin Seeds, Smoked Maple, Sage
-    - name: Game Bird Terrine
-      desc: Chicories, Preserved Chicken of the Woods' Mushrooms, Wild Rice, and Black Current Vinaigrette
-    - name: Bleu Mont Cheese Salad
-      desc: Winter Greens, Willi's Bandaged Cheddar, Pickled Pears, Cipollini Mostarda, Walnut Sourdough
+    - name: Cauliflower Soup
+      desc: Smoked Eggplant, Golden Raisin Agrodolce, Calabrian Peppers, Mint
+    - name: P&acirc;t&eacute; Campagnola
+      desc: Chicories, Green Beans, Basil, Pistachio, Nasturtium Vinaigrette
+    - name: Panzanella
+      desc: Summer Squash, Country Bread, Arugula, Grilled Scallion, Ricotta, Salsa Verde
 
   - name: Entree
     choices:
-    - name: Grilled Zucchini Panini
-      desc: Fontina, Piperade, Arugula, Multigrain Sourdough
+    - name: Zucchini Panino
+      desc: Fontina, Peperonata, Arugula, Multigrain Sourdough
     - name: Smoked Pork Shank Sandwich
-      desc: Giadiniera, Gain Mustard, Pickled Red Onion, Grilled Focaccia
+      desc: Giardiniera, Grain Mustard, Pickled Red Onion, Grilled Focaccia
     - name: Orecchiette
-      desc: Rapini Pesto, Spicy Chicken Sausage, Broccolini, Pistachios, Fiore Sardo
+      desc: Rapini Pesto, Spicy Chicken Sausage, Broccolini, Fiore Sardo
 
   - name: Dessert
     choices:
-    - name: Basque Cake
-      desc: Pink Lady Apple, Zabaglione, Marcona Almonds, Molasses Gelato
+    - name: Finanziera
+      desc: Brown Butter Cake, Blueberries, Almonds, Buttermilk Gelato
     - name: Baked Ganache
-      desc: Candied Kumquats, Crispy Meringue, Toasted Walnuts, Cinnamon Gelato
+      desc: Cherries, Crispy Meringue, Toasted Walnuts, Cinnamon Gelato
     - name: Affogato
-      desc: Caramel, Gelato, Sea Salt, Espresso, Bombolini
+      desc: Caramel Gelato, Sea Salt, Espresso, Bombolini
 
 - type: dinner
   price: 35
@@ -43,27 +43,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Squash Soup
-      desc: Cocoa Sp&auml;tzli, Pumpkin Seeds, Smoked Maple, Sage
-    - name: Game Bird Terrine
-      desc: "Chicories, Preserved Chicken of the Woods' Mushrooms, Wild Rice, and Black Current Vinaigrette"
-    - name: Bleu Mont Cheese Salad
-      desc: "Winter Greens, Willi's Bandaged Cheddar, Pickled Pears, Cipollini Mostarda, Walnut Sourdough"
+    - name: Cauliflower Soup
+      desc: Smoked Eggplant, Golden Raisin Agrodolce, Calabrian Peppers, Mint
+    - name: P&acirc;t&eacute; Campagnola
+      desc: Chicories, Green Beans, Basil, Pistachio, Nasturtium Vinaigrette
+    - name: Panzanella
+      desc: Summer Squash, Country Bread, Arugula, Grilled Scallion, Ricotta, Salsa Verde
 
   - name: Entree
     choices:
-    - name: Snapper Brodetto
-      desc: Mussels, Clams, Tomato Broth, Chile Oil
-    - name: Braised Pancetta
-      desc: Lacinato Kale, Savoy Cabbage, Cannellini Beans, Grilled Country Bread, Tuscan Olive Oil
+    - name: Seafood Brodetto
+      desc: Snapper, Shellfish, Tomato Broth, Chile Oil
+    - name: Whey Braised Pancetta
+      desc: Fennel, Scarlet Radish, Pickled Ground Cherries, Lovage, Cippolini Soubise
     - name: Orecchiette
-      desc: Rapini Pesto, Spicy Chicken Sausage, Broccolini, Pistachios, Fiore Sardo
+      desc: Rapini Pesto, Spicy Chicken Sausage, Broccolini, Fiore Sardo
 
   - name: Dessert
     choices:
-    - name: Basque Cake
-      desc: Pink Lady Apple, Zabaglione, Marcona Almonds, Molasses Gelato
+    - name: Finanziera
+      desc: Brown Butter Cake, Blueberries, Almonds, Buttermilk Gelato
     - name: Baked Ganache
-      desc: Candied Kumquats, Crispy Meringue, Toasted Walnuts, Cinnamon Gelato
+      desc: Cherries, Crispy Meringue, Toasted Walnuts, Cinnamon Gelato
     - name: Affogato
-      desc: Caramel, Gelato, Sea Salt, Espresso, Bombolini
+      desc: Caramel Gelato, Sea Salt, Espresso, Bombolini

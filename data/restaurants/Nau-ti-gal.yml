@@ -1,0 +1,38 @@
+name: Nau-Ti-Gal
+address: 5360 Westport Road, Madison, WI 53704
+phone: 608.246.3130
+hours:
+lat: 43.150159
+lng: -89.404185
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Clam Chowder
+      desc: Rich and delicious, with baby clams and Sassy Cow cream; featured on The Food Network
+    - name: Firecracker Shrimp
+      desc: Lightly breaded medium-sized shrimp tossed in a sweet and spicy Thai chile sauce
+    - name: Panzanella Salad
+      desc: Romaine with Italian bread croutons, fresh basil, Roma tomatoes, red onion, and fresh Mozzarella; tossed in balsamic vinaigrette
+
+  - name: Entree
+    choices:
+    - name: Scotch Ale-Poached Cold Water Lobster Tail
+      desc: Poached in a Lake Louie Scotch Ale then tossed in Bayou Butter; served with house-baked cornbread and sauteed spinach
+    - name: Salmon Neptune
+      desc: Fresh Salmon topped with jumbo shrimp, asparagus, and hollandaise; served with garlic smashed potatoes
+    - name: Steak &amp; Cold Water Lobster Tail
+      desc: Black Earth Meats 7 oz. Top Sirloin paired with a Cold Water Lobster Tail; served with garlic smashed potatoes and drawn butter
+
+  - name: Dessert
+    choices:
+    - name: Rocky Road Brownie Sundae
+      desc: Chocolate Shoppe Vanilla Bean ice cream atop a house-made brownie and topped with chocolate chips, peanuts, chocolate sauce, and marshmallow cream
+    - name: Mariner's Cheesecake
+      desc: Betty von Rutenberg's own recipe; a northside tradition for over four decades
+    - name: Key Lime Pie
+      desc: House-made with real Key Limes; a light and tasty treat

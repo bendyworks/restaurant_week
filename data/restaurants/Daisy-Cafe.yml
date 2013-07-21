@@ -12,27 +12,27 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: French Onion Tomato Soup
-      desc: with a sharo cheddar crostini
-    - name: Crab &amp; Roasted Vegetable Enchilada
-      desc: with our signature tomatillo-avocado salsa
-    - name: Roasted Beet Salad with Blue Cheese &amp; Walnuts
-      desc: served over mixed spring greens with orange-shallot vinaigrette
+    - name: Ceviche Gazpacho
+      desc: served with a parmesan crostini
+    - name: Tequila-Lime Fruit Salad
+      desc: served over arugula and topped with crumbled Machego cheese
+    - name: Wiscocschetta
+      desc: toasted baguette slices topped with melted Cedar Grove butterk&auml;se cheese, Ale Asylum contorter porter-caramelized onions &amp; Underground Food Collective sausage
 
   - name: Second Course
     choices:
-    - name: Daisy Cassoulet
-      desc: Our take on the classic slow-cooked French stew, rich with pulled duck, smoked sausage, bacon &amp; seasoned white beans
     - name: Two Fish, Two Ways
-      desc: 'From our friends at Bering Bounty in Verona, two wild-cause, gill-netted fish: Alaskan Salmon topped with house-made Daisy pesto; Bering Bay Cod topped with an herbed sun-dried tomato compound butter.  Served with saut&eacute;ed vegetables &amp; mashed potatoes'
-    - name: Cabernet Steak
-      desc: Cabernet &amp; herb-marinated bistro steak cooked to order &amp; topped with bacon-Cabernet sauce &amp; carmelized shallots. Served with saut&eacute;ed vegetables &amp; mashed potatoes
-    - name: Portobello Mushroom Ravioli al Verde
-      desc: Fresh portobello &amp; parmesan ravioli from our friends at RP&#39;s Pasta, topped with our own flavorful green vegetables &amp; herb cream sauce and garnished with chopped tomatoes and a drizzle of goat cheese sauce
+      desc: 'From our friends at Bering Bounty in Verona, two wild caught, gill-netted fish: Alaskan King Salmon topped with house-made Daisy pesto; Bering Sea Cod topped with fruit salsa. Served with saut&eacute;ed vegetables &amp; mashed potatoes'
+    - name: Bacon-Brandy-Blue Steak
+      desc: Herb-marinated bistro steak cooked to order &amp; topped with bacon-brandy onion sauce &amp; crumbled bleu cheese. Served with saut&eacute;ed vegetables &amp; mashed potatoes.
+    - name: Ultimate Tuna Nicoise Salad
+      desc: Herb-marinated tuna, balsamic-marinated tomatoes and shallots, Brie-gratin potatoes, green beans with bacon, and hard-boiled eggs, served over mixed greens.
+    - name: Mozzarella Tortelloni al Verde
+      desc: Fresh smoked mozzarella tortelloni from our friends at RP's Pasta, topped with our own flavorful green vegetable &amp; herb cream sauce and garnished with chopped tomatoes and a drizzle of goat cheese sauce. (Gluten-free fettuccine available to substitute for tortelloni)
 
   - name: Third Course
     choices:
     - name: Extreme Chocolate Butterscotch-Pecan Cupcake
-    - name: House-made Cheesecake
-    - name: House-made Pear Tart Tatin
-      desc: with brandy-mousseline sauce
+      desc: Rheinlander Chocolate Bunny Stout-Chocolate cake with Bunny Stout Chocolate Fudge filling and Chocolate Whipped Cream frosting.
+    - name: House-made White Chocolate, Lemon &amp; Orange Cheesecake
+    - name: House-made Mojito Panna Cotta

@@ -12,31 +12,29 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Soup du jour
-    - name: Mixed Green and Bibb Lettuce Salad
-      desc: Shaved shallots, crispy chickpeas, beets and sieved egg in a champagne tarragon vinaigrette
-    - name: Apple, endive salad
-      desc: With toasted walnuts, blue cheese, crispy squash and black current vinaigrette
-    - name: House Made P&acirc;t&eacute;
+    - name: Gazpacho
+      desc: with basil cr&egrave;me fra&icirc;che
+    - name: Salad of Mixed Melons
+      desc: watercress, fennel, mint and balsamic glaze
+    - name: Smoked Whitefish Croquette
+      desc: petite crisp and tangy cucumber, radish and tomato salad
 
   - name: Entree
     choices:
-    - name: Grilled Norwegian Salmon
-      desc: with French lentils, saut&eacute;ed spinach, portobello mushroom, tomato and beurre blanc
-    - name: Steamed Mussels
-      desc: with frites
-    - name: Gruy&egrave;re and Leek Stuffed Bone-in Chicken Breast
-      desc: with bacon, lardons, roasted carrots, turnips, new potatoes, brussels sprouts, riesling sauce
-    - name: Cassoulet, Duck Confit, Garlic Sausage and Braised Lamb
-      desc: over white beans
-    - name: Parmesan Polenta
-      desc: with creamy mushroom, leek and roasted tomato rago&ucirc;t, crispy parsnips, truffle oil
+    - name: Grilled Salmon
+      desc: seared white cheddar-piquillo pepper polenta, grilled fennel, tomato and onion, basil-lime vinaigrette
+    - name: Duck Confit of Leg and Thigh
+      desc: charred green beans, green cabbage, roasted potatoes and blackberry compote
+    - name: Grilled Pork Chop
+      desc: herbed citrus jus, roasted fennel, green olive, cherry, dandelion greens and faro
+    - name: House-made Cavatelli
+      desc: summer vegetable saut&eacute;, garlic, red chile flake, basil, and Parmesan cheese
 
   - name: Dessert
     choices:
-    - name: Gianduja Crunch, chocolate hazelnut ganache
-      desc: on a crunchy feuilletine crust, caramel sauce and hazelnut brittle tuille
-    - name: Cr&egrave;me Br&ucirc;l&eacute;e
-      desc: with french vanilla bean
-    - name: Sticky Toffee Pudding
-      desc: Bourbon ice cream and caramel sauce
+    - name: Profiteroles
+      desc: vanilla bean ice cream, chocolate sauce
+    - name: Strawberries
+      desc: fresh whipped cream, thyme shortcake
+    - name: Blueberry Crostata
+      desc: toasted almonds, lemon curd

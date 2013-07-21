@@ -25,9 +25,9 @@ meals:
       desc: Harp battered cod fillet, lightly fried, served with thick cut fries, curry slaw and tartar sauce.
     - name: Guinness Irish Stew
       desc: Lamb, onions, carrots, turnips and potatoes simmered gently with Guinness and fresh herbs.
-    - name: Shepherd&rsquo;s Pie
+    - name: Shepherd's Pie
       desc: Certified angus beef, peas and carrots, gently spiced and topped with colcannon mashed potatoes.
-    - name: Vegetarian Shepherd&rsquo;s Pie
+    - name: Vegetarian Shepherd's Pie
       desc: Mushrooms, barley, peas and carrots in a rich gravy topped with colcannon mashed potatoes.
     - name: Bangers and Mash
       desc: Homemade Irish sausages served with colcannon mashed potatoes and topped with a roasted apple shallot sauce.
@@ -36,8 +36,9 @@ meals:
 
   - name: dessert
     choices:
-    - name: Bailey&rsquo;s Cheesecake
-      desc: Bailey&rsquo;s Irish Cream cheesecake with graham cracker crust and caramel sauce.
-    - name: Guinness Chocolate Cream Pie Irish Cream and Dark Chocolate
+    - name: Bailey's Cheesecake
+      desc: Bailey's Irish Cream cheesecake with graham cracker crust and caramel sauce.
+    - name: Apple-Blackberry Crumble
+      desc: with oatmeal streusel and creme fraiche
     - name: Bread Pudding
       desc: Wild blueberry and cinnamon struesel bread pudding, served with vanilla ice cream.

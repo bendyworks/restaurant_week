@@ -13,29 +13,29 @@ meals:
   - name: Appetizer
     choices:
     - name: Causitas Limena
-      desc: Traditional preparation of freshly mashed potatoes, infused with key lime juice and yellow chili pepper, topped with shredded chicken breast in our homemade sauce.
-    - name: Yuca a la Huancaina
-      desc: 'Fried yucca perfectly accompanied with &ldquo;huancaina cream&rdquo;: captivating mild Peruvian yellow hot chili pepper, mixed with a white cheese sauce (V)'
-    - name: Tamalito verde Norteno
-      desc: Traditional northem tamale made with fresh ground corn and cilantro is formed into dough and stuffed with chicken marinated in cilantro, served with creole sauce
+      desc: Traditional preparation of freshly mashed potatoes, infused with key lime juice and yellow chili pepper, the perfect mix of chicken, botija olives and Huancaina sauce garnished with egg
+    - name: Yuca a la Huancaina (V)
+      desc: 'Fried yucca perfectly accompanied with "huancaina cream": captivating mild Peruvian yellow hot chili pepper, mixed with a white cheese sauce'
+    - name: Tamalito
+      desc: Peruvian ground corn bread stuffed with smoked pork, botija olive and boiled egg. Topped with Creole sauce
 
   - name: Entree
     choices:
     - name: Seco a la Limena
-      desc: Juicy Beef shoulder stew, cilantro and bear flavor, served with beans and rice, garnished with fried yucca and Creole sauce
-    - name: Aji de Pollo
-      desc: Tender shredded breast of chicken prepared in a creamy Peruvian sauce of yellow pepper, garnished with roasted walnut, fresh parmesan cheese, black botija olive, boiled egg, served with white rice and boiled potatoes
+      desc: Juicy beef shoulder stew, cilantro and beer flavor, served with boiled potatoes and rice, garnished with Creole sauce
+    - name: Escabeche de Pescado
+      desc: Lightly fried fish fillets smothered with aji panca, onions and red peppers accompanied with white rice and garnished with black botija olive and boiled egg
     - name: Adobo Arequipeno
-      desc: Peruvian southern plate with tenderloin pork, smothered in aji panca, covered with onion &amp; accompanied with sweet potatoes glaze and white rice
+      desc: Peruvian southern plate tenerloin pork smothered in aji panca covered with onion &amp; accompanied with sweet potatoes glaze and white
 
   - name: Dessert
     choices:
-    - name: Arroz con Leche
+    - name: Arroz con Leche a la Limena
       desc: Peruvian style rice pudding, mixture of condensed milk, aromatic with pisco (Peruvian brandy), garnished with sweet raisin and cinnamon.
     - name: Tres Leches
       desc: Sponge like cake texture covered with a delicious five milk syrup (evaporated, condensed, cream, coconut and fresh milk, aromatized with pisco (Peruvian brandy) and garnished with whip cream
-    - name: Torta helada de maracuya
-      desc: Layers of rich sponge cake Peruvian sweet flavors, filled with dulce de leche a layer of mousse of passion fruit and covered with passion fruit topped with whip cream
+    - name: Torta Fresca de Pasion Fruit
+      desc: Layers of rich sponge cake Peruvian sweet flavors, filled with dulce de leche a layer of mousse of pasion fruit and covered with pasion fruit topped with whip cream
 
 - type: dinner
   price: 25
@@ -45,25 +45,25 @@ meals:
     choices:
     - name: Ceviche bandera
       desc: 'All time Peruvian classic: fresh Tilapia fish in bite-sized pieces, marinated in lime juice, aji amarillo and aji rocoto, garnished with slivers of red onions, peruvian corn &amp; served in a martini glass.'
-    - name: Trio de causitas
-      desc: Traditional preparation of freshly mashed potatoes, infused with key lime juice and yellow chili pepper, topped with shredded chicken breast in our homemade sauce &amp; garnished with avocado
-    - name: Papa inkas a la huancaina
-      desc: Boiled potatoes covered in &ldquo;Huancaina cream&rdquo; Peruvian yellow chili pepper mixed with milk and white cheese, garnished with boiled egg and black olive   (V)
+    - name: Causa de ocopa de camarones
+      desc: Traditional preparation  of freshly mashed potatoes, infused with key lime juice and yellow chilli pepper, topped shrimp in traditional ocopa sauce garnished with egg and botija olive
+    - name: Yucas a la Huancaina (V)
+      desc: 'Fried yucca slices perfectly accompanied with "huancaina cream": captivating mild Peruvian yellow hot chili pepper, mixed with a white cheese sauce'
 
   - name: Entree
     choices:
-    - name: Pescado Inka
-      desc: A flavored lightly fried fish fillet, stuffed with shredded crab in a homemade white sauce grated with parmesan cheese, served with white rice
+    - name: Mar Pacifico
+      desc: A flavored lightly fried fish fillet, stuffed with shredded crab in a homemade white sauce with grated parmesan cheese, served with white rice
     - name: Lomo Saltado
-      desc: A Bite sized USDA-CHOICE beef tenderloin stir fried with onions, Tomatoes, and cilantro mixed with french fries accompanied with white rice
+      desc: A Bite sized USDA-CHOICE beef tenderloin stir fried with onions, tomatoes, and cilantro mixed with french fries accompanied with white rice
     - name: Aji de Gallina
-      desc: Tender shredded breast of chicken prepared in a creamy Peruvian sauce of yellow pepper, garnished with roasted walnut, fresh parmesan cheese,  black botija olive, boiled egg, served with white rice and boiled potatoes.
+      desc: Tender shredded breast of chicken prepared in a creamy Peruvian sauce of yellow pepper, garnished with roasted walnut, fresh parmesan cheese, black botija olive, boiled egg, served with white rice and boiled potatoes.
 
   - name: Dessert
     choices:
-    - name: Arroz con leche a la limena
+    - name: Arroz con Leche a la Limena
       desc: Peruvian style rice pudding, mixture of condensed milk, aromatic with pisco (Peruvian brandy), garnished with sweet raisin and cinnamon.
-    - name: Tres leches
+    - name: Tres Leches
       desc: Sponge like cake texture covered with a delicious five milk syrup (evaporated, condensed, cream, coconut and fresh milk, aromatized with pisco (Peruvian brandy) and garnished with whip cream
-    - name: Pasion de torta Helada
-      desc: Layers of rich sponge cake Peruvian sweet flavors, filled with dulce de leche a layer of mousse of passion fruit and covered with passion fruit  topped with whip cream
+    - name: Torta Fresca de Pasion Fruit
+      desc: Layers of rich sponge cake Peruvian sweet flavors, filled with dulce de leche a layer of mousse of pasion fruit and covered with pasion fruit topped with whip cream

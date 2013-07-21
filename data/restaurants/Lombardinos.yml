@@ -13,26 +13,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Antipasta Misti
-      desc: Fennel studded Columbus salami &amp; Sartori MontAmore cheese accompanied by wood-roasted pear compote
-    - name: Signature Caesar Salad
-      desc: Romaine lettuce tossed with croutons, Parmigiano-Reggiano &amp; lemon-anchovy dressing, garnished with an anchovy, olive tapenade &amp; hard- cooked egg
-    - name: Ribollita
-      desc: Tuscan white bean soup with smoked pork, toasted bread &amp; fresh sage, garnished with olive oil
+    - name: Insalata Lombardino
+      desc: Mixed greens with slivered red onion, shaved fennel &amp; Italian parsley, dressed with fennel seed vinaigrette
+    - name: Tomato Soup
+      desc: Garnished with cr&egrave;me fraiche
+    - name: Antipasti Salad
+      desc: Market greens tossed with Sartori MontAmore cheese, Soppressata salami, &amp; cherry peppers, dressed with Aleppo pepper &amp; herb vinaigrette
 
   - name: Entree
     choices:
-    - name: Milk Braised Jordanal Farm Pork Shoulder
-      desc: Served on Anson Mills polenta, garnished with pork braising jus
-    - name: Marsala Mushrooms with Linquine
-      desc: Saut&eacute; of local mushrooms, garlic, shallot, fresh sage, marsala &amp; roasted garlic cream, tossed with linguine &amp; garnished with parmesan cheese
-    - name: Pan Seared Sea Scallops
-      desc: With local mushroom medley, fris&eacute;e &amp; brown butter-black truffle vinaigrette
+    - name: Local Lamb Ragu
+      desc: Pinn Oak Ridge farm lamb slowly cooked with San Marzano tomatoes, garlic &amp; white wine, thyme &amp; chili, garnished with pepato cheese
+    - name: Roasted Eggplant Cannelloni
+      desc: Filled with goat cheese &amp; fresh basil, set on saffron cream sauce &amp; a southern Italian style ratatouille of eggplant, red bell pepper, zucchini, onion, celery, tomatoes, garlic and basil
+    - name: Roasted Salmon
+      desc: Served on wood grilled broccolini with spicy calabrese vinaigrette
 
   - name: Dessert
     choices:
-    - name: Olive Oil Orange Cake
-      desc: With blood orange sorbet
-    - name: Sour Cream Panna Cotta
-      desc: Italian style local sour cream custard served with Door County cherry &amp; oat crumble
-    - name: Lombardino&#39;s Tiramisu
+    - name: Buttermilk Panna Cotta
+      desc: Rich Italian style custard with a hint of vanilla & citrus
+    - name: Tiramis&ugrave;
+      desc: Housemade ladyfingers dipped in Kahlua, coffee &amp; amaretto layered with mascarpone mousse &amp; shaved chocolate
+    - name: Black Rum Budino
+      desc: Topped with salted caramel &amp; whipped cream

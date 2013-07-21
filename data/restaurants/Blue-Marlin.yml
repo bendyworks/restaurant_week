@@ -12,24 +12,23 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: Curried Crab Soup with Lemongrass
-    - name: Crab Cake with Red Pepper Remoulade
-    - name: Steamed Mussels
-      desc: with chorizo, tomato, white wine
+    - name: Thai Style Curried Crab Soup
+    - name: Mixed Green Salad
+      desc: with sherry-mustard vinaigrette
+    - name: Steamed PEI Mussels
+      desc: with chorizo, tomato, shallot, white wine
 
   - name: Second Course
     choices:
-    - name: Honey Mustard Marinated Salmon
-      desc: with wild rice chowder, swiss chard
-    - name: Pan Fried Rainbow Trout
-      desc: with beet risotto, parmesan, preserved lemon
+    - name: Summer Vegetable Risotto
+    - name: Pan Seared Walleye
+      desc: with sweet corn &amp; red pepper salad
     - name: Diablo Shrimp Pasta
-      desc: Penne Pasta, chorizo, spicy cream sauce, parmesan
+      desc: Penne Pasta, chorizo, spicy cream sauce, garlic toast
 
   - name: Third Course
     choices:
     - name: Key Lime Pie
-      desc: with citrus syrup and whipped cream
-    - name: Toffee Creme Brulee
-    - name: Raspberry Sorbet
-      desc: with candied orange
+      desc: with citrus syrup
+    - name: Hot Fudge Brownie Sundae
+    - name: Horchata Sorbet

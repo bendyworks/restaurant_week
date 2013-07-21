@@ -13,32 +13,34 @@ meals:
   - name: Appetizer
     choices:
     - name: Porta Salad
-      desc: Romaine and iceberg lettuce with our special blend of ham, salami, cheddar and mozzarella cheese, green peppers and garbanzo beans
+      desc: Romaine and iceberg lettuce topped with our special blend of ham, salami, cheddar and mozzarella cheese, green peppers and garbanzo beans (GF)
     - name: Mediterranean Salad
-      desc: Mixed spring greens topped with sliced red onions, black olives, cherry tomatoes and croutons. Served with Feta cheese dressing
-    - name: Italian Stuffed Mushrooms
-      desc: Stuffed with Italian meats and cheeses
-    - name: Spinach Artichoke Dip
-      desc: Our homemade spinach and artichoke dip. Served with crostinis
+      desc: Mixed spring greens topped with sliced red onions, black olives, cherry tomatoes and croutons. Served with Feta cheese dressing (GF)
+    - name: Bacon Stuffed Mushrooms
+      desc: Stuffed with a blend of cream cheese and bacon
+    - name: Italian Sausage Crostini
+      desc: Garlic seasoned french bread costinis topped with a blend of our Italian sausage, mozzarella cheese and spices
+    - name: Sun-dried Tomato Bruschetta
+      desc: Toasted ciabatta bread topped with walnut-basil pesto, Feta cheese, sun dried tomatoes and toasted pecans
 
   - name: Entree
     choices:
     - name: Steak Braciola
       desc: Top sirloin stuffed with four Italian cheeses and proscuitto, topped with mozzarella cheese and tomato sauce. Served with oven roasted potatoes
-    - name: Cranberry Stuffed Pork Loin
-      desc: USDA center cut pork loin stuffed with cranberries, raisins, onions and spices, topped with a creamy Marsala sauce. Served over a bed of wild rice
-    - name: Maryland Blue Crab Stuffed Shrimp
-      desc: Jumbo gulf shrimp stuffed with Maryland Blue crab, shrimp, scallops, and haddock.  Served over a bed of spinach fettuccine tossed with Parmesan cheese and garlic butter
-    - name: Stuffed New York Strip
-      desc: A 10 ounze USDA choice center cut strip stuffed with mushrooms, almonds, onions and Mozzarella cheese. Served with oven roasted potatoes
+    - name: Pumpkin Ravioli with Gorgonzola Sauce
+      desc: Pumpkin stuffed ravioli topped with a creamy gorgonzola sauce and walnuts
+    - name: Seafood Tetrazzini
+      desc: Spinach fettuccine topped with shrimp, crabmeat, scallops and haddock in a rich cheese sauce
+    - name: Lobster Ravioli
+      desc: Noodle puffs stuffed with lobster, Ricotta cheese and Parmesan cheeses.  Topped with your choice of tomato-vodka or Alfredo sauce
 
   - name: Dessert
     choices:
     - name: Door County Cherry Stuffed Cannoli
       desc: A fluffy pastry stuffed with sweetened Ricotta cheese and Door County cherries
-    - name: Chocolate Mousse Stuffed Cannoli
-      desc: A fluffy pastry stuffed with chocolate mousse
-    - name: Lemon Dreamsicle
-      desc: Lemon gelato topped with orange liquer
-    - name: Chocolate Tartufo
-      desc: Zabaione cream center, surrounded by chocolate gelato and caramelized hazelnuts, dusted with cocoa powder
+    - name: Strawberry and Almond Cannoli
+      desc: A fluffy pastry stuffed with a creamy blend of fresh strawberries, almonds and Ricotta cheese
+    - name: Toasted Almond Cake
+      desc: Layers of sponge cake filled with mascarpone cream and topped with toasted almonds
+    - name: Torta Nocciola
+      desc: Alternating layers of hazelnut cake, hazelnut cream and chocolate cream topped with praline hazelnuts

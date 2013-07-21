@@ -12,27 +12,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Parsnip &amp; Almond Soup
-      desc: with bleu cheese &amp; parsley
-    - name: Beet Carpaccio
-      desc: with arugula, goat cheese &amp; walnut salad
-    - name: Duck Confit
-      desc: over semolina pudding with a pear &amp; currant reduction
+    - name: AJ's Pretzels
+      desc: two soft pretzels made from our unique beer brand starter.  Served with VBC beer mustard &amp; beer cheese dip
+    - name: Sweet Strawberry Salad
+      desc: fresh baby greens &amp; strawberries served with candied almonds, goat cheese, strawberry glaze &amp; balsamic vinaigrette
+    - name: White Chicken Chili
+      desc: white &amp; dark meat chicken stewed in a creamy chicken stock laced with VBC Weissbeir. Garnished with sour cream, scallions &amp; queso fresco
 
   - name: Entree
     choices:
-    - name: Crab Stuffed Beef Tenderloin
-      desc: with polenta cakes, sauteed spinach &amp; a tarragan beurre blanc
-    - name: Truffle Roasted Mushroom Cream Sauce
-      desc: with fettuccine fresh peas &amp; parmesan
-    - name: Poached Swordfish
-      desc: over a carmelized apple &amp; butternut squash risotta with cranberry &amp; thyme sauce
+    - name: Smoked Pork Tenderloin
+      desc: served over mashed potatoes with braised greens &amp; a smoked tomato crema
+    - name: Grilled Atlantic Salmon
+      desc: glazed with VBC BBQ sauce &amp; served on top of a sweet corn polenta with a charred scallion cream sauce
+    - name: Spinach Fettuccine Alfredo
+      desc: finished with a fresh cherry tomato bruschetta &amp; shaved parmesan cheese
 
   - name: Dessert
     choices:
-    - name: Chocolate Cheese Cake
-      desc: with raspberry
-    - name: Peach Cobbler
-      desc: with vanilla ice cream
-    - name: Fluffy White Cake
-      desc: with a dedication butter cream frosting
+    - name: Lemon Curd Panna Cotta
+      desc: served with fresh berries, whipped cream &amp; fresh mint
+    - name: Apple Crisp
+      desc: finished with a cobbler crumble, caramel sauce &amp; vanilla ice cream
+    - name: Chocolate Satin Cake
+      desc: layered with chocolate mousse, chocolate ganache &amp; topped with cookie crumbles

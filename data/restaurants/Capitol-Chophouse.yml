@@ -12,8 +12,8 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Roasted Tomato Basil Soup
-      desc: Fresh Tomatoes | Oregano | Basil
+    - name: Fresh Tomato and Oregano Salad
+      desc: Fresh Local Tomatoes | Oregano | Basil Olive Oil
     - name: Mixed Market Salad
       desc: Tomato | Local Greens | Cucumber, Your choice of Dressing on the side
     - name: Capitol Chowder
@@ -21,21 +21,21 @@ meals:
 
   - name: Entree
     choices:
-    - name: Smoked Pulled Pork Sandwich
-      desc: Smoked Pork | Old World Bread | Chipotle Cole Slaw |Fried Onion
-    - name: Portobello Tart
-      desc: Wild Mushroom| Quinoa | Cranberry | Walnuts | Tart Shell, Cranberry Vinaigrette
-    - name: Grilled Chicken with Sage
-      desc: Grilled Sage Chicken | Mixed grain rice |Herb Au Jus
+    - name: Steak Frites
+      desc: Grilled Ribeye | Old World Bread | Caramelized Onion Fries
+    - name: Watermelon Salad
+      desc: Fennel | Radish | Red Onion | Almonds | Strawberry Vinaigrette
+    - name: Roasted Lamb Sandwich
+      desc: Greek Marinated Roasted Lamb on Grilled Flat Break | Yoghurt | Cucumber, Onions, Relish
 
   - name: Dessert
     choices:
-    - name: Door Country Cherry Crisp
+    - name: Blueberry Crumble
       desc: Vanilla Bean Ice Cream
-    - name: Layer Chocolate Cake
-      desc: Chocolate Sauce
-    - name: Winter Fruit Compote
-      desc: Stewed Apples | Pears | Cranberry
+    - name: Caramel Brownie Sundae
+      desc: Caramel Brownie | Ice Cream | Whip Cream | Caramel Sauce
+    - name: Peach Short Cake
+      desc: Stewed Peaches | Amaretto Cream | Fresh Short Cake
 
 
 - type: dinner
@@ -44,27 +44,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Ahi Tuna Tartar
-      desc: Avacado, Sweet Chili Sauce, Wonton Crackers
-    - name: Roasted Beets and Goat Cheese
-      desc: Mache&rsquo;, Walnut Crumble, Date Puree&rsquo;, Pumpkin Seed Oil
-    - name: Creamy Cauliflower Soup
-      desc: SarVecchio Cheese, Sour Dough Croutons
+    - name: Heirloom Tomato Sampler
+      desc: Fresh mozzarella, basil pesto
+    - name: Fresh Tuna and Radish Salad
+      desc: Tuna, radish salad, wasabi dressing, extra virgin olive oil
+    - name: Capitol Clam Chowder
+      desc: New England style, oyster crackers
 
   - name: Entree
     choices:
     - name: New York Strip
-      desc: Asparagus, Hollandaise
-    - name: Roast Duck Breast
-      desc: Parsnips, Swiss Chard, Plum Sauce
-    - name: Cioppino
-      desc: Scallops, Mussels, Whitefish, White Wine Tomato Broth, Grilled Ciabatta
+      desc: Cilantro, lime, arugula, cherry tomato, red onion
+    - name: Slow Roasted Black Earth Pork
+      desc: Polenta, SarVecchio cheese, arugula
+    - name: Scallops with Cream Corn
+      desc: Scallops, roasted corn, pea shoots, chives
 
   - name: Dessert
     choices:
-    - name: Door County Cherry Crisp
+    - name: Peach Short Cake
+      desc: Stewed peaches, amaretto pastry cream
+    - name: Blueberry Crisp
       desc: Vanilla Bean Ice Cream
-    - name: Chocolate Brownie Terrine
-      desc: Pistachio Crumble, Whipped Cream
-    - name: Wisconsin Cheese
-      desc: Carr Valley Havarti, Dunbarton Blue, La Von Goat Brie, Cranberry Walnut Bread, Cranberry Chutney
+    - name: Chocolate Cr&egrave;me Brulee
+      desc: with marshmallow and gram cracker s'mor style

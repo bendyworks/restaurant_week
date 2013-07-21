@@ -12,26 +12,26 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Beet Salad
-      desc: with sunflower sprouts, mustard-tarragon dressing
-    - name: Celeriac Soup
-      desc: with fried shallots and mitsuba
-    - name: Salmon Spring Roll
-      desc: cucumber salad and peanut sauce
+    - name: Chilled Oyster Trio
+      desc: red wine mignonette threads, cucumber granita, thai relish
+    - name: Shishito &amp; Corn Raviolo
+      desc: corn &amp; scallion puree, chile ricotta salata
+    - name: Cold Dashi and Soba Noodle Salad
+      desc: with seared tuna, wasabi tobikko, and scallion
 
   - name: Entree
     choices:
-    - name: Beef Brisket
-      desc: with parsnip puree, yuza pickled brussel sprout leaves
-    - name: A Trio of Vegetable Rolls
-    - name: Fried Pork Belly
-      desc: with ginger-persimmon compote, micro greens
+    - name: Fried Ginger Chicken &amp; Waffles
+      desc: with kaffir lime syrup and orange butter
+    - name: Marinated &amp; Grilled Red Wattle Pork Shoulder Ssam, Kimchi &amp; Vegetables
+    - name: Swiss Chard Wrapped BBQ'd Black Eyed Peas Dolmas
+      desc: with watermelon-chickpea salad with orange-poppy seed vinaigrette
 
   - name: Dessert
     choices:
-    - name: Banana Spring Rolls
-      desc: with figs and mango sherbet
-    - name: Pineapple &amp; Grape Pate de Fruit
-      desc: with an almond oat cookie, shiso syrup
-    - name: Hot Chocolate
-      desc: with an assortment of cookies
+    - name: Cheese Cake Curd
+      desc: with raspberry and vanilla wafer
+    - name: Compressed Melon
+      desc: with shiso, candied chiles and lime crem&eacute;
+    - name: Apple Cinnamon Rolls
+      desc: with candied pecans and dulce de leche

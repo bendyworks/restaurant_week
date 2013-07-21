@@ -12,23 +12,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Chef&#39;s Favorite Salad
-      desc: Mixed greens with candied pecans, dried cherries, and blue cheese; then lightly dressed with maple balsamic
-    - name: Shrimp Cocktail
-      desc: A simple, elegant classic served with house-made cocktail sauce and lemon
+    - name: Shrimp Ceviche
+      desc: Shrimp marinated in fresh lime juice and a touch of olive oil, combined with fresh tomatoes, red onion, and cilantro
+    - name: Strawberry Summer Salad
+      desc: Fresh mixed greens tossed in raspberry vinaigrette, topped with fresh strawberries, sliced apple, diced celery, and toasted almonds
     - name: World Famous Clam Chowder
+      desc: As seen on The Food Network
 
   - name: Entree
     choices:
-    - name: Classic Surf &amp; Turf (bumps price to $30)
+    - name: Classic Surf & Turf
       desc: A 7 oz. center cut Top Sirloin steak paired with a succulent 6 oz. Lobster Tail (Turf only- 12 oz. New York Strip Steak)
-    - name: Mariner&rsquo;s Shrimp
-      desc: Six of those famous deep fried Mariner&rsquo;s Jumbo Shrimp that you just can&rsquo;t find anywhere else!  Simple, classic and memorable.
-    - name: Admiral&rsquo;s Salmon
+    - name: Mariner's Shrimp
+      desc: Six of those famous deep fried Mariner's Jumbo Shrimp that you just can't find anywhere else!  Simple, classic and memorable.
+    - name: Admiral's Salmon
       desc: Fresh Salmon Filet stuffed with shrimp, crabmeat, and fresh vegetables then baked to perfection and glazed with a lobster cream sauce (Broiled Salmon Filet without shellfish is available upon request)
 
   - name: Dessert
     choices:
-    - name: Betty&rsquo;s Cheesecake with Door County Cherries
+    - name: Strawberry Napoleon
+      desc: Alternating layers of chocolate cake, French vanilla custard, and chocolate mousse topped with fresh strawberries, whipped cream, and chopped pecans
+    - name: Mariner's Cheesecake with Door County Cherry Sauce
+      desc: Betty von Rutenberg's own recipe, served at Mariner's for over four decades
     - name: Key Lime Pie
-    - name: Chocolate Decadence Cake
+      desc: A light and classic summertime treat

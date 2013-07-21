@@ -13,28 +13,24 @@ meals:
   courses:
   - name: appetizer
     choices:
-    - name: Farmhouse Mix Salad
-      desc: Pickled Radish, Mizuno, Sweet Sesame
-    - name: Sweet Potato Veloute
-      desc: Bacon, Chives, Carrot
-
     - name: Pork Belly
-      desc: Leaf Lettuce, Celery Kimchi, Miso-Gochujang
+      desc: Cucumber, Basil, Gazpacho Vinaigrette
+    - name: Roasted Red Pepper Soup
+      desc: Chick Pea, Cilantro, Coriander
+    - name: Tomato and Zucchini Salad
+      desc: Goat cheese curds, Red onion, Herb vinaigrette
 
   - name: entree
     choices:
     - name: Salmon
-      desc: Wild Rice, Brussel Sprouts, Sweet and Sour Sauce
-    - name: Veal Breast
-      desc: Sage Bread Pudding, Citrus Mustard, Parsnip Cream
-    - name: Game Hen
-      desc: Swiss Chard, Fingerling Potato, Poached Egg
+      desc: Chickpea cake, Watercress pur&eacute;e, Fava bean
+    - name: Sweet Corn Risotto
+      desc: Parmesan, Vegetable slaw, Chive
+    - name: Flank Steak
+      desc: Potato mille feuille, Braised shallot, Oyster mushroom, Currant cream sauce
 
   - name: dessert
     choices:
-    - name: White Chocolate Panna Cotta
-      desc: Cinnamon Sable, Poached Pear, Raspberry Coulis
-    - name: Avocado Cake
-      desc: Strawberry Tartar, Pistachio, Rosemary Caramel
+    - name: Chocolate Torte
+    - name: Passion Fruit Parfait
     - name: Wisconsin Cheese
-      desc: Crostini, Jam, Mustard

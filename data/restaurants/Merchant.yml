@@ -11,23 +11,18 @@ meals:
   courses:
   - name: Soup or Salad
     choices:
-    - name: "Today's Chili"
-    - name: Vegetable Soup of the Day
+    - name: "Today's Soups"
     - name: Buttermilk Salads
-    - name: Sunchoke &amp; Escaroles
+    - name: Sunchoke &amp; Escarole Salad
     - name: Warm Spinach &amp; Roasted Onion
-    - name: Endive &amp; Apple
     - name: Classic Caesar
     - name: Lemon &amp; Arugula
     - name: Mixed Greens &amp; Beets
 
   - name: Entree
     choices:
-    - name: Merchant Pho
-    - name: Chicken Pot Pie
-    - name: Chilled Meatloaf Sandwich
     - name: Fried Chicken Sandwich
-    - name: Cubano Sandwich
+    - name: Cubano
     - name: Muffaletta
     - name: Veggie Muffaletta
     - name: Pork Belly Banh Mi
@@ -35,17 +30,9 @@ meals:
     - name: Sausage of the Day
     - name: Sunrise Sandwich
     - name: Grilled Ham &amp; Brie
-    - name: Grilled Mushroom &amp; Leek
-    - name: Merchant Club
+    - name: Merchant BLT
     - name: Merchant Burger
     - name: Classic Burger
-
-  - name: Sweets
-    choices:
-    - name: Dark Chocolate Custard
-    - name: Chocolate &amp; Fruit
-    - name: Daily Gelato
-    - name: Apple Cobbler
 
 - type: dinner
   price: 30
@@ -53,41 +40,39 @@ meals:
   courses:
   - name: Small Plate
     choices:
-    - name: Soup of the Day
-    - name: Fried Sassy Cow Cheese Curds
-    - name: Roasted Maple Garlic Toast
+    - name: Fried Cheese Curds
     - name: Patatas Bravas
-    - name: Pommes Frites
-    - name: Chicharrones
-    - name: Parmesean &amp; Almonds
-    - name: Steamed Mussels
-    - name: Roasted Beets
+    - name: Hand Cut Frites
+    - name: Sweet Corn Hushpuppies
+    - name: Gazpacho
     - name: Buttermilk Salad
-    - name: Arugula Salad
-    - name: Escarole Salad
-    - name: Cured Meats Board
-    - name: Local Cheeses Board
+    - name: Grilled Corn Salad
+    - name: Eggplant Tarte Tatin
+    - name: Olives
+    - name: House Cured Meats
+    - name: Local Cheese
     - name: Beef Tartare
-    - name: House-Pulled Burrata
 
   - name: Entree
     choices:
-    - name: Local Apple Panini
+    - name: Mozzarella Panini
+    - name: The Merchant Market Burger
     - name: Brat Sliders
-    - name: Foie Gras Burger
-    - name: The Merchant Burger
     - name: Classic Burger
-    - name: Autumn Fregola
-    - name: Pappardelle with Pork Ragu
-    - name: Tallegio Rigatoni
-    - name: Red Wine Hanger Steak
-    - name: Wild Alaskan Salmon
-    - name: Chicken Under a Brick
-    - name: Berkshire Pork Shank
+    - name: Fregola Sarda
+    - name: Pork Pappardelle
+    - name: Tagliatelle Nero
+    - name: Steamed Mussels
+    - name: Hand Tossed Flatbread
+    - name: Daube De Bouef
+    - name: Atlantic Salmon
+    - name: Chicken a la Plancha
+    - name: Black Berkshire Porchetta
+    - name: Charred Bone Marrow
 
   - name: Sweets
     choices:
     - name: Dark Chocolate Custard
-    - name: Chocolate &amp; Fruit
-    - name: Daily Gelato
-    - name: Apple Cobbler
+    - name: Fruit Cobbler
+    - name: Rhubarb Soda
+    - name: Warm Cookies

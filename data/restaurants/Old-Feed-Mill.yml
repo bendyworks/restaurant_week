@@ -1,0 +1,33 @@
+name: The Old Feed Mill
+address: 114 Cramer Street, Mazomanie, WI 53560
+phone: 608.795.4909
+hours: 
+lat: 43.17476
+lng: -89.792397
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Mill Stuffed Mushrooms
+      desc: Roasted button mushrooms stuffed with Wisconsin cheese
+    - name: Artichoke Fritters
+      desc: Beer battered deep friend artichokes with dill dip
+
+  - name: Entree
+    choices:
+    - name: Cherry Chicken
+      desc: Chicken breast cooked in a brandy cherry tarragon cream sauce served with rice pilaf and seasonal vegetable
+    - name: Cashew Crusted Pork
+      desc: Pork loin sauteed with cashew breading with apple bechamel served with vanilla sweet potato mash and seasonal vegetable
+    - name: Fork Tender Pot Roast
+      desc: Slow roasted beef with a rich pan gravy served with garlic mashed potatoes and seasonal vegetable
+
+  - name: Dessert
+    choices:
+    - name: Bread Pudding
+    - name: Chocolate Turtle Torte
+    - name: Berry Cobbler Du Jour

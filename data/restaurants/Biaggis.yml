@@ -12,30 +12,30 @@ meals:
   courses:
   - name: appetizer
     choices:
-    - name: Roman Style Goat Cheese Polenta
-      desc: Polenta folded with sweet creamy goat cheese, fresh herbs and garlic presented with marinara sauce
-    - name: Lobster Corn Chowder
-      desc: Lobster, crab, corn and aromatic vegetables in a rich shellfish cream
-    - name: Spinach with Honey Orange Vinaigrette
-      desc: Fresh spinach greens tossed with Mandarin oranges, English peas, thin slice fennel and parmesan cheese in a honey orange vinaigrette
+    - name: Field Greens
+      desc: Fresh greens tossed with roasted red peppers, cucumber, carrot and sweet balsamic vinaigrette
+    - name: Parmigiano Reggiano Tortelloni
+      desc: Fresh tortelloni filled with imported Italian cheese and served in a parmesan broth
+    - name: Bruschetta
+      desc: Grilled Italian bread served with fresh cheese, chili infused olive oil, basil and roasted tomatoes
 
   - name: entree
     choices:
-    - name: Parmesan Chicken with Fresh Tomato Basil Capellini
-      desc: Crispy fried parmesan chicken breast served with Capellini pasta tossed in a fresh tomato basil sauce
-    - name: Spaghetti Aglio e Olio
-      desc: Spaghetti pasta topped in lightly spiced garlic and fresh herb olive oil with baby shrimp
-    - name: Chicken and White Bean Pizza
-      desc: Grilled chicken, white beans, pancetta and lemon baked on our signature thin crust with mozzarella, provolone and parmesan cheeses
+    - name: Garlic Chicken Pillard
+      desc: Chicken marinated with fresh garlic and spices, grilled and served with pickle vegetables and whipped garlic potatoes
+    - name: Cacio e Pepe
+      desc: Fresh fettuccine pasta served in a peppercord and Pecorino cheese sauce with broccoli
+    - name: Parmesan Pork Chop Sandwich
+      desc: Boneless pork loin chop breaded with parmesan cheese, bread crumbs and herbs served on a ciabatta roll with braised kale and provolone cheese. Served with house made potato chips
 
   - name: dessert
     choices:
     - name: Tira Misu
       desc: Classic chocolate espresso dessert
-    - name: Vanilla Almond Soda Float
-      desc: Almond soda with vanilla gelato
-    - name: Tart Apple Gillette
-      desc: Granny smith apple tart with vanilla whipped cream
+    - name: Cannoli
+      desc: Crisp fried dough filled with sweetened mascarpone cheese, pistachios and chocolate
+    - name: Italian Lemon Ice
+      desc: Sweet lemon sorbetto with fresh mint and vanilla whipped cream
 
 - type: dinner
   price: 25
@@ -43,27 +43,27 @@ meals:
   courses:
   - name: appetizer
     choices:
-    - name: Roman Style Goat Cheese Polenta
-      desc: Polenta folded with sweet creamy goat cheese, fresh herbs and garlic presented with marinara sauce
-    - name: Lobster Corn Chowder
-      desc: Lobster, crab, corn and aromatic vegetables in a rich shellfish cream
-    - name: Spinach with Honey Orange Vinaigrette
-      desc: Fresh spinach greens tossed with Mandarin oranges, English peas, thin slice fennel and parmesan cheese in a honey orange vinaigrette
+    - name: Field Greens
+      desc: Fresh greens tossed with roasted red peppers, cucumber, carrot and sweet balsamic vinaigrette
+    - name: Parmigiano Reggiano Tortelloni
+      desc: Fresh tortelloni filled with imported Italian cheese and served in a parmesan broth
+    - name: Bruschetta
+      desc: Grilled Italian bread served with fresh cheese, chili infused olive oil, basil and roasted tomatoes
 
   - name: entree
     choices:
-    - name: Parmesan Chicken with Fresh Tomato Basil Capellini
-      desc: Crispy fried parmesan chicken breast served with Capellini pasta tossed in a fresh tomato basil sauce
-    - name: Spaghetti Aglio e Olio
-      desc: Spaghetti pasta topped in lightly spiced garlic and fresh herb olive oil with baby shrimp
-    - name: Pork Shank Osso Bucco with White Bean Ragu
-      desc: Mini pork shank braised till tender and served with a white bean ragu of aromatic vegetables, pancetta and fresh herbs
+    - name: Garlic Chicken Pillard
+      desc: Chicken marinated with fresh garlic and spices, grilled and served with pickle vegetables and whipped garlic potatoes
+    - name: Cacio e Pepe
+      desc: Fresh fettuccine pasta served in a peppercord and Pecorino cheese sauce with broccoli
+    - name: Parmesan Pork Chop Sandwich
+      desc: Boneless pork loin chop breaded with parmesan cheese, bread crumbs and herbs served on a ciabatta roll with braised kale and provolone cheese. Served with house made potato chips
 
   - name: dessert
     choices:
-    - name: Tira Misuo
-      desc: Classic chocolate espresso dessert.
-    - name: Vanilla Almond Soda Float
-      desc: Almond soda with vanilla gelato
-    - name: Tart Apple Gillette
-      desc: Granny smith apple tart with vanilla whipped cream
+    - name: Tira Misu
+      desc: Classic chocolate espresso dessert
+    - name: Cannoli
+      desc: Crisp fried dough filled with sweetened mascarpone cheese, pistachios and chocolate
+    - name: Italian Lemon Ice
+      desc: Sweet lemon sorbetto with fresh mint and vanilla whipped cream

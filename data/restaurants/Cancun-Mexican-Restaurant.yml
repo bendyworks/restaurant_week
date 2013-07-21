@@ -30,6 +30,10 @@ meals:
     choices:
     - name: Flan
       desc: Mexican vanilla custard dessert
+    - name: Fried Ice Cream
+      desc: Served with crispy cinamon bu&ntilde;uelo cup
+    - name: Curros (cinnamon sticks)
+      desc: Served with vanilla ice cream
 
 - type: dinner
   price: 25
@@ -51,9 +55,13 @@ meals:
     - name: Pollo Con Mole
       desc: Slow oven roasted half chicken topped with our home-made mole negro and queso fresco, served with a scoop of vegetarian rice
     - name: Salmon En Salsa Poblana
-      desc: Fresh char crusted and oven seared salmon topped with a light roasted poblano cream sauce, served with diced-potatoes marinated with chile ancho sauce and vegetarian rice
+      desc: Fresh char crusted and oven seared salmon topped with a light roasted poblano cream sauce, served with dirty rice (vegetable rice mixed with black beans)
 
   - name: Dessert
     choices:
     - name: Flan
       desc: Mexican vanilla custard dessert
+    - name: Fried Ice Cream
+      desc: Served with crispy cinamon bu&ntilde;uelo cup
+    - name: Curros (cinnamon sticks)
+      desc: Served with vanilla ice cream

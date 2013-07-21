@@ -21,11 +21,11 @@ meals:
     choices:
     - name: Chicken and Sausage Jambalaya
     - name: Bowl of Crab Gumbo
-    - name: Shrimp Po&#39;Boy with choice of side
+    - name: Shrimp Po'Boy with choice of side
 
   - name: Dessert
     choices:
-    - name: 2 Geignts
+    - name: 2 Beignets
     - name: Mini Pecan Pie Ala Mode
     - name: Sweet Potato Bread Pudding
 
@@ -44,7 +44,7 @@ meals:
     choices:
     - name: Crawfish Etouffee
     - name: Lobster Jambalaya
-    - name: Blackened Gator PoBoy
+    - name: Blackened Gator Po'Boy
 
   - name: Dessert
     choices:
