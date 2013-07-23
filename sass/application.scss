@@ -181,6 +181,16 @@ $footer-height: 85px;
     width: 190px;
   }
 
+  .social {
+    float: right;
+    margin: 10px 10px 0;
+    > div {
+      float: left;
+      margin: 0 5px;
+    }
+  }
+
+
   .brought_to_you {
     float: right;
     text-align: right;
@@ -295,6 +305,14 @@ $footer-height: 85px;
     .sponsors a.bendyworks:before {
       font-family: 'HammersmithOneRegular', sans serif;
       content: "Bendyworks";
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  #footer {
+    .social {
+      display: none;
     }
   }
 }

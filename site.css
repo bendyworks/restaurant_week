@@ -459,6 +459,12 @@ table {
     float: left;
     font-size: 14px;
     width: 190px; }
+  #footer .social {
+    float: right;
+    margin: 10px 10px 0; }
+    #footer .social > div {
+      float: left;
+      margin: 0 5px; }
   #footer .brought_to_you {
     float: right;
     text-align: right;
@@ -533,3 +539,6 @@ table {
     #footer .sponsors a.bendyworks:before {
       font-family: "HammersmithOneRegular", sans serif;
       content: "Bendyworks"; } }
+@media screen and (max-width: 768px) {
+  #footer .social {
+    display: none; } }
