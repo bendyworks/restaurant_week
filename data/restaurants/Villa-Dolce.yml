@@ -1,0 +1,37 @@
+name: Villa Dolce
+address: 1828 Parmenter St, Middleton 53562
+phone: 608.833.0033
+hours: 11am-10pm
+lat: 43.095434
+lng: -89.511421
+
+meals:
+- type: dinner
+  price: 25
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Italian Garden Salad
+      desc: Mixed greens, shredded carrots, red cabbage, olives, cucumber, tomato, cheese and balsamic vinaigrette dressing
+    - name: Italian White Bean and Kale Soup
+    - name: Florentine Stromboli
+      desc: Creamed spinach, mushrooms, tomato, cheese and herbs
+    - name: Peperonata Bruschetta
+      desc: Italian cream cheese, roasted peppers and olive tapenade
+  - name: Entree
+    choices:
+    - name: Ribeye ($30)
+      desc: roasted red potatoes, creamed spinach, demi-glace, aged blue cheese
+    - name: Crab Cakes
+      desc: lump crab cakes, organic arugula, shaved fennel, fresh grapefruit and balsamic vinaigrette
+    - name: Orecchiette Pasta
+      desc: artisan Lumani's in house made sausage, broccolini and marinated peppers in a creamy garlic cheese sauce
+    - name: Gourmet 12" Villa Dolce Pizza
+      desc: choose from any of our gourmet pizzas
+  - name: Dessert
+    choices:
+    - name: Artisan In-House-Made Gelato Cup
+    - name: Flourless Chocolate Torte
+    - name: Crêpes
+      desc: Chef's choice
