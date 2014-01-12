@@ -7,7 +7,7 @@ lng: -89.4416786
 
 meals:
 - type: dinner
-  price: 25
+  price: 30
 
   courses:
   - name: Appetizer
@@ -24,5 +24,5 @@ meals:
 
   - name: Dessert
     choices:
-    - name: Dessert-Size Grasshopper
+    - name: Dessert Size Grasshopper
     - name: Bailey's Delight Ice Cream Drinks
