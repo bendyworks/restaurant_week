@@ -1,0 +1,42 @@
+name: Plate &amp; Barrel
+address: 804 Liberty Blvd, Sun Prairie, WI 53562
+phone: 608.318.2688
+hours: 4p-Close
+lat: 43.073975
+lng: -89.3957842
+
+meals:
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Soup Du Jour
+    - name: Pig, Fig &amp; Goat Salad
+      desc: Baby arugula and watercress tossed in a fig vinaigrette. Topped with goat cheese, almonds, prosciutto and figs
+    - name: Grilled Romaine Salad
+      desc: Grilled romaine heart dusted with salt and pepper, drizzled with a balsamic reduction, topped with bleu cheese crumbles and grape tomatoes
+    - name: Bacon Wrapped Dates
+      desc: Stuffed with goat cheese and almonds. Drizzled with a pomegranate glaze
+    - name: Artisan Cheese Board for Two
+      desc: Choose 3 cheeses and share!
+
+  - name: Entree
+    choices:
+    - name: Tour of the Midwest
+      desc: Steak &amp; egg, devilled egg, and bacon wrapped quail
+      other: "Suggested Wine Pairing: Carnivor Cabernet Sauvignon, California. 30 bottle, 9 glass, 13.50 big pour"
+    - name: Tour of the Mediterranean
+      desc: Lamb meatballs, stuffed piquillo peppers, and polenta &amp; mushroom bites
+      other: "Suggested Wine Pairing: Red Rock Merlot, California. 26 bottle, 7 glass, 10.50 big pour"
+    - name: Tour De France
+      desc: Chicken roulade, baked scallops, and crawfish beignets
+      other: "Suggested Wine Pairing: Maso Canali Pinot Grigio, Trentino-Alto Adige, Italy. 32 bottle, 9 glass, 13.50 big pour"
+
+  - name: Dessert
+    choices:
+    - name: Pumpkin Mousse
+    - name: Espresso Cr&egrave;me Brulee
+    - name: Bourbon Bread Pudding
+    - name: Chocolate Fondue For Two

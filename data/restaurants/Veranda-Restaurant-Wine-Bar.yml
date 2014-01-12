@@ -49,7 +49,7 @@ meals:
     choices:
     - name: Organic Roasted Beet Salad
       desc: Honey champagne vinaigrette, candied pistachios, red onion, shaved sartori sarvecchio reserve parmesan cheese &amp; parsley oil (GF)
-      other: 'Suggested Wine Pairing: Marc Roman Malbec, Languedoc-Roussillon, France'
+      other: "Suggested Wine Pairing: Marc Roman Malbec, Languedoc-Roussillon, France"
     - name: Organic Arugula
       desc: Red pepper vinaigrette, red onion, grape tomatoes, shaved sartori sarvecchio reserve parmesan cheese &amp; roasted red peppers (GF)
       other: "Suggested Wine Pairing: Ca'Donini Pinot Grigio, Veneto, Italy"
