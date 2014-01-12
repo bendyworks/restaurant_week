@@ -12,21 +12,24 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Fish and Corn Chowder
-      desc: Arugula salad with chevre and hazelnuts
+    - name: Arugula Chevre Salad
+      desc: with radish, hazelnuts and lemon thyme vinaigrette
+    - name: Crab Bisque
+      desc: with garlic crouton
+    - name: Smoke Stack
+      desc: with whitefish salad, lox, smoked trout, caviar and horseradish cream
 
   - name: Entree
     choices:
     - name: Blue Marlin
       desc: Boiled with pesto crust, lime aioli and fried leeks
+    - name: Shrimp and Grits
+      desc: Saut&eacute;ed with Bay scallops, pork belly, shallots, white wine and lemon
     - name: Salmon
-      desc: Broiled with red and gold beets, apple rum syrup, walnuts and kale
-    - name: Whitefish
-      desc: Pan fried with buttermilk, sweet corn, leeks and roasted capers
-    - name: Double Cut Pork Chop
-      desc: Pan seared with blue cheese, apple mustard jus and Yukon gold mash
+      desc: Broiled with parsnip puree, bacon braised collard greens and maple rum syrup
+    - name: Flank Steak
+      desc: Marinated and grilled with creamed spinach and fried
 
   - name: Dessert
     choices:
-    - name: Carmel Chocolate Pecan Tart
-    - name: Key Lime Pie
+    - name: Choice of House Made Dessert
