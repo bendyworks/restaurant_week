@@ -1,0 +1,64 @@
+name: Nonno's Riostante Italiano
+address: 704 South Whitney Way, Madison, WI 53711
+phone: 608.661.9254
+hours: (Lunch) 11a-2p , (Dinner) Sun-Thur 5-10p, Fri 5-11p
+lat: 43.049561
+lng: -89.473917
+
+meals:
+- type: lunch
+  price: 15
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Zuppa
+      desc: Clam Chowder
+    - name: Caesar Salad
+      desc: Romaine hearts, focaccia croutons, parmigiano Reggiano &amp; Caesar dressing
+
+  - name: Entree
+    choices:
+    - name: Rigatoni Salsiccia
+      desc: Tube shaped pasta with homemade Italian sausage, broccoli, porcini mushrooms &amp; sun-dried tomatoes in a tomato cream sauce
+    - name: Pasta Integrale
+      desc: Whole wheat pasta with spinach, cherry tomatoes &amp; wild mushroom in a red wine tomato sauce
+    - name: Tilapia Al Limone
+      desc: Pan fried tilapia with a lemon caper sauce, served with aglio e olio fettuccine &amp; mushrooms
+
+  - name: Dessert
+    choices:
+    - name: Tiramisu
+      desc: Traditional Italian dessert
+    - name: Cannoli
+    - name: Torta Di Chocolato
+
+
+- type: dinner
+  price: 30
+
+  courses:
+  - name: Appetizer
+    choices:
+    - name: Calamari Fritti
+      desc: Deep fried calamari with a spicy marinara sauce on the side
+    - name: Piadina Di Zucchine
+      desc: A flat bread with olive oil, garlic, grilled zucchine, goat cheese and kalamata olives
+
+  - name: Entree
+    choices:
+    - name: Insalata Con Fragola
+      desc: Baby mixed greens tossed in a Caribbean mango vinaigrette with strawberries, fennel, cherry tomatoes, vine ripened tomatoes and goat cheese. Topped with fresh orange slices
+    - name: Risotto Mare E Terra
+      desc: Arborio rice with baby scallops, large shrimp, wild mushrooms, sun-dried tomatoes in a tomato vodka cream sauce
+    - name: Bistecca
+      desc: Grilled rib-eye steak topped with Italian aromatic herbs, served over roasted potatoes &amp; grilled vegetables
+    - name: Salmone Alla Salvia
+      desc: Fresh grilled salmon topped with a champagne leek and sage creamy sauce, served over Risotto Milanese
+
+  - name: Dessert
+    choices:
+    - name: Tiramisu
+      desc: Traditional Italian dessert
+    - name: Cannoli
+    - name: Torta Di Chocolato
