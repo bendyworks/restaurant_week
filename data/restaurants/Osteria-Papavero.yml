@@ -1,7 +1,7 @@
 name: Osteria Papavero
 address: 128 E. Wilson Street, Madison 53703
 phone: 608.255.8376
-hours: (Lunch) 11a-2p , (Dinner) Mon-Thur 5-10p, Fri 5-11p
+hours: (Lunch) 11a-2p , (Dinner) Sun-Thur 5-10p, Fri 5-11p
 lat: 43.0739076
 lng: -89.3794247
 
@@ -12,12 +12,12 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Insalata di Riso e Pesce
-      desc: Chilled paella-style rice salad
+    - name: Insalata di Farro e Pesto
+      desc: farro, roasted red bell peppers, Hidden Springs Driftless fresh pecorino cheese,
     - name: Zuppa del Giorno
       desc: Soup of the day
     - name: Insalata Papavero
-      desc: Spring mix, ligurian black olives, fresh Wisconsin mozzarella, roasted bell peppers, and balsamic vinaigrette
+      desc: roasted red bell peppers, Ligurian black olives, arugula, balsamic vinaigrette, fresh Wisconsin mozzarella
 
   - name: Entree
     choices:
@@ -30,39 +30,39 @@ meals:
     choices:
     - name: Budino di Caramello
       desc: Butterscotch pudding
-    - name: Tortino di Ricotta
-      desc: ricotta-lemon cake, seasonal fruit compote
-    - name: Semifreddo allo Zabaione
-      desc: Meringue and Mascarpone semifreddo
+    - name: Crostata al Limone e Albicocche
+      desc: lemon-apricot tarte, raspberry sorbet, whipped cream
+    - name: Semifreddo al caffe
+      desc: coffee semifreddo, bittersweet cocoa syrup, hazelnut shortbread
 
 
 - type: dinner
-  price: 30
+  price: 25
 
   courses:
   - name: Appetizer
     choices:
-    - name: Minestrone Estivo
-      desc: Papavero's minestrone soup, with all the vegetable bounty from the Farmer's Market
+    - name: Magatello con Rucola e Grana
+      desc: House-smoked roast beef, baby arugula, balsamic vinaigrette, shaved Grana Padano cheese
     - name: Antipasto di Pesce
-      desc: Seafood &amp; shellfish sampler
-    - name: Bresaola con Funghi e Grana
-      desc: House-cured beef bresaola, pickled wild mushrooms, grana padano cheese, arugula, balsamic vinaigrette
+      desc: Seafood sampler
+    - name: Gratin di Verdure d'Inverno
+      desc: Winter and root vegetable gratin
 
   - name: Entree
     choices:
-    - name: Tortelli all'aragosta, Pesto Pantesco
-      desc: Maine lobster tortelli, pantelleria-style pesto
-    - name: Gnocchi con Coda
-      desc: House-made spinach/bread gnocchi, oxtail ragout
-    - name: Parmigiana di Zucchine
-      desc: Zucchine parmigiana
+    - name: Tortelli all'aragosta
+      desc: Maine lobster tortelli, herbed butter, caviar
+    - name: Pappardelle al ragu' di cervo
+      desc: Egg pappardelle, Bolognese-style elk ragout
+    - name: Risotto con la Zucca
+      desc: Winter squash risotto
 
   - name: Dessert
     choices:
     - name: Budino di Caramello
       desc: Butterscotch pudding
-    - name: Tortino di Ricotta
-      desc: ricotta-lemon cake, seasonal fruit compote
-    - name: Semifreddo allo Zabaione
-      desc: Meringue and Mascarpone semifreddo
+    - name: Crostata al Limone e Albicocche
+      desc: lemon-apricot tarte, raspberry sorbet, whipped cream
+    - name: Semifreddo al caffe
+      desc: coffee semifreddo, bittersweet cocoa syrup, hazelnut shortbread
