@@ -10,12 +10,12 @@ meals:
   price: 25
 
   courses:
-  - name: Appetizer
+  - name: 'Appetizer (Choose one Bun and one Dumpling)'
     choices:
-    - name: Buns
-      desc: 'Choose One: Pork Belly, Spicy Pulled Pork, Korean BBQ, Tofu, Spicy Tofu'
+    - name: 'Buns (In soft pillowy steamed Chinese wheat flour buns)'
+      desc: 'Pork Belly, Spicy Pulled Pork, Korean BBQ Beef, Tofu, Spicy Tofu'
     - name: Dumplings w/ Choice of Sauce (soy vinegar, sweet or spicy)
-      desc: 'Choose One: Pork &amp; Chives; Chicken &amp; Shitake; Vegan (smoked tofu, bok choy &amp; shitake); Shrimp &amp; Pork'
+      desc: 'Pork &amp; Chives; Chicken &amp; Shitake; Vegan (smoked tofu, bok choy &amp; shitake); Shrimp &amp; Pork'
 
   - name: Entree
     choices:
@@ -27,8 +27,8 @@ meals:
       desc: soy chicken broth with fresh ramen noodles topped with flavor infused egg, braised pork, marinated bamboo, nori (seaweed), bean sprouts, and green onions
     - name: Veggie Ramen
       desc: konbu (seaweed) and mushroom broth with fresh ramen noodles topped with shiitake mushrooms, bamboo shoots, nori (seaweed) and bean sprouts (vegan option available)
-    - name: Hiyashi Chuka
-      desc: cold ramen noodle salad with fresh raw vegetables in a bright soy citrus dressing (red peppers, carrots, cucumbers, sprouts, snow peas, cilantro, peanuts, lime) Topped with your choice of either soy marinated chicken breast or smoked tofu
+    - name: Awase Miso Tonkotsu Ramen
+      desc: special blend of our pork and soy chicken broth flavored with awase miso topped with flavor infused egg, roasted pork belly, marinated bamboo, nori (seaweed), bean sprouts and green onions
 
   - name: Dessert
     choices:
