@@ -1,8 +1,9 @@
+require 'rake/clean'
 require 'yaml'
 require 'active_support/core_ext/object'
 
 desc 'Compile all the things'
-task :compile => 'compile:all'
+task :compile => ['clean', 'compile:all']
 
 SASS_FILES = FileList['sass/*.{sass,scss}']
 
@@ -21,6 +22,8 @@ HAML_FILES = FileList['haml/*.haml']
 HTML_FILES = HAML_FILES.pathmap('%n.html')
 
 RESTAURANT_FILES = FileList['data/restaurants/*.yml']
+
+CLEAN.add FileList['js/restaurants.js', 'tmp/js/*.js']
 
 directory 'tmp/js'
 
