@@ -12,26 +12,26 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Chilled Oyster Trio
-      desc: red wine mignonette threads, cucumber granita, thai relish
-    - name: Shishito &amp; Corn Raviolo
+    - name: Watercress Soup
+      desc: with potato confit and fried leeks
+    - name: Smoked Trout &amp; Endive Salad
       desc: corn &amp; scallion puree, chile ricotta salata
-    - name: Cold Dashi and Soba Noodle Salad
-      desc: with seared tuna, wasabi tobikko, and scallion
+    - name: Oyster
+      desc: with bitter melon, granny smith apple, oyster foam &amp; miscro greens
 
   - name: Entree
     choices:
-    - name: Fried Ginger Chicken &amp; Waffles
-      desc: with kaffir lime syrup and orange butter
-    - name: Marinated &amp; Grilled Red Wattle Pork Shoulder Ssam, Kimchi &amp; Vegetables
-    - name: Swiss Chard Wrapped BBQ'd Black Eyed Peas Dolmas
-      desc: with watermelon-chickpea salad with orange-poppy seed vinaigrette
+    - name: King Oyster Mushroom Stuffed Celeriac Cannelloni
+      desc: with celeriac bolognese &amp; fennel salad
+    - name: Pan Seared Cod
+      desc: with garlic &amp; mitsuba pistou, daikon salad, garlic oil &amp; parsley water
+    - name: Braised Pork Shoulder
+      desc: with vanilla scented parsnips &amp; pickled rhubarb
 
   - name: Dessert
     choices:
-    - name: Cheese Cake Curd
-      desc: with raspberry and vanilla wafer
-    - name: Compressed Melon
-      desc: with shiso, candied chiles and lime crem&eacute;
-    - name: Apple Cinnamon Rolls
-      desc: with candied pecans and dulce de leche
+    - name: Chocolate Pots de Cr&egrave;me
+      desc: with graham cracker &amp; peanut butter powder
+    - name: Ginger and Passion Fruit Parfait
+    - name: Cardamom Parsnip Cake
+      desc: with chai ice cream &amp; ginger snap crumble

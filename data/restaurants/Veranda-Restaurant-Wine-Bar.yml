@@ -12,30 +12,32 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Roasted Beet Salad
-      desc: with fresh blueberries, Hook's 7-year cheddar and organic mixed greens tossed in champagne vinaigrette
-    - name: Fresh Strawberry &amp; Belmont Brie Salad
-      desc: with organic mixed greens tossed in raspberry vinaigrette
-    - name: Nicoise Salad
-      desc: Salmon smoked in-house served with horseradish cream &amp; red onions over organic mixed greens
+    - name: Organic Roasted Beet Salad
+      desc: Honey champagne vinaigrette, candied pistachios, red onion, shaved sartori sarvecchio reserve parmesan cheese &amp; parsley oil (GF)
+    - name: Organic Arugula
+      desc: Red pepper vinaigrette, red onion, grape tomatoes, shaved sartori sarvecchio reserve parmesan cheese &amp; roasted red peppers (GF)
+    - name: Minestrone Soup
+      desc: with Israeli cous cous
 
   - name: Entree
     choices:
-    - name: Certified Black Angus Beef Short Ribs
-      desc: braised with ginger, sesame, garlic &amp; pear, served with seasoned black &amp; white rice
-    - name: Pan-Seared Tilapia &amp; Mahi Mahi Panko Cakes
-      desc: served with lemon basil aioli and organic mixed greens tossed in citrus vinaigrette
-    - name: Layers of Market Vegetables
-      desc: roasted with leek bechamel sauce, garlic &amp; fresh pasta
+    - name: Certified Black Angus Braised Italian Beef Short Ribs
+      desc: with roasted red peppers, garlic, &amp; onions, over Belgioioso asiago cheese grits (GF)
+    - name: Snow Crab Cakes
+      desc: with panko over vegetable rissotto with zucchinni, onions &amp; organic grape tomatoes
+    - name: Eggplant Involtini
+      desc: Fresh eggplant stuffed with fresh herb seasoned breadcrumbs, fresh mozzarella &amp; pine nuts, over spaghetti with grande romano cheese, fresh basil &amp; marinara
 
   - name: Dessert
     choices:
-    - name: Veranda Style Profiteroles
-      desc: puff pastries filled with Caf&eacute; Continental espresso and chocolate truffle ice cream from UW Babcock Hall, served with whipped cream, candied walnuts &amp; Ambrosia chocolate fudge sauce
-    - name: Strawberry Profiteroles
-      desc: puff pastries filled with UW Babcock Hall strawberry ice cream, served with fresh strawberries, whipped cream &amp; Ambrosia chocolate fudge sauce
+    - name: Caf&eacute; Continental Ice Cream
+      desc: Chocolate truffle cakes suspended in espresso ice cream, made locally, exclusively for us, by the UW-Madison Babcock Hall Dairy
+    - name: Cuccidati Ricotta Cheesecake
+      desc: Biscotti crust layered with cuccidati fig &amp; date filling and sweetened house-made ricotta, infused with solerno blood orange liquor, with fresh fruit and whipped cream
+    - name: Cannoli Pastry Shell
+      desc: Filled with sweetened grande ricotta cheese &amp; candied fruit, garnished with candied pistachios
     - name: Fresh Lemon Sorbet
-      desc: served with fresh raspberries, strawberries &amp; blueberries (Gluten Free &amp; Dairy Free)
+      desc: with fresh fruit (Gluten Free &amp; Dairy Free)
 
 
 - type: dinner
@@ -45,36 +47,39 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Roasted Beet Salad
-      desc: with fresh blueberries, Hook's 7-year cheddar and organic mixed greens tossed in champagne vinaigrette
-      other: 'Suggested Wine Pairing: Marc Roman Malbec, Languedoc-Roussillon, France'
-    - name: Fresh Strawberry &amp; Belmont Brie Salad
-      desc: with organic mixed greens tossed in raspberry vinaigrette
+    - name: Organic Roasted Beet Salad
+      desc: Honey champagne vinaigrette, candied pistachios, red onion, shaved sartori sarvecchio reserve parmesan cheese &amp; parsley oil (GF)
+      other: "Suggested Wine Pairing: Marc Roman Malbec, Languedoc-Roussillon, France"
+    - name: Organic Arugula
+      desc: Red pepper vinaigrette, red onion, grape tomatoes, shaved sartori sarvecchio reserve parmesan cheese &amp; roasted red peppers (GF)
       other: "Suggested Wine Pairing: Ca'Donini Pinot Grigio, Veneto, Italy"
-    - name: Nicoise Salad
-      desc: Salmon smoked in-house served with horseradish cream &amp; red onions over organic mixed greens
+    - name: Minestrone Soup
+      desc: with Israeli cous cous
       other: "Suggested Wine Pairing: Melini Borghi d'Elsa Chianti, Tuscany, Italy"
 
   - name: Entree
     choices:
-    - name: Certified Black Angus Beef Short Ribs
-      desc: braised with ginger, sesame, garlic &amp; pear, served with seasoned black &amp; white rice
+    - name: Certified Black Angus Braised Italian Beef Short Ribs
+      desc: with roasted red peppers, garlic, &amp; onions, over Belgioioso asiago cheese grits (GF)
       other: "Suggested Wine Pairing: Marc Roman Malbec, Languedoc-Roussillon, France"
-    - name: Pan-Seared Tilapia &amp; Mahi Mahi Panko Cakes
-      desc: served with lemon basil aioli and organic mixed greens tossed in citrus vinaigrette
-      other: "Suggested Wine Pairing: Glazebrook Sauvignon Blanc, Marlborough, New Zealand"
-    - name: Layers of Market Vegetables
-      desc: roasted with leek bechamel sauce, garlic &amp; fresh pasta
+    - name: Snow Crab Cakes
+      desc: with panko over vegetable rissotto with zucchinni, onions &amp; organic grape tomatoes
       other: "Suggested Wine Pairing: Ca'Donini Pinot Grigio, Veneto, Italy"
+    - name: Eggplant Involtini
+      desc: Fresh eggplant stuffed with fresh herb seasoned breadcrumbs, fresh mozzarella &amp; pine nuts, over spaghetti with grande romano cheese, fresh basil &amp; marinara
+      other: "Suggested Wine Pairing: Melini Borghi d'Elsa Chianti, Tuscany, Italy"
 
   - name: Dessert
     choices:
-    - name: Veranda Style Profiteroles
-      desc: puff pastries filled with Caf&eacute; Continental espresso and chocolate truffle ice cream from UW Babcock Hall, served with whipped cream, candied walnuts &amp; Ambrosia chocolate fudge sauce
-      other: "Suggested Wine Pairing: Marc Roman Malbec, Languedoc-Roussillon, France"
-    - name: Strawberry Profiteroles
-      desc: puff pastries filled with UW Babcock Hall strawberry ice cream, served with fresh strawberries, whipped cream &amp; Ambrosia chocolate fudge sauce
-      other: "Suggested Wine Pairing: Sequin Rose, California"
+    - name: Caf&eacute; Continental Ice Cream
+      desc: Chocolate truffle cakes suspended in espresso ice cream, made locally, exclusively for us, by the UW-Madison Babcock Hall Dairy
+      other: "Suggested Wine Pairing: Mirassou Moscato, California"
+    - name: Cuccidati Ricotta Cheesecake
+      desc: Biscotti crust layered with cuccidati fig &amp; date filling and sweetened house-made ricotta, infused with solerno blood orange liquor, with fresh fruit and whipped cream
+      other: "Suggested Wine Pairing: Mirassou Moscato, California"
+    - name: Cannoli Pastry Shell
+      desc: Filled with sweetened grande ricotta cheese &amp; candied fruit, garnished with candied pistachios
+      other: "Suggested Wine Pairing: Mirassou Moscato, California"
     - name: Fresh Lemon Sorbet
-      desc: served with fresh raspberries, strawberries &amp; blueberries (Gluten Free &amp; Dairy Free)
-      other: "Suggested Wine Pairing: Sequin Rose, California"
+      desc: with fresh fruit (Gluten Free &amp; Dairy Free)
+      other: "Suggested Wine Pairing: Mirassou Moscato, California"

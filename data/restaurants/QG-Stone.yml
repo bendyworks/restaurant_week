@@ -7,32 +7,31 @@ lng: -89.4794905
 
 meals:
 - type: dinner
-  price: 30
 
   courses:
-  - name: First Course
+  - name: Appetizer
     choices:
-    - name: Smoked Whitefish Croquettes
-      desc: Fresh Great Lakes Whitefish house smoked over alderwood with spicy remoulade sauce
-    - name: Taste of Wisconsin Salad
-      desc: Chopped romaine and iceberg, Bavaria summer sausage, Lodi Meats State Fair bacon, Pinah's garlic rye croutons, and Quivey's beer cheese dressing made with Hook's seven year old cheddar cheese and New Glarus Spotted Cow
-    - name: Hot and Cold Corn Chowder
-      desc: with cucumber, jalapeno peppers, baby Yukon gold potatoes, sweet corn kernels and buttermilk
+    - name: Mushroom and Wild Rice Soup
+      desc: Rich &amp; creamy mushroom with wild rice, garnished with morel duxelle
+    - name: Winter Salad
+      desc: Greens, radicchio, endive, escarol, and Napa cabbage, in Roth Kase Buttermilk Blue cheese dressing. Topped with dried fruits and toasted pumpkin seeds
+    - name: Wisconsin Raclettes
+      desc: Roth Kase Raclette cheese, baby red potatoes, baby dill pickles, pickled onions
 
   - name: Entree
     choices:
-    - name: Lake Trout
-      desc: Fresh lake trout filets cold smoked over alder wood, then baked with lemon dill caper butter, served with a parmesan potato
-    - name: Medallion Trio
-      desc: Beef tenderloin filet, smoke roasted pork tenderloin medallion, and boneless duck breast, served with a trio of sauces and garlic potato tart
-    - name: Stuffed Chicken Breast
-      desc: Pretzel crusted boneless chicken breast stuffed with Westphalian ham and Saxon Creamery Greenfields cheese, served with wild rice and port wine and dried cherry sauce
+    - name: Medallion Trio - $30
+      desc: Beef tenderloin on potato cake, pork tenderloin in puff pastry, and duck breast on wild rice. Served with a trio of sauces
+    - name: Lamb Shank - $27.50
+      desc: Slowly braised till fall off the bone tender in Wollersheim Domaine du Sac red wine, served with root vegetables, pan juices, and rosemary garlic mashed potatoes
+    - name: Rainbow Trout - $25
+      desc: Rushing Waters trout filet baked with a crispy smoked trout crust, served on sauteed spinach with fennel cream sauce
 
   - name: Dessert
     choices:
-    - name: Strawberry Shortcake
-      desc: Fresh baked sweet buttermilk biscuits, served with fresh strawberries and Sassy Cow whipped cream
-    - name: Blueberry Crisp
-      desc: Fresh blueberries baked under an oatmeal crumb crust, served with Chocolate Shoppe Vanilla ice cream
-    - name: Key Lime Martini
-      desc: Tangy and refreshing lime custard, topped with Sassy Cow whipped cream and graham crumbs, with Lime Zest
+    - name: Apple Strudel
+      desc: Baked with golden raisin and black walnuts, served on crème anglais with a drizzle of maple caramel
+    - name: Cranberry Orange Steamed Pudding
+      desc: Served with brandy cream sauce
+    - name: Chocolate Velvet Pound Cake
+      desc: with warm dark chocolate ganache, hazelnut brittle, and Frangelica whipped cream

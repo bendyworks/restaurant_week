@@ -12,33 +12,32 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: House Salad
-      desc: Farmstead Cheese, Balsamic Vinaigrette
-    - name: Seasonal Soup
-      desc: Fresh and Local
-    - name: Flash Fried Calamari
-      desc: Sauce Romesco
+    - name: Spinach Salad
+      desc: Iowa Maytag Blue, Shallot, Blistered Tomato, Bacon Vinaigrette
+    - name: Fagioli
+      desc: Spicy Sausage, Cannellini Beans, Hand Cut Noodles
+    - name: Saut&eacute;ed Calamari
+      desc: Citrus, Harissa, Garlicky Baguette
 
   - name: Entree
     choices:
     - name: Curry Chicken
       desc: Roasted Cashews, Avocado, Sundried Tomato, Mix Green, Curry Vinaigrette
-    - name: From the Garden
-      desc: Bell Pepper, Onion, Egg Plant, Squash, Aioli, Hummus, Provolone, on Whole Wheat
-    - name: S.P.L.A.T.
-      desc: Sprouts, Pancetta, Lettuce, Avocado, Tomato, on Whole Wheat
+    - name: Lemon Roasted Chicken
+      desc: Thyme, Stewed Garlic, Wilted Spinach
     - name: Grilled Burger
-      desc: Cheddar, Bacon, Lettuce, Tomato, Onion, Pepper Aioli, Brioche Bun
-    - name: Pasta of the day
-      desc: A choice of daily fresh ingredients
+      desc: Cambozola, Caramelized Shallot, Roasted Tomato Aioli, Brioche Bun
+    - name: Lamb Bolognese
+      desc: Papardelle, Crumbled Pecorino Romano
 
   - name: Dessert
     choices:
-    - name: Chocolate Cake
-      desc: Cherry, Vanilla Ice Cream
+    - name: Molten Chocolate Cake
+      desc: Pretzel Ice Cream
     - name: Carrot Cake
-      desc: Vanilla, Carrot Caramel, Carrot Chips
-    - name: Cr&egrave;me Brulee
+      desc: Cream Cheese, Caramel, Spiced Carrot Chips
+    - name: Bananas Foster Cr&egrave;me Brulee
+    - name: Tahitian Vanilla, Golden Rum
 
 - type: dinner
   price: 30
@@ -46,29 +45,29 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Seasonal Soup
-    - name: Garden Salad
-      desc: Farmstead Cheese, Balsamic Vinaigrette
-    - name: Risotto
-      desc: Seasonal Flavors
-    - name: Crudo
-      desc: Citrus, Olive Oil, Pickled Vegetable
+    - name: Fagioli
+      desc: Spicy Sausage, Cannellini Beans, Hand Cut Noodles
+    - name: Spinach Salad
+      desc: Iowa Maytag Blue, Shallot, Blistered Tomato, Bacon Vinaigrettesamic Vinaigrette
+    - name: Roasted Chicken Risotto
+      desc: Spinach, Crimini Mushrooms
 
   - name: Entree
     choices:
-    - name: Pan Roasted Bronzino
-      desc: French Beans, Parsnip Puree, Citrus Buerre Blanc
+    - name: Prosciutto Wrapped Alaskan Halibut
+      desc: Ratatouille, Tangerine Oil
     - name: Seared Beef Flat Iron
-      desc: Spinach, Roasted Onion, Potato Puree, Mustard Demi
-    - name: Surf and Turf
-      desc: Scallop, Short Rib, Broccolini, Carrot puree, Demi
-    - name: Pistachio Crusted Lamb Chop
-      desc: Carrot, Turnips, Mushroom, Squash Puree, Jus
+      desc: Cipollini Onion, Goat Cheese-Chive Potato, Cabernet Demi
+    - name: Wisconsin Rabbit Pot Pie
+      desc: Mirepoix, Thyme, Savory Pastry Crust
+    - name: Grilled Lamb T-Bones
+      desc: Smoked Tomato, Cannellini Beans, Sambuca-Shallot Marmalade
 
   - name: Third Course
     choices:
-    - name: Chocolate Cake
-      desc: Door County Cherry, Vanilla Ice Cream
+    - name: Molten Chocolate Cake
+      desc: Pretzel Ice Cream
     - name: Carrot Cake
-      desc: Vanilla, Carrot Caramel, Carrot Chips
-    - name: Cr&egrave;me Brulee
+      desc: Cream Cheese, Caramel, Spiced Carrot Chips
+    - name: Bananas Foster Cr&egrave;me Brulee
+    - name: Tahitian Vanilla, Golden Rum

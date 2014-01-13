@@ -7,35 +7,34 @@ lng: -89.41252899999999
 
 meals:
 - type: lunch
-  price: 15
 
   courses:
   - name: Appetizer
     choices:
-    - name: House Marinated Olives
-      desc: garnished with pickled watermelon rind - (gf &amp; paleo friendly)
-    - name: Field Greens Salad
-      desc: with fresh, seasonal garnishes from our local farmers, drizzled with Dancing Bee Honey and lavender dressing - (gf &amp; paleo friendly)
-    - name: Spiced Summertime Gazpacho
-      desc: made with produce from our network of local farmers blended with herbs, citrus and California extra virgin olive oil. Garnished with a crisp garden veggie relish and tiny croutons (gf &amp; paleo friendly)
+    - name: Spiced Butternut Squash Soup
+      desc: with hazelnut cappuccino - gf
+    - name: Mixed Greens and Local Beets
+      desc: with plum dressing and pickled watermelon rind - gf
+    - name: RED Spread
+      desc: Roasted bell peppers, walnuts, olive oil, garlic and pomegranate molasses blended together. Served with veggies and crostini
 
   - name: Entree
     choices:
-    - name: Pork Taco
-      desc: Black Earth Meats, all natural pork shoulder rubbed with house seasonings and slow, slow, slow roasted. Finished with salsa roja, queso fresco, garden greens and lime
-    - name: Grilled Cheese
-      desc: with Jones bacon, Green Bay cheddar and a gingered apple jam on Madison Sourdough bread
-    - name: Cranberry Chicken Salad Croissant
-      desc: all-natural chicken blended with crisp celery and red onion with a touch of tarragon in a light dijon and mayo dressing. Served with field greens and garden tomato - (gf)
+    - name: Grilled Wisconsin Cheddar
+      desc: with Jones bacon and a ginger & apple jam on Madison sourdough
+    - name: Cranberry Chicken Salad
+      desc: on Crossiant (or on greens) - gf
+    - name: House Roasted Pork Shoulder
+      desc: with cabbage slaw and Moon Man mustard on country baguette (or on greens) - gf
 
   - name: Dessert
     choices:
-    - name: Our famous citrus olive cake
-      desc: Served with house-made blueberry jam and mascarpone cheese
+    - name: Spiced Apple Cobbler
+      desc: with goat cheese and hazelnut dressing - gf
     - name: Raspberry and Chocolate Truffle Torte
-      desc: finished with raspberry coulis and fresh mint - (gf)
-    - name: Seasonal Fruit Crisp
-      desc: oven baked and served with a homemade summery-berry ice cream
+      desc: with coulis and mint - (gf)
+    - name: Olive Oil Cake
+      desc: with blueberry 'jam' and mascarpone
 
 
 - type: dinner
@@ -44,27 +43,29 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Pork Taco
-      desc: Black Earth Meats all natural pork shoulder rubbed with house seasonings and slow, slow, slooow roasted.  Finished with salsa roja, queso fresco, garden greens and lime.
-    - name: Field Greens Salad
-      desc: fresh, seasonal garnishes from our local farmers drizzled with a Dancing Bee Honey and lavender dressing - (gf &amp; paleo friendly)
-    - name: Spiced Summertime Gazpacho
-      desc: made with produce from our network of local farmers blended with herbs, citrus and California Extra Virgin Olive Oil. Garnished with a crisp garden relish and tiny croutons - (gf &amp; paleo friendly)
+    - name: Spinach and Roasted Beets
+      desc: with goat cheese and hazelnut dressing - gf
+    - name: Spiced Butternut Squash Soup
+      desc: with hazelnut cappuccino - gf
+    - name: Mixed Greens
+      desc: with cranberry champagne dressing, apples, sunflower seeds - gf
 
   - name: Entree
     choices:
-    - name: Black Earth Meats Pork Tenderloin Medallions
-      desc: marinated in rich spices, grilled &amp; topped with lime washed mango relish alongside a crisp &amp; fresh gingered cucumber salad - (gf &amp; paleo friendly)
-    - name: Strauss Free Raised Grass Fed Beef Short Ribs
-      desc: Slow cooked in a Guinness &amp; pomegranate demi above fork crushed Wisconsin potatoes drizzled with a garlic &amp; peppercorn oil. A smaller version of a Wise favorite!
-    - name: Seared Sea Scallops
-      desc: tender scallops pan seared and served with an heirloom tomato and avocado salad. Finished with passion fruit vinaigrette - (gf)
+    - name: Country Style Heirloom Pork Chop
+      desc: with a rich, locally grown tomato sauce and crushed Wisconsin potatoes - gf
+    - name: All Natural Chicken Breast
+      desc: with mushroom and herb jus - gf
+    - name: Market Seafood
+      desc: selected daily
+    - name: Papardelle
+      desc: R.P's gluten free pasta tossed with a roasted garlic and local, heirloom tomato sauce. Chopped herbs and Wisconsin cheese to finish (vegetarian and gluten free)
 
   - name: Dessert
     choices:
-    - name: Our famous citrus olive cake
-      desc: Served with house-made blueberry jam and mascarpone cheese
+    - name: Spiced Apple Cobbler
+      desc: with goat cheese and hazelnut dressing - gf
     - name: Raspberry and Chocolate Truffle Torte
-      desc: finished with raspberry coulis and fresh mint - (gf)
-    - name: Seasonal Fruit Crisp
-      desc: oven baked and served with a homemade summery-berry ice cream
+      desc: with coulis and mint - (gf)
+    - name: Olive Oil Cake
+      desc: with blueberry 'jam' and mascarpone

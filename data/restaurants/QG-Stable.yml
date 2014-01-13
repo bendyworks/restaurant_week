@@ -1,7 +1,7 @@
 name: Quivey's Grove Stable Grill
-address: 6261 Nesbitt Road, Fitchburg 53719
+address: 6261 Nesbitt Road, Fitchburg, WI 53719
 phone: 608.273.4900
-hours: Lunch Sun-Fri 11a-2:30p, Dinner 4-9p
+hours: Lunch Sun-Fri 11a-2:30p, Dinner 5-9p
 lat: 43.0086524
 lng: -89.4794905
 
@@ -12,30 +12,30 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Wisconsin Kebob
-      desc: Crispy fried cheese curds and Wisconsin sausage on a stick, deep fried. Served with mustard sauce
-    - name: Hot and Cold Corn Chowder
-      desc: With cucumber, jalapeno peppers, baby Yukon gold potatoes, sweet corn kernels, and buttermilk
-    - name: Melon Berry Salad
-      desc: Watermelon, cantaloupe, &amp; berries, marinated in honey, triple sec, and mint
+    - name: Creamy Tomato Bisque
+      desc: Grilled cheese crouton
+    - name: Sausage Sampler
+      desc: Assorted grilled Bavaria sausages, with a touch of our cherry kraut served with New Glarus showshoe ale cheddar sauce
+    - name: Spinach Salad
+      desc: Tender spinach topped with mushrooms marinated in tarragon vinaigrette, with Sarvecchio aged parmesan cheese
 
   - name: Entree
     choices:
-    - name: Duck-burger Delux
-      desc: Six ounces of juicy ground duck, port wine cheese, crispy duck "bacon," raspberry "ketchup," on crusty ciabatta roll, with house cut French Fries
+    - name: Dairyland Fried Chicken Biscuit
+      desc: Boneless buttermilk marinated chicken breast, crispy fried and served on biscuit topped with Green County swiss cheese sauce
     - name: Kobe Cheeseburger Basket Deluxe
-      desc: Eight ounce ground Kobe beef; Wisconsin two year aged cheddar cheese, thick applewod bacon, crispy fried onions, mayo and barbeque sauce, on crusty ciabatta roll with house cut French fries
+      desc: Eight ounce ground Kobe beef; Wisconsin two year aged cheddar cheese, thick sliced bacon, crispy fried onions, mayo and barbeque sauce, on crusty ciabatta roll with house cut French fries
     - name: Wisconsin Fish Fry Basket
       desc: Beer battered whitefish and pretzel crusted lake perch, with our house tartar and house cut French fries
 
   - name: Dessert
     choices:
-    - name: State Fair Cream Puff
-      desc: Old fashioned Wisconsin favorite, featured at the Wisconsin State Fair Aug 1-11. Fresh baked cream puff, filled with Sassy Cow heavy whipped cream, drizzled with dark chocolate, and dusted with powdered sugar
-    - name: Godiva Chocolate Sundae
-      desc: Coffee ice cream blended with Godiva chocolate liquor, with hot fudge sauce and whipped cream
-    - name: Blueberry Crisp
-      desc: Fresh blueberries baked under an oatmeal crumb crust, served with Chocolate Shoppe Old Fashioned Vanilla ice cream
+    - name: Turtle Pie
+      desc: Our signature dessert with caramel, pecans, and chocolate Bavarian cream
+    - name: Caramel Apple Steamed Pudding
+      desc: Served with maple caramel and vanilla cream sauce
+    - name: Hot Fudge Mary Jane
+      desc: Decadent chocolate fudge brownie, topped with ice cream and hot fudge sauce
 
 
 - type: dinner
@@ -44,30 +44,30 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Wisconsin Kebob
-      desc: Crispy fried cheese curds and Wisconsin sausage on a stick, deep fried. Served with mustard sauce
-    - name: Hot and Cold Corn Chowder
-      desc: With cucumber, jalapeno peppers, baby Yukon gold potatoes, sweet corn kernels, and buttermilk
-    - name: Melon Berry Salad
-      desc: Watermelon, cantaloupe, &amp; berries, marinated in honey, triple sec, and mint
+    - name: Creamy Tomato Bisque
+      desc: Grilled cheese crouton
+    - name: Sausage Sampler
+      desc: Assorted grilled Bavaria sausages, with a touch of our cherry kraut served with New Glarus showshoe ale cheddar sauce
+    - name: Spinach Salad
+      desc: Tender spinach topped with mushrooms marinated in tarragon vinaigrette, with Sarvecchio aged parmesan cheese
 
   - name: Entree
     choices:
-    - name: Barbecue Duck Legs
-      desc: Grilled duck legs finished with raspberry barbeque sauce, served with baby red potatoes smashed with garlic, butter, herbs and cream
+    - name: Steak and Ribs
+      desc: USDA Prime Black Angus Sirloin medallion, grilled and served with Shitake mushroom sauce, and our slowly roasted baby back ribs, served with our tangy barbeque sauce and baby red potatoes smashed with
     - name: Wisconsin Fish Sampler
       desc: Beer battered whitefish, pretzel crusted lake perch, and baked rainbow trout, served with our parmesan potato
-    - name: Steak &amp; Ribs
-      desc: Five ounce baseball cut sirloin with a third rack of our smoke roasted baby back ribs, served with house cut fries and slaw
+    - name: Dairyland Fried Chicken
+      desc: Boneless buttermilk marinated chicken breast, crispy fried and served with spaetzle dumplings in Green County Swiss cheese sauce
 
   - name: Dessert
     choices:
-    - name: State Fair Cream Puff
-      desc: Old fashioned Wisconsin favorite, featured at the Wisconsin State Fair Aug 1-11. Fresh baked cream puff, filled with Sassy Cow heavy whipped cream, drizzled with dark chocolate, and dusted with powdered sugar
-    - name: Godiva Chocolate Sundae
-      desc: Coffee ice cream blended with Godiva chocolate liquor, with hot fudge sauce and whipped cream
-    - name: Blueberry Crisp
-      desc: Fresh blueberries baked under an oatmeal crumb crust, served with Chocolate Shoppe Old Fashioned Vanilla ice cream
+    - name: Turtle Pie
+      desc: Our signature dessert with caramel, pecans, and chocolate Bavarian cream
+    - name: Caramel Apple Steamed Pudding
+      desc: Served with maple caramel and vanilla cream sauce
+    - name: Hot Fudge Mary Jane
+      desc: Decadent chocolate fudge brownie, topped with ice cream and hot fudge sauce
 
 - type: dinner
   name: Kid's Menu
@@ -76,8 +76,8 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Melon Berry Kebob
-      desc: Watermelon, cantaloupe &amp; strawberries on a skewer
+    - name: Applesauce
+      desc: Fresh house made chunky apple sauce
 
   - name: Entree
     choices:

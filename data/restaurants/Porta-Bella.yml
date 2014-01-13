@@ -7,40 +7,37 @@ lng: -89.3957842
 
 meals:
 - type: dinner
-  price: 25
 
   courses:
   - name: Appetizer
     choices:
-    - name: Porta Salad
-      desc: Romaine and iceberg lettuce topped with our special blend of ham, salami, cheddar and mozzarella cheese, green peppers and garbanzo beans (GF)
-    - name: Mediterranean Salad
-      desc: Mixed spring greens topped with sliced red onions, black olives, cherry tomatoes and croutons. Served with Feta cheese dressing (GF)
-    - name: Bacon Stuffed Mushrooms
-      desc: Stuffed with a blend of cream cheese and bacon
-    - name: Italian Sausage Crostini
-      desc: Garlic seasoned french bread costinis topped with a blend of our Italian sausage, mozzarella cheese and spices
-    - name: Sun-dried Tomato Bruschetta
-      desc: Toasted ciabatta bread topped with walnut-basil pesto, Feta cheese, sun dried tomatoes and toasted pecans
+    - name: Italian Stuffed Mushrooms
+      desc: Jumbo button mushrooms stuffed with Italian meats and cheeses
+    - name: Toasted Cheese Ravioli
+      desc: Cheese stuffed ravioli, lightly breaded and baked until golden brown, served with our homemade tomato sauce
+    - name: Antipasto
+      desc: Marinated prosciutto, salami, pepperoni, ham, mozzarella cheese, artichoke hearts, roasted red peppers, cherry tomatoes and red onions marinated in Italian dressing. Served with crostinis
 
   - name: Entree
     choices:
-    - name: Steak Braciola
-      desc: Top sirloin stuffed with four Italian cheeses and proscuitto, topped with mozzarella cheese and tomato sauce. Served with oven roasted potatoes
-    - name: Pumpkin Ravioli with Gorgonzola Sauce
-      desc: Pumpkin stuffed ravioli topped with a creamy gorgonzola sauce and walnuts
-    - name: Seafood Tetrazzini
-      desc: Spinach fettuccine topped with shrimp, crabmeat, scallops and haddock in a rich cheese sauce
-    - name: Lobster Ravioli
-      desc: Noodle puffs stuffed with lobster, Ricotta cheese and Parmesan cheeses.  Topped with your choice of tomato-vodka or Alfredo sauce
+    - name: Lasagna-Seafood Tetrazzini platter - $25
+      desc: Try two of our favorites. Half orders of meat filled lasagna and seafood tetrazzini
+    - name: Cannelloni-Manicotti platter - $25
+      desc: Tubes of homemade three meat cannelloni and spinach and cheese manicotti, topped with your choice of tomato or cheese sauce
+    - name: Lobster Ravioli - $30
+      desc: Noodle puffs stuffed with lobster, Ricotta and Parmesan cheeses. Topped with your choice of tomato-vodka or Alfredo sauce
+    - name: Shrimp and Scallops in a Tomato-Vodka Cream Sauce - $30
+      desc: Shrimp and scallops saut&eacute;ed in a tomato-vodka cream sauce, served over a bed of lemon pepper fettucinne
+    - name: Veal Parmesan - $30
+      desc: Veal cutlets, lightly breaded and saut&eacute;ed, topped with slices of ham, Mozzarella cheese, green peppers and onions. Served over a bed of spinach fettuccine
+    - name: Top Sirloin with Gorgonzola Sauce - $35
+      desc: An eight ounce USDA choice top sirloin, topped with a creamy gorgonzola sauce. Served with a side of Gnocchi
 
   - name: Dessert
     choices:
-    - name: Door County Cherry Stuffed Cannoli
-      desc: A fluffy pastry stuffed with sweetened Ricotta cheese and Door County cherries
-    - name: Strawberry and Almond Cannoli
-      desc: A fluffy pastry stuffed with a creamy blend of fresh strawberries, almonds and Ricotta cheese
-    - name: Toasted Almond Cake
-      desc: Layers of sponge cake filled with mascarpone cream and topped with toasted almonds
-    - name: Torta Nocciola
-      desc: Alternating layers of hazelnut cake, hazelnut cream and chocolate cream topped with praline hazelnuts
+    - name: Blackberry Cabernet Cheesecake
+      desc: Vine ripened blackberries are crushed and blended with fruity California cabernet in a rich cheesecake
+    - name: Goat Cheese with Thyme-honey Cheesecake
+      desc: Soft ripened goat milk cheese, aromatic honey infused with thyme and toasted walnut
+    - name: Sanguinaccio Tart
+      desc: A fluffy tartlet shell filled with an intense chocolate pudding based on an ancient Neopolitan recipe

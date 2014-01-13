@@ -12,29 +12,31 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Gazpacho
-      desc: with basil cr&egrave;me fra&icirc;che
-    - name: Salad of Mixed Melons
-      desc: watercress, fennel, mint and balsamic glaze
-    - name: Smoked Whitefish Croquette
-      desc: petite crisp and tangy cucumber, radish and tomato salad
+    - name: Soup Du Jour
+    - name: Salad of Mixed Greens and Bibb Lettuce
+      desc: shaved shallots, crispy chickpeas, beets, sieved egg, champagne-tarragon vinaigrette
+    - name: Apple and Crispy Squash Salad
+      desc: black currants, spiced pumpkin seeds, arugula, endive, crumbled blue cheese, honey-cider vinaigrette
+    - name: Salt Cod Cake
+      desc: pip&eacute;rade, roasted garlic beurre blanc
 
   - name: Entree
     choices:
-    - name: Grilled Salmon
-      desc: seared white cheddar-piquillo pepper polenta, grilled fennel, tomato and onion, basil-lime vinaigrette
-    - name: Duck Confit of Leg and Thigh
-      desc: charred green beans, green cabbage, roasted potatoes and blackberry compote
-    - name: Grilled Pork Chop
-      desc: herbed citrus jus, roasted fennel, green olive, cherry, dandelion greens and faro
-    - name: House-made Cavatelli
-      desc: summer vegetable saut&eacute;, garlic, red chile flake, basil, and Parmesan cheese
+    - name: Grilled Norwegian Salmon
+      desc: French lentils, saut&eacute;ed spinach, portobello mushrooms
+    - name: Steamed Mussels with Frites
+    - name: Cassoulet
+      desc: lamb, duck confit, garlic sausage, braised white beans, bacon, bread crumbs, walnut oil
+    - name: House-Made Gnocchi
+      desc: creamed sweet peas, carrots, pearl onions, mushrooms, and Parmesan
+    - name: Herb Roasted Pork Loin
+      desc: cherry gastrique, potato pur&eacute;e, roasted carrots, haricot verts
 
   - name: Dessert
     choices:
-    - name: Profiteroles
-      desc: vanilla bean ice cream, chocolate sauce
-    - name: Strawberries
-      desc: fresh whipped cream, thyme shortcake
-    - name: Blueberry Crostata
-      desc: toasted almonds, lemon curd
+    - name: Lemon Curd Tart
+      desc: shortbread crust, chantilly cream
+    - name: Pot de Cr&egrave;me
+      desc: butterscotch, whipped cream, sea salt
+    - name: Gianduja Crunch
+      desc: chocolate hazelnut ganache on a crunchy feuilletine crust, caramel sauce
