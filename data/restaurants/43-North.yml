@@ -23,7 +23,7 @@ meals:
   - name: entree
     choices:
     - name: Salmon
-      desc: Chickpea cake, Watercress pur&eacute;e, Fava bean
+      desc: Chickpea cake, Watercress purée, Fava bean
     - name: Sweet Corn Risotto
       desc: Parmesan, Vegetable slaw, Chive
     - name: Flank Steak

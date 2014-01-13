@@ -2,3 +2,4 @@
 tmp
 vendor/zepto/
 .DS_Store
+/.bundle
