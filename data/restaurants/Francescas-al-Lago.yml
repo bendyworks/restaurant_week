@@ -1,7 +1,7 @@
 name: Francesca's al Lago
 address: 111 Martin Luther Blvd., Madison 53703
 phone: 608.255.6000
-hours: Sun-Fri 11a-9p
+hours: Sun-Thurs 11a-9p. Fri 11a-10p.
 lat: 43.0736445
 lng: -89.38277250000002
 
@@ -12,49 +12,49 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Insalata con Nocci e Frutta
-      desc: Mixed greens, toasted walnuts, blue cheese, fresh mango, strawberries and grilled peaches with prosecco vinaigrette
-    - name: Francesca Salad
-    - name: Calamari
+    - name: Insalata con Carciofi
+      desc: Mixed greens, artichokes, cannellini beans, roasted onions, cherry tomatoes, genoa salami and shaved parmesan cheese tossed with white balsamic vinaigrette
+    - name: Caesar Salad
+    - name: Calamari Fritti
 
   - name: Entree
     choices:
-    - name: Thin Crust Pizza
-      desc: with basil pesto, fresh mozzarella, beefsteak tomatoes, grilled onions and roasted bell peppers
-    - name: Tilapia con Fagiulini
-      desc: Pan seared tilapia with mushrooms, cannellini bean, cherry tomatoes, escarole and smoked apple wood bacon in tarragon butter sauce
-    - name: Pollo con Risotto
-      desc: Pan roasted chicken breast served over risotto with mushroom, roasted red bell pepper, spinach and sun dried tomatoes in pesto basil sauce
+    - name: Penne con Pesto
+      desc: Sautéed with grilled chicken, mushrooms, sun dried tomatoes and roasted eggplant in a tomato-basil pesto sauce
+    - name: Pollo con Pancetta e Cipolle
+      desc: Pan roasted chicken breast with cauliflower, pancetta, onions, spinach and roasted potatoes in a brandy porcini mushrooms-veal sauce
+    - name: Pesce con Porri e Pomodori
+      desc: Pan roasted tilapia with leeks, cherry tomatoes, artichokes, cabbage and spinach in a rosemary-garlic white wine sauce
 
-  - name: Dolci
+  - name: Dolce
     choices:
     - name: Tiramisu
-    - name: Espresso Brule
-    - name: Profiterole
+    - name: Cheesecake
+    - name: Gelato
 
 
 - type: dinner
   price: 25
 
   courses:
-  - name: insalata
+  - name: Appetizer
     choices:
-    - name: Insalata con Nocci e Frutta
-      desc: Mixed greens, toasted walnuts, blue cheese, fresh mango, strawberries and grilled peaches with prosecco vinaigrette
-    - name: Francesca Salad
-    - name: Calamari
+    - name: Insalata con Carciofi
+      desc: Mixed greens, artichokes, cannellini beans, roasted onions, cherry tomatoes, genoa salami and shaved parmesan cheese tossed with white balsamic vinaigrette
+    - name: Caesar Salad
+    - name: Calamari Fritti
 
   - name: Entree
     choices:
-    - name: Tilapia Con Porri
-      desc: Pan roasted tilapia with leeks, mushrooms, fresh tomatoes, artichokes and capers in oregano butter sauce
-    - name: Cappellini al Pomopori
-      desc: Angel hair pasta sautéed with roasted garlic, basil, fresh tomatoes and spinach tossed with fresh mozarella
-    - name: Romano Chicken
-      desc: 1/2 chicken breast roasted with herbs and potatoes
+    - name: Pollo alla Romana
+      desc: Pan roasted chicken breast with garlic, shallots, rosemary, lemon and olive oil served with roasted potatoes
+    - name: Pesce con Cavolfiore e Funghi
+      desc: Pan roasted tilapia with cauliflower, mushrooms, sun dried tomatoes, asparagus and spinach in a lemon-caper butter sauce
+    - name: Penne al Pomodoro e Spinaci
+      desc: Sautéed with roasted garlic, basil, fresh tomatoes, mushrooms and fresh mozzarella
 
-  - name: Dolci
+  - name: Dolce
     choices:
     - name: Tiramisu
-    - name: Espresso Brule
-    - name: Profiterole
+    - name: Cheesecake
+    - name: Gelato
