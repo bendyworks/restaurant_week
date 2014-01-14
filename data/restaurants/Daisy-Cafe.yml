@@ -1,4 +1,4 @@
-name: Daisy Cafe
+name: Daisy Café & Cupcakery
 address: 2827 Atwood Avenue, Madison, 53704
 phone: 608.241.2200
 hours: Sun-Sat 5p-9p
@@ -10,29 +10,28 @@ meals:
   price: 25
 
   courses:
-  - name: First Course
+  - name: Appetizer
     choices:
-    - name: Ceviche Gazpacho
-      desc: served with a parmesan crostini
-    - name: Tequila-Lime Fruit Salad
-      desc: served over arugula and topped with crumbled Machego cheese
-    - name: Wiscocschetta
-      desc: toasted baguette slices topped with melted Cedar Grove butterk&auml;se cheese, Ale Asylum contorter porter-caramelized onions &amp; Underground Food Collective sausage
+    - name: Harvest Salad
+      desc: A bounty of flavors. Spring mix lettuce, roasted beets, feta cheese, walnuts, apples and purple onions in an orange-shallot vinaigrette.
+    - name: Sherry-Butternut Squash Bisque
+      desc: With maple croutons
+    - name: Wisco-schetta
+      desc: Toasted baguette slices topped with melted Cedar Grove butterk&auml;se cheese, Ale Asylum Contorter Porter-caramelized onions &amp; Underground Butcher sausage
 
-  - name: Second Course
+  - name: Entree
     choices:
-    - name: Two Fish, Two Ways
-      desc: 'From our friends at Bering Bounty in Verona, two wild caught, gill-netted fish: Alaskan King Salmon topped with house-made Daisy pesto; Bering Sea Cod topped with fruit salsa. Served with saut&eacute;ed vegetables &amp; mashed potatoes'
-    - name: Bacon-Brandy-Blue Steak
-      desc: Herb-marinated bistro steak cooked to order &amp; topped with bacon-brandy onion sauce &amp; crumbled bleu cheese. Served with saut&eacute;ed vegetables &amp; mashed potatoes.
-    - name: Ultimate Tuna Nicoise Salad
-      desc: Herb-marinated tuna, balsamic-marinated tomatoes and shallots, Brie-gratin potatoes, green beans with bacon, and hard-boiled eggs, served over mixed greens.
-    - name: Mozzarella Tortelloni al Verde
-      desc: Fresh smoked mozzarella tortelloni from our friends at RP's Pasta, topped with our own flavorful green vegetable &amp; herb cream sauce and garnished with chopped tomatoes and a drizzle of goat cheese sauce. (Gluten-free fettuccine available to substitute for tortelloni)
+    - name: Steak with Bourbon-Bacon-Cranberry Sauce
+      desc: Herb-marinated bistro steak with sauce made from Maker's Mark Bourbon, bacon and fresh cranberries. Served with sautéed vegetables & mashed potatoes.
+    - name: Daisy Cassoulet
+      desc: Our take on the classic slow-cooked French stew, rich with pulled duck, smoked sausage, bacon & seasoned white beans.
+    - name: King Salmon with Cherry Reduction Sauce
+      desc: From our friends at Bering Bounty in Verona, wild-caught, gill-netted Alaskan King Salmon topped with a New Glarus Belgian Red Cherry Ale reduction sauce. Served with sautéed vegetables & mashed potatoes.
+    - name: Four Quarters Cobb Salad
+      desc: A Cobb reinvented for vegetarians, with four new toppings: fried avocado, grapefruit-jalapeno fruit salad, baked Brie crostini, and Kalamata-cannellini-garlic salad; served with Dijon vinaigrette.
 
-  - name: Third Course
+  - name: Dessert
     choices:
-    - name: Extreme Chocolate Butterscotch-Pecan Cupcake
-      desc: Rheinlander Chocolate Bunny Stout-Chocolate cake with Bunny Stout Chocolate Fudge filling and Chocolate Whipped Cream frosting.
-    - name: House-made White Chocolate, Lemon &amp; Orange Cheesecake
-    - name: House-made Mojito Panna Cotta
+    - name: House-Made Extreme Chocolate Gooey Cupcake
+    - name: House-Made Chocolate-Pecan-Bourbon Cheesecake
+    - name: House-Made Pumpkin Bread Pudding
