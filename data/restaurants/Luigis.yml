@@ -12,29 +12,30 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Gazpacho
-      desc: Cucumbers, peppers and onions in a light tomato broth with a hint of chilis and herbs
-    - name: Caprese Skewers
-      desc: Homemade fresh mozzeralla caprese skewers.... Luigi's homemade fresh mozzarella with cherry tomatoes and fresh basil
-    - name: Artisinal Cheese Plate
-      desc: Local cheeses paired with grapes and crostini
+    - name: Arugula Salad
+      desc: Arugula topped with caramelized onions, goat cheese, candied walnuts and raspberry vinaigrette
+    - name: Eggplant Caponata
+      desc: Grilled eggplant, zucchini, olive medley on toasted sliced Italian roll
+    - name: Prosciutto and Fig Flatbread
+      desc: Sliced prosciutto, dried fig and goat cheese on toasted flatbread
 
   - name: Entree
     choices:
-    - name: Pan-fried Steak Sandwich
-      desc: Parmesan and parsley crusted steak sandwich topped with fresh mozzarella, tomato, red onion and capers. Served with small mixed green salad
-    - name: Pizza Carbonara
-      desc: White sauce with crisp bacon, caramelized onions, and grilled summer squash topped with fontina cheese and baked with a fresh egg for an ultra rich sauce
-    - name: Strawberry-gorgonzola Salad
-      desc: Fresh greens tossed with candied walnuts, fresh strawberries and gorgonzola cheese in a balsamic dressing
+    - name: Italian Beef
+      desc: Sliced beef in au jus with melted provolone and mild or spicy giardiniera on a toasted Italian roll
+    - name: Pork and Apple Panini
+      desc: Pulled pork with balsamic apple compote and gorgonzola cheese
+    - name: Wise Guy Pizza
+      desc: Red sauce, fresh mozzarella, meatballs and spicy giardiniera
 
   - name: Dessert
     choices:
-    - name: Madeira marinated strawberries served with fresh pound cake and whipped cream
-    - name: Chocolate Tartufo
-      desc: A creamy zabione center surrounded by chocolate gelato and caramelized hazelnuts
-    - name: Lemon Mascarpone Cake
-      desc: Lemon sponge cake topped with mascarpone and white chocolate
+    - name: "Squash &amp; Apple Turnover"
+      desc: Butternut squash and apples baked in puff pastry
+    - name: Bread Pudding
+      desc: Baked with a seasoned crumb topping and salted caramel sauce
+    - name: Cookie Dough Cannoli
+      desc: Sweet shells filled with chocolate chip cookie dough and mascarpone topped with chocolate sauce
 
 
 - type: dinner
@@ -44,26 +45,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Gazpacho
-      desc: Cucumbers, peppers and onions in a light tomato broth with a hint of chilis and herbs
-    - name: Caprese Skewers
-      desc: Homemade fresh mozzeralla caprese skewers....Luigi's homemade fresh mozzarella with cherry tomatoes and fresh basil
-    - name: Artisinal Cheese Plate
-      desc: Local cheeses paired with grapes and crostini
+    - name: Arugula Salad
+      desc: Arugula topped with caramelized onions, goat cheese, candied walnuts and raspberry vinaigrette
+    - name: Eggplant Caponata
+      desc: Grilled eggplant, zucchini, olive medley on toasted sliced Italian roll
+    - name: Prosciutto and Fig Flatbread
+      desc: Sliced prosciutto, dried fig and goat cheese on toasted flatbread
 
   - name: Entree
     choices:
-    - name: Grilled Eggplant Rolls
-      desc: Grilled eggplant stuffed with quinoa, grilled vegetables and tomato sauce. Topped with feta cheese and served on arugula tossed in balsamic vinegar
-    - name: Roasted Salmon
-      desc: Fresh roasted salmon served on fingerling potatoes and roasted vegetables with a light mint pesto drizzle
-    - name: Chicken Saltimbocca
-      desc: Breaded chicken breast topped with prosciutto ham and fresh mozzarella and baked; served with potatoes and vegetable in a light chicken jus
+    - name: Chicken Spiedini
+      desc: Chicken skewers served with cucumber and arugula salad
+    - name: Veal Marsala
+      desc: Breaded veal cutlets over potato gnocchi tossed with mushroom and marsala wine sauce
+    - name: Frutti di Mare
+      desc: Shrimp, scallops, clams and cherry tomatoes, tossed with creamy risotto, parmesan and fresh parsley
 
   - name: Dessert
     choices:
-    - name: Madeira marinated strawberries served with fresh pound cake and whipped cream
-    - name: Chocolate Tartufo
-      desc: A creamy zabione center surrounded by chocolate gelato and caramelized hazelnuts
-    - name: Lemon Mascarpone Cake
-      desc: Lemon sponge cake topped with mascarpone and white chocolate
+    - name: "Squash &amp; Apple Turnover"
+      desc: Butternut squash and apples baked in puff pastry
+    - name: Bread Pudding
+      desc: Baked with a seasoned crumb topping and salted caramel sauce
+    - name: Cookie Dough Cannoli
+      desc: Sweet shells filled with chocolate chip cookie dough and mascarpone topped with chocolate sauce
