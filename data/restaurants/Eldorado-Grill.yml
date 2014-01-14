@@ -1,7 +1,7 @@
 name: Eldorado Grill
 address: 744 Williamson Street, Madison, 53703
 phone: 608.280.9378
-hours: Sun-Thurs 5p-9p, Fri 5p-10p
+hours: Sun-Thurs 4:30p-9p, Fri 4:30p-10p
 lat: 43.0779653
 lng: -89.3720804
 
@@ -12,29 +12,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Kw's Texas Chili
-      desc: Beef tips simmered in New Mexican red, ancho, pasila, and Oaxacan chiles, with onions, garlic, and chicken stock. Served with cheddar cheese, diced onions and a corn cake
+    - name: Spinach Salad with Goat Cheese
+      desc: Fresh spinach, red onions, tomatoes, candied chilied pecans and goat cheese with a lemon cumin vinaigrette. Add grilled chicken to your salad.
     - name: Texas Torpedoes
-      desc: Pickled jalape&ntilde;o peppers stuffed with shrimp and Monterey Jack cheese, wrapped with smoked bacon and grilled to perfection. Served with pico de gallo, sour cream, and fresh lime
-    - name: Shrimp Ceviche Salad with Sweet Lime Dressing
-      desc: Spring greens tossed with sweet lime dressing. Topped with red pepper, red onion, jicama and shrimp ceviche
-    - name: Taylor's Ten Pepper Vegan Chile
-      desc: We slow cook ten different chiles, garlic, onions, smoked tomatoes, vegan chorizo and vegetable protein then top it all with guacamole and pico de gallo
+      desc: Pickled jalape&ntilde;o peppers stuffed with shrimp and Monterey Jack cheese, wrapped with smoked bacon and grilled to perfection. Served with pico de gallo, sour cream, and fresh lime.
+    - name: Green Chile Pork Stew
+      desc: Slow cooked pork and roasted green chiles in a cumin scented cream sauce topped with tortilla strips and cilantro.
 
   - name: Entree
     choices:
-    - name: Slow Braised Pork Adobo
-      desc: Slow braised pork in a rich adobe sauce served over red rice and topped with fresh avocado, escabeche and queso fresco
-    - name: Pan Seared Mahi Mahi with Strawberry Habanero Relish
-      desc: Mahi Mahi pan seared and topped with a strawberry habanero relish. Served over a grilled cactus and chayote squash salad
-    - name: Quinoa and Vegetable Stuffed Poblano
-      desc: Garlic-infused quinoa and seasonal roasted vegetables in a smoked poblano pepper.  Topped with guacamole and queso fresco. Served over salsa Nortena and black beans
+    - name: K.W.'s Texas Smoked Brisket
+      desc: Brisket coated with 8 secret herbs and spices, slow-roasted and smoked tender for 12 hours. Sliced thin and served on Texas toast with bbw sauce, chipotle potato salad, green chile pinto beans, house slaw, corn cake, pickles and onions.
+    - name: Ancho Agave Glazed Salmon
+      desc: Filet of line caught Sockeye Salmon grilled to perfection and glazed with a sweet citrus ancho agave sauce. Served atop garlic mashed potatoes and house collard greens. Garnished with crispy garlic and citrus.
+    - name: Vegan Chorizo and Queso Stuffed Roasted Squash
+      desc: Roasted summer squash stuffed with vegan chorizo, sautéed vegetables and queso fresco. Served over guajillo chile tomato sauce and topped with an avocado salad and pickled red onion.
 
   - name: Dessert
     choices:
-    - name: Jalapeno Key Lime Pie
-      desc: We squeeze fresh lemon juice then mix it with eggs, milk, sugar and fresh diced jalape&ntilde;o.  Then we bake it in a house-made pie crust. Served with whipped cream and a sprig of mint
+    - name: Lemon Jalapeno Pie
+      desc: We squeeze fresh lemon juice then mix it with eggs, milk, sugar and fresh diced jalapeño. Then we bake it all in a house-made pie crust and serve it with whipped cream and a sprig of mint.
     - name: Chocolate Ancho Pecan Pie
-      desc: 'Homemade pecan pie with a double kick of chiles! Served with a tequila crème anglaise, whipped cream and mint'
-    - name: Horchata Milk Shake
-      desc: We blend chocolate shoppe vanilla ice cream with our homemade horchata and top it with whip cream and a sopapilla chip
+      desc: Homemade pecan pie with a double kick of chile! Served with a tequila crème anglaise.
+    - name: Mexican Coke Float
+      desc: Homemade mole ice cream and Mexican Coke topped with whipped cream and a spiced cherry.
