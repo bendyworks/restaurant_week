@@ -10,25 +10,26 @@ meals:
   price: 30
 
   courses:
-  - name: First Course
+  - name: Appetizer
     choices:
+    - name: Rhode Island Clam Chowder
+    - name: Gorgonzola Cream PEI Mussels
     - name: Thai Style Curried Crab Soup
-    - name: Mixed Green Salad
-      desc: with sherry-mustard vinaigrette
-    - name: Steamed PEI Mussels
-      desc: with chorizo, tomato, shallot, white wine
 
-  - name: Second Course
+  - name: Entree
     choices:
-    - name: Summer Vegetable Risotto
-    - name: Pan Seared Walleye
-      desc: with sweet corn &amp; red pepper salad
+    - name: Pan Seared Salmon
+      desc: Mushroom risotto, herb-goat cheese
+    - name: WI Rainbow Trout
+      desc: Crispy fried rice, sweet potato puree, pecan butter
     - name: Diablo Shrimp Pasta
-      desc: Penne Pasta, chorizo, spicy cream sauce, garlic toast
+      desc: Penne Pasta, chorizo, spicy cream sauce
 
   - name: Third Course
     choices:
     - name: Key Lime Pie
-      desc: with citrus syrup
-    - name: Hot Fudge Brownie Sundae
-    - name: Horchata Sorbet
+      desc: Citrus Coulis
+    - name: Dark Chocolate Mousse
+      desc: Peanut Brittle
+    - name: Apple Cider Sorbet
+      desc: Gingersnap cookie
