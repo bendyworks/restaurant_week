@@ -12,30 +12,30 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Causitas Limena
-      desc: Traditional preparation of freshly mashed potatoes, infused with key lime juice and yellow chili pepper, the perfect mix of chicken, botija olives and Huancaina sauce garnished with egg
-    - name: Yuca a la Huancaina (V)
-      desc: 'Fried yucca perfectly accompanied with "huancaina cream": captivating mild Peruvian yellow hot chili pepper, mixed with a white cheese sauce'
-    - name: Tamalito
-      desc: Peruvian ground corn bread stuffed with smoked pork, botija olive and boiled egg. Topped with Creole sauce
+    - name: Tamalito verde de pollo
+      desc: Peruvian cilantro tamale, stuffed with chicken marinated in cilantro sauce, wrapped on banana leafs served with creole sauce.
+    - name: Causa de la Granja
+      desc: Freshly mashed potatoes, infused with Key lime juice and pressed into a cake stuffed with shredded breast chicken,  vegetables, tomatoes and avocado, garnished with egg and olive.
+    - name: Boliyucas
+      desc: Lightly fried mashed cassava stuffed with cheese, accompanied with "huancaina cream:" traditional captivating mild aji amarillo (Peruvian yellow hot chili pepper)
 
   - name: Entree
     choices:
-    - name: Seco a la Limena
-      desc: Juicy beef shoulder stew, cilantro and beer flavor, served with boiled potatoes and rice, garnished with Creole sauce
-    - name: Escabeche de Pescado
-      desc: Lightly fried fish fillets smothered with aji panca, onions and red peppers accompanied with white rice and garnished with black botija olive and boiled egg
-    - name: Adobo Arequipeno
-      desc: Peruvian southern plate tenerloin pork smothered in aji panca covered with onion &amp; accompanied with sweet potatoes glaze and white
+    - name: Seco Verde
+      desc: Juicy, slow cooked pieces of beef with cilantro paste, beer, carrots, peas, served with boiled potatoes and garlic white rice garnished with creole sauce
+    - name: Pollo Cholo
+      desc: Taste our famous marinated free-range rotisserie chicken slowly roasted over open flame accompanied with a delicious spring mix salad and yuquitas  in yellow cream sauce
+    - name: Pescado a la Chorillana
+      desc: Lightly fried fish smothered with aji panca, onions, tomatoes, accompanied with white garlic rice garnished with black olive and boiled egg.
 
   - name: Dessert
     choices:
-    - name: Arroz con Leche a la Limena
-      desc: Peruvian style rice pudding, mixture of condensed milk, aromatic with pisco (Peruvian brandy), garnished with sweet raisin and cinnamon.
-    - name: Tres Leches
-      desc: Sponge like cake texture covered with a delicious five milk syrup (evaporated, condensed, cream, coconut and fresh milk, aromatized with pisco (Peruvian brandy) and garnished with whip cream
-    - name: Torta Fresca de Pasion Fruit
-      desc: Layers of rich sponge cake Peruvian sweet flavors, filled with dulce de leche a layer of mousse of pasion fruit and covered with pasion fruit topped with whip cream
+    - name: Delicia Tropical
+      desc: A delicious sweet and sour mousse of maracuya (tropical passion fruit) garnished with maracuya sauce and whipped topping cream
+    - name: Arroz con Leche al Oporto
+      desc: Peruvian style rice pudding: mixture of condensed milk, aromatic with porto (Peruvian brandy), garnished with sweet raisin and cinnamon
+    - name: Quesillo al Caramelo
+      desc: Delicious flan prepared “a bano maria” and glazed with caramel.
 
 - type: dinner
   price: 25
@@ -43,27 +43,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Ceviche bandera
-      desc: 'All time Peruvian classic: fresh Tilapia fish in bite-sized pieces, marinated in lime juice, aji amarillo and aji rocoto, garnished with slivers of red onions, peruvian corn &amp; served in a martini glass.'
-    - name: Causa de ocopa de camarones
-      desc: Traditional preparation  of freshly mashed potatoes, infused with key lime juice and yellow chilli pepper, topped shrimp in traditional ocopa sauce garnished with egg and botija olive
-    - name: Yucas a la Huancaina (V)
-      desc: 'Fried yucca slices perfectly accompanied with "huancaina cream": captivating mild Peruvian yellow hot chili pepper, mixed with a white cheese sauce'
+    - name: Ceviche a la Chalaca
+      desc: A specialty dish of simpl elegance seabass and shrimp in a perfect balance of key lime juice, served in shell and covered with leche de tigre, chopped onions, cilantro, choclo(peruvian corn) celery, garnished with sweet potatoes glaze.
+    - name: Boliyuccas al Aji
+      desc: Lightly fried mashed cassava stuffed with chive cheese acompanied with “huancaina cream”: traditional captivating mild aji amarillo (peruvian yellow hot chili pepper)
+    - name: Causushi (causa-sushi)
+      desc: Like sushi rolls, but using causa insted of the rice and filling with shredded breast chicken salad shopped tomatoes and avocado, causa is a cold lightly spicy yellow potatoes infused with key lime juice.garnished with huancaina cream
 
   - name: Entree
     choices:
-    - name: Mar Pacifico
-      desc: A flavored lightly fried fish fillet, stuffed with shredded crab in a homemade white sauce with grated parmesan cheese, served with white rice
-    - name: Lomo Saltado
-      desc: A Bite sized USDA-CHOICE beef tenderloin stir fried with onions, tomatoes, and cilantro mixed with french fries accompanied with white rice
-    - name: Aji de Gallina
-      desc: Tender shredded breast of chicken prepared in a creamy Peruvian sauce of yellow pepper, garnished with roasted walnut, fresh parmesan cheese, black botija olive, boiled egg, served with white rice and boiled potatoes.
+    - name: Cabrito a la Nortena
+      desc: Peruvian northern-style Beef stew, marinated in chicha de jora (aromatic peruvian citrus) aji panca, aji amarillo and cooked in based of cilantro, and pumpkin served with confit clove onions,  lima beans, yuccas, and garlic white rice
+    - name: Pollo Cholo Fusion Amazonica
+      desc: Taste our famous marinated free-range rotisserie chicken slowly roasted over open flame accompanied with our delicious crispy tostone former in a cup shape filling with a freshly Amazonian salad  and crispy fried yucas with Huancaina sauce]
+    - name: Frutos del Mar
+      desc: Seafood “Paella” style “aji panca” red dry pepper, rice simmered in saffron with a top of head shrimp, mixed with squid, shrimp, octopus, mussels and fresh fish with a touch of white wine, garnished with peas, carrots, cilantro and creole sauce
 
   - name: Dessert
     choices:
-    - name: Arroz con Leche a la Limena
-      desc: Peruvian style rice pudding, mixture of condensed milk, aromatic with pisco (Peruvian brandy), garnished with sweet raisin and cinnamon.
-    - name: Tres Leches
-      desc: Sponge like cake texture covered with a delicious five milk syrup (evaporated, condensed, cream, coconut and fresh milk, aromatized with pisco (Peruvian brandy) and garnished with whip cream
-    - name: Torta Fresca de Pasion Fruit
-      desc: Layers of rich sponge cake Peruvian sweet flavors, filled with dulce de leche a layer of mousse of pasion fruit and covered with pasion fruit topped with whip cream
+    - name: Delicia Andina
+      desc: A perfect mousse of Lucuma (Andean Peruvian fruit) garnished with choco-pisco and whipped topping cream
+    - name: Arroz con Leche al Oporto
+      desc: Peruvian style rice pudding: mixture of condensed milk, aromatic with porto (Peruvian brandy), garnished with sweet raisin and cinnamon
+    - name: Quesillo al Caramelo
+      desc: Delicious flan prepared “a bano maria” and glazed with caramel.
