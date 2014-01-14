@@ -1,7 +1,7 @@
 name: Johnny Delmonicos
 address: 130 S. Pinckney, Madison 53703
 phone: 608.257.8325
-hours: Mon-Fri 11a-2p (Lunch), Mon-Thurs 5p-9p, Fri 5p-10p (Dinner)
+hours: Mon-Fri 11a-2p (Lunch), Sun-Thurs 4p-9p, Fri & Sat 4p-10p (Dinner)
 lat: 43.0740689
 lng: -89.3812639
 
@@ -12,61 +12,59 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Roasted Sweet Corn Bisque
-      desc: with crispy applewood bacon and semolina croutons
-    - name: House Caesar
-      desc: chopped hearts of romaine tossed with house-made caesar dressing and served with shredded parmesan, croutons and lemon
+    - name: New England Clam Chowder
+      desc: Smokey bacon, diced potatoes, moist clams, oyster crackers, chives
     - name: Flash Fried Calamari
-      desc: with sweet and spicy chili sauce and crushed peanuts
+      desc: With sweet and spicy chili sauce and crushed peanuts
+    - name: Shredded Kale Salad
+      desc: Cherry Tomato, Olives, Feta, Dill, Mint, Red Onion
 
   - name: Entree
     choices:
-    - name: PEI Mussels
-      desc: simmered in a coconut curry broth with potatoes, carrots, onions and served with garlic toasted bread
-    - name: Miso Cod
-      desc: with roasted mushrooms and baby spinach and drizzled with balsamic teriyaki (vegetarian if portabella cap is substitued for the Cod)
-    - name: Smoked Beef Brisket Sandwich
-      desc: with caramelized onions, cheddar and roasted garlic aioli served with mixed greens tossed in balsamic dressing
-    - name: Lobster Club ($20)
-      desc: Lobster salad with mayonnaise, olives and fresh lemon topped with applewood smoked bacon, local tomato and leaf lettuce on toasted sourdough bread.  Served with fries.
+    - name: Delmonico Burger
+      desc: CAB ribeye and ground chuck burger, braised red onions, gorgonzola béchamel, pretzel bun, served with house made sweet potato chips
+    - name: Salmon Burger
+      desc: Fresh Scottish salmon patty, red onion, tomato, mixed greens, lemon caper dill aioli, brioche bun, served with house made sweet potato chips
+    - name: Wild Mushroom Risotto
+      desc: Portabella, crimini, oyster and button mushrooms, parmesan cheese, fine herbs, topped with shaved montamore cheese
 
   - name: Dessert
     choices:
-    - name: Key Lime Tart
-      desc: with chantilly cream, lime supremes and strawberry
-    - name: Chocolate Terrine
-      desc: with berry coulis, ginger chantilly, raspberries and sea salt
-    - name: House Made Fruit Sorbet
-      desc: House made fruit sorbet with a sugared wonton and fresh fruit
+    - name: German Chocolate Cake
+      desc: Served with chocolate sauce, crumbled nuts, and shaved coconut
+    - name: Crème Brulee
+      desc: Fresh vanilla bean custard, fresh fruit and mint
+    - name: Fresh Fruit Sorbet
+      desc: House made fruit sorbet with fresh fruit, sugar dusted wonton and mint
 
 
 - type: dinner
   price: 35
 
   courses:
-  - name: First Course
+  - name: Appetizer
     choices:
-    - name: Roasted Sweet Corn Bisque
-      desc: with crispy applewood bacon and semolina croutons
+    - name: New England Clam Chowder
+      desc: Smokey bacon, diced potatoes, moist clams, oyster crackers, chives
+    - name: Flash Fried Calamari
+      desc: With sweet and spicy chili sauce and crushed peanuts
     - name: House Caesar
       desc: chopped hearts of romaine tossed with house-made caesar dressing and served with shredded parmesan, croutons and lemon
-    - name: Flash Fried Calamari
-      desc: with sweet and spicy chili sauce and crushed peanuts
 
-  - name: Second Course
+  - name: Entree
     choices:
-    - name: CAB Strip Loin
-      desc: with Vietnamese steak sauce, charred scallions, roasted garlic mashed potatoes and braised mushroom blend. Upgrade to 8oz. tenderloin for $15 supplement.
-    - name: Salmon au Poivre
-      desc: with spiced fig vinaigrette, citrus scented summer squash and fresh arugula
-    - name: Scaloppini of Airline Chicken Breast
-      desc: with honey and thyme braised carrots, saut&eacute;ed pea pods and piquant caribbean agro dolce
+    - name: Pepper Crusted NY Strip
+      desc: Pepper crusted CAB NY strip medallions, creamy mashed potatoes, crispy shoestring onion rings, and a gorgonzola béchamel sauce
+    - name: Swordfish
+      desc: Seared and roasted line caught swordfish, Israeli couscous risotto with parsley and craisins, citrus tarragon buerre blanc and organic micro greens
+    - name: Fresh Gnocchi
+      desc: House made gnocchi, gorgonzola béchamel sauce, fresh peas, wild mushrooms, fine herbs, shaved montamore cheese, fresh chives
 
   - name: Dessert
     choices:
-    - name: Key Lime Tart
-      desc: with chantilly cream, lime supremes and strawberry
-    - name: Chocolate Terrine
-      desc: with berry coulis, ginger chantilly, raspberries and sea salt
-    - name: House Made Fruit Sorbet
-      desc: House made fruit sorbet with a sugared wonton and fresh fruit
+    - name: German Chocolate Cake
+      desc: Served with chocolate sauce, crumbled nuts, and shaved coconut
+    - name: Crème Brulee
+      desc: Fresh vanilla bean custard, fresh fruit and mint
+    - name: Fresh Fruit Sorbet
+      desc: House made fruit sorbet with fresh fruit, sugar dusted wonton and mint
