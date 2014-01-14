@@ -1,7 +1,7 @@
 name: Bluephie's
 address: 2701 Monroe Street, Madison, 53711
 phone: 608.231.3663
-hours: Sun 4-9p, (Lunch) Mon-Thurs 11a-3p (Dinner) 4-9p, Fri 11a-3p &amp; 4-10p
+hours: Sun 4-9p, Mon-Thurs 11a-9p, Fri 11a-10p
 lat: 43.0573106
 lng: -89.42851
 
@@ -12,27 +12,30 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Roast Beets
-      desc: with pistachios, gorgonzola and orange
-    - name: Fried Sweet Sausage
-      desc: stuffed with olive crostini with fresh mozzarella and tomato
-    - name: Roast Summer Squash Salad
-      desc: with warmed blue cheese and balsamic
+    - name: Gnocchi
+      desc: with duck confit, cranberries and a light mustard cream
+    - name: Gorgonzola and Pear Tart
+      desc: with balsamic vinegar reduction
+    - name: Wisconsin Beer Cheese and Brussels Sprout Soup
+      desc: with bacon
 
   - name: Entree
     choices:
-    - name: Fancy Pork and Beans
-      desc: "(not from a can)"
-    - name: Hoisin Glazed Beef
-      desc: with sweet wasabi potato
-    - name: Asparagus Ravioli
-      desc: with spinach-lemon-pistachio
+    - name: Ginger and Scallion Crusted Mahi Mahi
+      desc: with citrus butter, over herbed rice
+    - name: Grilled Pork Tenderloin
+      desc: with infused brown sauce and butternut squash puree
+    - name: Spinach and Ricotta Filled Ravioli
+      desc: with truffled brown butter spinach and red peppers
 
   - name: Dessert
     choices:
-    - name: Strawberry Shortcake
-    - name: Mixed Berry Free Form Tart
-    - name: Profiteroles and Chocolate Cream
+    - name: White Chocolate Almond Mousse
+      desc: with raspberry coulis
+    - name: Spiced Pumpkin Bread Pudding
+      desc: with salted caramel sauce
+    - name: Winter Fruit Pie
+      desc: apples, figs, pears and Golden raisins with a walnut graham cracker crust
 
 - type: dinner
   price: 25
@@ -40,24 +43,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Roast Beets
-      desc: with pistachios, gorgonzola and orange
-    - name: Fried Sweet Sausage
-      desc: stuffed with olive crostini with fresh mozzarella and tomato
-    - name: Roast Summer Squash Salad
-      desc: with warmed blue cheese and balsamic
+    - name: Gnocchi
+      desc: with duck confit, cranberries and a light mustard cream
+    - name: Gorgonzola and Pear Tart
+      desc: with balsamic vinegar reduction
+    - name: Wisconsin Beer Cheese and Brussels Sprout Soup
+      desc: with bacon
 
   - name: Entree
     choices:
-    - name: Fancy Pork and Beans
-      desc: "(not from a can)"
-    - name: Hoisin Glazed Beef
-      desc: with sweet wasabi potato
-    - name: Asparagus Ravioli
-      desc: with spinach-lemon-pistachio
+    - name: Ginger and Scallion Crusted Mahi Mahi
+      desc: with citrus butter, over herbed rice
+    - name: Grilled Pork Tenderloin
+      desc: with infused brown sauce and butternut squash puree
+    - name: Spinach and Ricotta Filled Ravioli
+      desc: with truffled brown butter spinach and red peppers
 
   - name: Dessert
     choices:
-    - name: Strawberry Shortcake
-    - name: Mixed Berry Free Form Tart
-    - name: Profiteroles and Chocolate Cream
+    - name: White Chocolate Almond Mousse
+      desc: with raspberry coulis
+    - name: Spiced Pumpkin Bread Pudding
+      desc: with salted caramel sauce
+    - name: Winter Fruit Pie
+      desc: apples, figs, pears and Golden raisins with a walnut graham cracker crust
