@@ -1,7 +1,7 @@
 name: Fresco
 address: 227 State Street, Madison, 53703
 phone: 608.663.7374
-hours: Sun-Thurs 5-9p, Fri 5-10p
+hours: Sun 4-9p, Mon-Thurs 5-9p, Fri 5-10p
 lat: 43.0746771
 lng: -89.38895699999999
 
@@ -12,27 +12,27 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Summer Soup
+    - name: Cheddar Risotto Cakes
+      desc: Hook's cheddar cheese, broccoli sauce
+    - name: Grapefruit & Fennel Salad
+      desc: Mixed greens, shaved fennel, artisan cheese, fresh grapefriut, candied almond, grapefruit vinaigrette
+    - name: Winter Soup
       desc: Seasonal Preparation
-    - name: Pea &amp; Parmesan Risotto Cake
-      desc: White truffle pea puree
-    - name: Tomato &amp; Corn Salad
-      desc: Mixed Greens, basil, lemon vinaigrette
 
   - name: Entree
     choices:
-    - name: Seared Halibut
-      desc: Seasonal Preparation
-    - name: Short Rib
-      desc: Smoked butter polenta, seasonal vegetable, beef reduction
+    - name: Grilled Salmon
+      desc: Crab &amp; bacon polenta, broccoli rabe, honey mustard aioli
+    - name: Braised Short Rib
+      desc: New potato, root vegetables, truffle crème fraiche
     - name: Ricotta Cheese Gnocchi
       desc: Handmade ricotta gnocchi, seasonal vegetables, brown butter herb creme
 
   - name: Dessert
     choices:
-    - name: Lemon Cheesecake
-      desc: Blueberry sauce
-    - name: Brown Butter Cake
-      desc: Lemon cr&egrave;me fraiche, cilantro simple syrup
-    - name: House Made Kit Kat
-      desc: Sorbet
+    - name: Coconut Tres Leches Cake
+      desc: Mango, toasted coconut
+    - name: Chocolate Mousse
+      desc: Kahlua whipped cream, bruléed banana, peanut biscotti
+    - name: Mixed Berry Cheesecake
+      desc: Lemon Curd
