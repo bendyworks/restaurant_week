@@ -12,27 +12,23 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Captain Bill's World Famous Clam Chowder
-      desc: as seen on The Food Network
-    - name: Strawberry &amp; Mixed Green Salad
-      desc: Sliced strawberries tossed with mixed spring greens, red onions and raspberry vinaigrette
-    - name: Crab Salad Stuffed Tomato
-      desc: Crisp tomato stuffed with creamy crab salad, resting on a bed of greens and drizzled with balsamic vinaigrette
+    - name: Clam Chowder
+    - name: Pear Salad with Balsamic
+      desc: Marinated pears, blue cheese crumbles and aged balsamic atop frisee greens
+    - name: Classic Wedge Salad
 
   - name: Entree
     choices:
     - name: Surf and Turf
-      desc: A 6 oz. Tenderloin Filet with a 6 oz. Lobster Tail (Turf only option- 12 oz. New York Strip Steak), Side Vegetable
-    - name: Shrimp Duet
-      desc: Our fabulous Coconut Shrimp paired with Pan-Seared Scallops topped with citrus-butter, Side Vegetable
-    - name: Cedar Planked Salmon
-      desc: An eight-ounce, hand-cut fillet of Atlantic Salmon, oven roasted on a cedar plank and drizzled with a honey, brown sugar and whole-grain mustard sauce
+      desc: Lobster Tail and Tenderloin. Served with whipped garlic potatoes and green beens with almonds and cranberries.
+    - name: Coconut Shrimp
+      desc: We fry up five jumbo shrimp battered in our signature coconut breading and served with a sweet honey mustard dipping sauce. Served with whipped garlic potatoes and green beens with almonds and cranberries.
+    - name: Surfing Salmon
+      desc: A fresh, hand-cut fillet of Salmon finished with our brown sugar, honey and whole grained mustard glaze. Served with whipped garlic potatoes and green beens with almonds and cranberries.
 
   - name: Dessert
     choices:
+    - name: Triple Chocolate Mousse Cake
     - name: Key Lime Pie
-      desc: A family favorite of ours, and soon to become a favorite of yours too!
-    - name: Chocolate Trifle
-      desc: Layers of rich chocolate cake, chocolate Bavarian cream and Godiva Liqueur-soaked blueberries beautifully presented in a wine glass
-    - name: Door County Cherry Tart
-      desc: Our house-made cherry tart served with Chocolate Shoppe Vanilla Bean Ice Cream
+    - name: Captain's Ice Cream Sandwich
+      desc: Fresh baked oatmeal cookie with Sassy Cow Creamery salted caramel ice cream
