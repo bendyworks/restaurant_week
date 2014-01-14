@@ -13,27 +13,25 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Insalata Lombardino
-      desc: Mixed greens with slivered red onion, shaved fennel &amp; Italian parsley, dressed with fennel seed vinaigrette
-    - name: Tomato Soup
-      desc: Garnished with cr&egrave;me fraiche
-    - name: Antipasti Salad
-      desc: Market greens tossed with Sartori MontAmore cheese, Soppressata salami, &amp; cherry peppers, dressed with Aleppo pepper &amp; herb vinaigrette
+    - name: Winter Panzanella
+      desc: Roasted cauliflower & artichokes tossed with olive, rustic croutons, escarole, baby arugula, pickled pepper & Italian vinaigrette
+    - name: Signature Caesar Salad
+    - name: Ribollita
+      desc: Tuscan white bean soup with smoked pork, toasted bread & fresh sage, garnished with olive oil
 
   - name: Entree
     choices:
-    - name: Local Lamb Ragu
-      desc: Pinn Oak Ridge farm lamb slowly cooked with San Marzano tomatoes, garlic &amp; white wine, thyme &amp; chili, garnished with pepato cheese
-    - name: Roasted Eggplant Cannelloni
-      desc: Filled with goat cheese &amp; fresh basil, set on saffron cream sauce &amp; a southern Italian style ratatouille of eggplant, red bell pepper, zucchini, onion, celery, tomatoes, garlic and basil
-    - name: Roasted Salmon
-      desc: Served on wood grilled broccolini with spicy calabrese vinaigrette
+    - name: Milk Braised Jordandal Farm Pork Shoulder
+      desc: Served on Anson Mills polenta, garnished with pork braising jus
+    - name: Marsala Mushrooms with Linguine
+      desc: Sauté of local mushrooms, garlic, shallot, fresh sage, marsala & roasted garlic cream, tossed with linguine & garnished with parmesan cheese
+    - name: Pan Seared Market Cod
+      desc: With red potato, pickled red onion, parsley, frisée & baby arugula, garnished with tonnato sauce
 
   - name: Dessert
     choices:
-    - name: Buttermilk Panna Cotta
-      desc: Rich Italian style custard with a hint of vanilla & citrus
-    - name: Tiramis&ugrave;
-      desc: Housemade ladyfingers dipped in Kahlua, coffee &amp; amaretto layered with mascarpone mousse &amp; shaved chocolate
-    - name: Black Rum Budino
-      desc: Topped with salted caramel &amp; whipped cream
+    - name: Pistachio Cake
+      desc: With sour cream ice cream & tart Michigan cherries
+    - name: Bocca Nera
+      desc: Decadent warm flourless chocolate served in an espresso cup, tossed with whipped cream
+    - name: Lombardino's Tiramisu
