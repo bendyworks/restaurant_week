@@ -12,8 +12,8 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Fresh Tomato and Oregano Salad
-      desc: Fresh Local Tomatoes | Oregano | Basil Olive Oil
+    - name: Roasted Tomato Basil Soup
+      desc: Fresh Tomatoes | Oregano | Basil
     - name: Mixed Market Salad
       desc: Tomato | Local Greens | Cucumber, Your choice of Dressing on the side
     - name: Capitol Chowder
@@ -21,21 +21,21 @@ meals:
 
   - name: Entree
     choices:
-    - name: Steak Frites
-      desc: Grilled Ribeye | Old World Bread | Caramelized Onion Fries
-    - name: Watermelon Salad
-      desc: Fennel | Radish | Red Onion | Almonds | Strawberry Vinaigrette
-    - name: Roasted Lamb Sandwich
-      desc: Greek Marinated Roasted Lamb on Grilled Flat Break | Yoghurt | Cucumber, Onions, Relish
+    - name: Smoked Pulled Pork Sandwich
+      desc: Smoked Pork | Old World Bread | Chipotle Cole Slaw | Fried Onion
+    - name: Portobello Tart
+      desc: Wild Mushroom | Quinoa | Cranberry | Walnuts | Tart Shell | Cranberry Vinaigrette
+    - name: Grilled Chicken with Sage
+      desc: Grilled Sage Chicken | Mixed Grain Rice | Herb Au Jus
 
   - name: Dessert
     choices:
-    - name: Blueberry Crumble
+    - name: Pear Crisp
       desc: Vanilla Bean Ice Cream
     - name: Caramel Brownie Sundae
-      desc: Caramel Brownie | Ice Cream | Whip Cream | Caramel Sauce
-    - name: Peach Short Cake
-      desc: Stewed Peaches | Amaretto Cream | Fresh Short Cake
+      desc: Chocolate Sauce
+    - name: Winter Fruit Compote
+      desc: Stewed Apples | Pears | Cranberry | Topped with Sweet Cream
 
 
 - type: dinner
@@ -44,27 +44,25 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Heirloom Tomato Sampler
-      desc: Fresh mozzarella, basil pesto
-    - name: Fresh Tuna and Radish Salad
-      desc: Tuna, radish salad, wasabi dressing, extra virgin olive oil
-    - name: Capitol Clam Chowder
-      desc: New England style, oyster crackers
+    - name: Mini Shellfish Sampler
+      desc: Blue Point Oyster | Jumbo Shrimp | Ceviche | ChopHouse Cocktail Sauce
+    - name: Wedge Salad
+      desc: "Cherry Tomatoes | Red Onion | Eggs | Applewood Smoked Bacon | Roth Käse Buttermilk Blue Cheese Dressing"
+    - name: Capitol Chowder
+      desc: New England style Clam Chowder
 
   - name: Entree
     choices:
-    - name: New York Strip
-      desc: Cilantro, lime, arugula, cherry tomato, red onion
-    - name: Slow Roasted Black Earth Pork
-      desc: Polenta, SarVecchio cheese, arugula
-    - name: Scallops with Cream Corn
-      desc: Scallops, roasted corn, pea shoots, chives
+    - name: Steak & Potato
+      desc: N.Y. Strip | Baked Idaho Potato | Garlic Herb Butter
+    - name: Locally Raised Duck
+      desc: Roasted Beets | Sage Fingerling Potatoes | Port Wine Demi Glace
+    - name: Mustard Crust Seared Salmon
+      desc: Swiss Chard | White Bean Ragu
 
   - name: Dessert
     choices:
-    - name: Peach Short Cake
-      desc: Stewed peaches, amaretto pastry cream
-    - name: Blueberry Crisp
-      desc: Vanilla Bean Ice Cream
-    - name: Chocolate Cr&egrave;me Brulee
-      desc: with marshmallow and gram cracker s'mor style
+    - name: Pear Crisp
+      desc: Cinnamon Cream | Dark Rum Caramel Sauce
+    - name: Salted Caramel Pot du Crème
+    - name: Chocolate Layer Cake with Baileys Sauce
