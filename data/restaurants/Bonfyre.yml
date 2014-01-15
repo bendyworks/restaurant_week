@@ -1,7 +1,7 @@
 name: Bonfyre
 address: 2601 W. Beltline Hwy Suite 110, Madison, 53713
 phone: 608.273.3973
-hours: Sun 10a-10p, Mon-Thurs 11a-10pm, Fri 11a-11pm
+hours: 11a-12a
 lat: 43.034611
 lng: -89.42216599999999
 
@@ -12,17 +12,19 @@ meals:
   courses:
   - name: Appetizer
     choices:
-    - name: Our Famous Butternut Soup
-    - name: Seasonal Soup
     - name: Wedge Salad
     - name: House Salad
+    - name: Butternut Squash Soup
+    - name: Chicken Tortilla Soup
 
   - name: Entree
     choices:
-    - name: Pan Fried Walley
-      desc: with roasted rosemary potatoes and seasonal vegetable
-    - name: Woodfyred Rotisserie Chicken
-      desc: "herb marinated or BBQ w/mashed red potatoes and seasonal vegetable"
+    - name: Chipotle Chicken
+      desc: covered with mushrooms and provolone. Served with mash and veggies
+    - name: Walleye
+      desc: pan fried and lightly breaded. Served with roasted rosemary potatoes and veggies
+    - name: Pot Roast
+      desc: covered with a red wine demi and shitake mushroom and roasted garlic glaze. Served with mashed potatoes, carrots, spinach and asparagus
 
   - name: Dessert
     choices:
@@ -30,57 +32,27 @@ meals:
 
 - type: dinner
   price: 25
-  name: Dinner 1
 
   courses:
   - name: Appetizer
     choices:
-    - name: Maytag Blue Chips
-      desc: hand cut potato chips w/creamy maytag blue cheese sauce, pepper jack cheese, blue cheese crumbles, tomatoes
+    - name: Crab Stuffed Mushrooms
+    - name: BBQ Shrimp
+      desc: 3 shrimp with a mix of peppers, onion, garlic, covered with barbeque sauce served over a layer of rice
+    - name: Smoke Salmon Bruchetta
+      desc: Served with dill cream sauce, cucumber, capers and onions
 
   - name: Entree
     choices:
-    - name: Summer Salmon Orrchiette
-      desc: asparagus, onion, shittake mushrooms, bell peppers, roasted tomato, and fresh salmon tossed in a lemon cream sauce
+    - name: Pork Tenderloin
+      desc: with citrus rum sauce. Served with mashed potato and spinach
+    - name: "Hanger Steak ($30)"
+      desc: with guajillo sauce. Served with dirty rice and veggies
+    - name: Fresh Halibut
+      desc: served with champagne beur blanc sauce. Served with cous cous and asparagus
 
   - name: Dessert
     choices:
-    - name: Your choice of any of our delicious Mini desserts
+    - name: Chocolate Cake
+    - name: Passion Cake
 
-- type: dinner
-  price: 35
-  name: Dinner 2
-
-  courses:
-  - name: First Course
-    choices:
-    - name: Grilled and Chilled Shrimp Cocktail
-    - name: Ginger Lime marinated shrimp, wasabi cream, asian style slaw
-
-  - name: Entree
-    choices:
-    - name: Wood Fyred Sirloin
-      desc: 6 oz. prime center-cut sirloin grilled to perfection and served with seared polenta, asparagus and cherry demi-glace
-
-  - name: Dessert
-    choices:
-    - name: Your choice of any of our delicious Mini desserts
-
-- type: dinner
-  price: 35
-  name: Dinner 3
-
-  courses:
-  - name: First Course
-    choices:
-    - name: Mexican Style Ceviche
-      desc: shrimp, tomatoes, jalapenos, onion, cilantro and lime served with corn chips
-
-  - name: Second Course
-    choices:
-    - name: Sea Bass
-      desc: seared sea bass, coconut risotto, snow peas, water chestnuts, spicy pineapple salsa
-
-  - name: Third Course
-    choices:
-    - name: Your choice of any of our delicious Mini desserts
