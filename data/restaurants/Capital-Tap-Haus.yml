@@ -13,9 +13,9 @@ meals:
   - name: Starters
     choices:
     - name: Reuban Rolls
-      desc: Corned beef, sauerkraut and Great Lakes swiss cheese blended together and made into an eggroll. Accompanied with thousand island dressing
-    - name: Cheese Curd Fritters
-      desc: Succulent Wesby cheese curds in fritter batter, deep fried with honey Dijon dressing
+      desc: Corned beef, sauerkraut and Swiss cheese blended together and made into an eggroll. Accompanied with Thousand Island dressing
+    - name: Fried Calamari
+      desc: Crispy fried calamari served over spicy marinara, and topped with lemon aioli
     - name: Deviled Eggs Trio
       desc: Three deviled eggs, one pesto topped with candied bacon, one roasted red pepper topped with portabella, and caramelized onion, topped with bratwurst
 
@@ -32,7 +32,7 @@ meals:
     choices:
 
     - name: Bread Pudding
-      desc: Beer doughnuts cubed in sweet custard with cranberries, baked and served over an orange cream
+      desc: Custard bread pudding baked golden brown and topped with caramel sauce
     - name: New York Cheesecake
       desc: Classic New York cheesecake served with berry compote
     - name: Chocolate Cake
@@ -46,18 +46,18 @@ meals:
   - name: Starters
     choices:
     - name: Reuban Rolls
-      desc: Corned beef, sauerkraut and Great Lakes swiss cheese blended together and made into an eggroll. Accompanied with thousand island dressing
-    - name: Cheese Curd Fritters
-      desc: Succulent Wesby cheese curds in fritter batter, deep fried with honey Dijon dressing
+      desc: Corned beef, sauerkraut and Swiss cheese blended together and made into an eggroll. Accompanied with Thousand Island dressing
+    - name: Fried Calamari
+      desc: Crispy fried calamari served over spicy marinara, and topped with lemon aioli
     - name: Deviled Eggs Trio
       desc: Three deviled eggs, one pesto topped with candied bacon, one roasted red pepper topped with portabella, and caramelized onion, topped with bratwurst
 
   - name: Entree
     choices:
-    - name: Grilled Norwegian Salmon
-      desc: Grilled Norwegian salmon topped with dill cream, served over garlic mashed potatoes and summer vegetables
+    - name: Fish Fry
+      desc: Supper club beer battered haddock filet served with frites, coleslaw, tarter sauce and lemon wedges
     - name: Airline Chicken
-      desc: Semi boneless chicken breast served over garlic mashed potaotes and summer vegetables, topped with red wine sauce
+      desc: Semi boneless smoked chicken breast served over garlic mashed potaotes, sautéed yellow squash, zuchhini and spinach, topped with red wine sauce
     - name: Steak Frites
       desc: Flank steak, char grilled and topped with salsa Fresca, served with our hand cut frites
 
