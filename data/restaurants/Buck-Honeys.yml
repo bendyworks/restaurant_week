@@ -1,7 +1,7 @@
 name: Buck Honey's
 address: 804 Liberty Blvd, Sun Prairie, WI, 53590
 phone: 608.837.3131
-hours: Mon-Fri 11a-close, Sat/Sun 10a-close
+hours: 11a-11p
 lat: 43.1992964
 lng: -89.2259979
 
@@ -12,27 +12,27 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: Choose one of eleven delicious mini appetizers on our regular menu, a bowl of soup, or a house salad
+    - name: Please choose from firecracker shrimp, steak bites, ahi tuna, roasted goat with raspberry chipotle sauce and pita chips, sassy curds, soup or house salad
 
   - name: Second Course
     choices:
-      - name: French Dip
-        desc: Tender roast beef on a toasted hoagie with provolone cheese and aus jus. Served with one side
-      - name: Traditional Pressed Cuban Sandwich
-        desc: served with one side
-      - name: BBQ Salmon Salad
-        desc: with pineapple mango salsa, red peppers, red onions, pepper jack cheese &amp; mixed greens
+      - name: Soup & Sandwich
+        desc: "TA's hot comby with ham, salami &amp; pepperoni topped with green pepper, onion, our secret sauce & melted mozzarella- a 2013 'Best of Madison' award winner! Served with our soup du jour"
+      - name: Buffalo Chicken Wrap
+        desc: Fried buffalo chicken with mixed greens, red peppers, red onions, and pepper jack cheese in a wheat tortilla
+      - name: Baked Tilapia
+        desc: Drizzled with a lemon butter sauce, served with rice
+      - name: Taco Salad
+        desc: Onions, peppers, lettuce, seasoned ground beef, sour cream, salsa, and shaved cheddar in a house made tortilla shell
       - name: Chipotle Chicken Pasta
-        desc: Penne pasta tossed with a chipotle garlic cream sauce with onions, mushrooms, red and green peppers, and blackened chicken
-      - name: Caprese Entr&eacute;e Salad (V)
-        desc: Buffalo mozzarella, Roma tomatoes, capers, red onions, and balsamic reduction
+        desc: Penne pasta tossed in a chipotle garlic cream sauce with mushrooms, onion, red &amp; green peppers and blackened chicken
 
   - name: Third Course
     choices:
-      - name: Snickers Ice Cream Pie
+      - name: Bread Pudding
       - name: Banana Slamma
       - name: Fudge Brownie &amp; Ice Cream
-      - name: Strawberry Cheesecake
+      - name: Cherry Cobbler
 
 - type: dinner
   price: 30
@@ -40,24 +40,24 @@ meals:
   courses:
   - name: First Course
     choices:
-    - name: Choose one of eleven delicious mini appetizers on our regular menu, a bowl of soup, or a house salad
+    - name: Please choose from firecracker shrimp, steak bites, ahi tuna, roasted goat with raspberry chipotle sauce and pita chips, sassy curds, soup or house salad
 
   - name: Second Course
     choices:
-    - name: Seafood Trio
-      desc: 3 oz Grilled Mahi Mahi with mango salsa, 3 oz. grilled salmon with light lemon butter sauce, and 2 jumbo grilled scallops with a balsamic reduction, served with rice and broccolini
-    - name: Flat Iron Steak
-      desc: Served over polenta with mushroom ragu and &amp; broccolini
-    - name: Florentine Lasagna (V)
-      desc: Spinach, zucchini, squash, mushrooms, red &amp; green peppers.
-    - name: Grilled combo
-      desc: 1/2 rack of slow cooked ribs &amp; 5 oz chicken breast smothered with mushrooms, onions, and melted provolone cheese.  Served with garlic mashed potatoes and corn on the cob.
-    - name: Steak Gorgonzola Pasta
-      desc: Penne pasta tossed with a garlic cream sauce, onions, peppers, mushrooms with grilled tenderloin then baked with Gorgonzola cheese.
+    - name: Black &amp; Bleu New York Shrimp
+      desc: Served with beer cheese mashed potatoes & asparagus
+    - name: Veal Marsala
+      desc: Strauss Farms free range veal over fettuccine with button mushrooms and a red wine sauce
+    - name: Salmon Piccata
+      desc: With spinach, prosciutto, capers, pecans, and a light lemon butter sauce. Served with rice
+    - name: Three Cheese Eggplant Parmesan (GF, V)
+      desc: With parmesan, romano, and mozzarella cheese. Served over RP's gluten-free pasta
+    - name: Chicken Francaise
+      desc: Lightly breaded chicken breast baked over rice and asparagus, served with a creamy white wine reduction
 
   - name: Third Course
     choices:
-      - name: Snickers Ice Cream Pie
+      - name: Bread Pudding
       - name: Banana Slamma
       - name: Fudge Brownie &amp; Ice Cream
-      - name: Strawberry Cheesecake
+      - name: Cherry Cobbler
