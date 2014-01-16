@@ -1,62 +1,37 @@
 name: Brocach (Monroe St)
 address: 1843 Monroe Street, Madison, 53711
 phone: 608.819.8653
-hours: Mon-Wed 11a-11pm, Thurs/Fri 11a-12a, Sat 10a-1a, Sun 9am-close
+hours: 4p-11pm
 lat: 43.064911
 lng: -89.41695779999999
 
 meals:
-- type: lunch
-  price: 15
-
-  courses:
-  - name: appetizer
-    choices:
-    - name: Crispy Chili Glazed Shrimp
-      desc: Peanut-soy slaw
-    - name: Antipasto Plate
-      desc: Chilled roasted vegetables, cured Italian meats, basil-walnut pesto, baguette
-    - name: Roman Style Caesar
-      desc: Romaine heart, garlicky lemon-anchovy vinaigrette, shaved parmesan, baguette crouton
-
-  - name: entree
-    choices:
-    - name: Soup and 1/2 Sandwich
-      desc: Cup of rustic fagioli or potato leek soup &amp; 1/2 Reuben or 1/2 Rachel sandwich
-    - name: Seared Salmon Fillet
-      desc: Fingerling potatoes, garlic spinach, beurre rouge
-    - name: Sweet Corn &amp; Prince Edward Island Mussel Risotto
-      desc: Local sweet corn, fire roasted mussels sans shells, mascarpone, scallion
-
-  - name: dessert
-    choices:
-
-
 - type: dinner
   price: 25
 
   courses:
   - name: appetizer
     choices:
-    - name: Bay Scallop Ceviche
-      desc: Coconut, lemongrass, cilantro, habanero, crispy wonton
-    - name: Heirloom Tomato Tower
-      desc: Burrata, thai basil, white balsamic
-    - name: Roman Style Caesar
-      desc: Romaine heart, garlicky lemon-anchovy vinaigrette, shaved parmesan, baguette crouton
+    - name: Warm Crab Dip
+      desc: Soft pretzels
+    - name: Winter Greens Salad
+      desc: Apple, toasted hazelnuts, blue cheese, honey vinaigrette
+    - name: Duck Fat Fried Fingerling Potatoes
+      desc: Shallot, garlic, aioli
 
   - name: entree
     choices:
-    - name: Macadamia Encrusted Mahi-Mahi
-      desc: Sweet &amp; Sour Pineapple, Peruvian Purple Potato
-    - name: Chili Rubbed Flank Steak
-      desc: Poblano hominy, pasilla butter
-    - name: Sweet Corn &amp; Scallop Risotto
-      desc: Local sweet corn, wild bay scallop, mascarpone, scallion
+    - name: Braised Lamb Shank
+      desc: Roasted fingerling potatoes, root vegetables, rosemary jus
+    - name: Chicken Pot Pie
+      desc: biscuit crust
+    - name: Pecan Crusted Whitefish
+      desc: Warm sweet potato salad, garlic, spinach, brown butter
 
   - name: dessert
     choices:
-    - name: Charred Pineapple Cake
-      desc: Grand marnier syrup, vanilla bean ice cream
-    - name: Milk Chocolate Mousse
-      desc: Fresh raspberries, Belgian dark chocolate shavings
+    - name: Pumpkin Bread Pudding
+      desc: Cinnamon ice cream, caramel sauce
+    - name: Classic Crème Brûlée
+    - name: Chocolate Molten Cake
+      desc: Peppermint stick ice cream
