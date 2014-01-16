@@ -28,7 +28,7 @@ meals:
     - name: King Salmon with Cherry Reduction Sauce
       desc: From our friends at Bering Bounty in Verona, wild-caught, gill-netted Alaskan King Salmon topped with a New Glarus Belgian Red Cherry Ale reduction sauce. Served with sautéed vegetables & mashed potatoes.
     - name: Four Quarters Cobb Salad
-      desc: A Cobb reinvented for vegetarians, with four new toppings: fried avocado, grapefruit-jalapeno fruit salad, baked Brie crostini, and Kalamata-cannellini-garlic salad; served with Dijon vinaigrette.
+      desc: "A Cobb reinvented for vegetarians, with four new toppings: fried avocado, grapefruit-jalapeno fruit salad, baked Brie crostini, and Kalamata-cannellini-garlic salad; served with Dijon vinaigrette."
 
   - name: Dessert
     choices:
