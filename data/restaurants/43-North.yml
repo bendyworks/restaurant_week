@@ -1,7 +1,7 @@
 name: 43 North
 address: 108 King Street, Madison, 53705
 phone: 608.255.4343
-hours: Mon-Sun 4-9p
+hours: Mon-Sun 5-10p
 url: http://43north.biz/
 lat:  43.0747396
 lng: -89.3812588
@@ -13,24 +13,27 @@ meals:
   courses:
   - name: appetizer
     choices:
-    - name: Pork Belly
-      desc: Cucumber, Basil, Gazpacho Vinaigrette
-    - name: Roasted Red Pepper Soup
-      desc: Chick Pea, Cilantro, Coriander
-    - name: Tomato and Zucchini Salad
-      desc: Goat cheese curds, Red onion, Herb vinaigrette
+    - name: Quinoa Salad
+      desc: Feta, Red Pepper, Lemon Vinaigrette
+    - name: Parsnip Soup
+      desc: Almond, Chive, Olive Oil
+    - name: Roasted Dates
+      desc: Balsamic, Chèvre, Brussels Sprout
 
   - name: entree
     choices:
     - name: Salmon
-      desc: Chickpea cake, Watercress purée, Fava bean
-    - name: Sweet Corn Risotto
-      desc: Parmesan, Vegetable slaw, Chive
+      desc: Celeriac, Escarole, Lemon Aioli
+    - name: Potato Croquette
+      desc: Cabbage, Rutabaga, Crème Fraîche
     - name: Flank Steak
-      desc: Potato mille feuille, Braised shallot, Oyster mushroom, Currant cream sauce
+      desc: Sweet Potato, Rosemary Powder, Broccoli
 
   - name: dessert
     choices:
-    - name: Chocolate Torte
-    - name: Passion Fruit Parfait
+    - name: Chocolate Cheesecake
+      desc: White Chocolate Yogurt Cream, Cherry Ancho Jam
+    - name: Buttermilk Panna Cotta
+      desc: Candied Hazelnut, Berry Coulis
     - name: Wisconsin Cheese
+      desc: Jam, Mustard
