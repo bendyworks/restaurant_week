@@ -12,27 +12,25 @@ meals:
   - name: Soup or Salad
     choices:
     - name: "Today's Soups"
-    - name: Buttermilk Salads
-    - name: Sunchoke &amp; Escarole Salad
-    - name: Warm Spinach &amp; Roasted Onion
+    - name: Buttermilk Salad
     - name: Classic Caesar
-    - name: Lemon &amp; Arugula
-    - name: Mixed Greens &amp; Beets
+    - name: Arugula &amp; Golden Beet Salad (V)
 
   - name: Entree
     choices:
-    - name: Fried Chicken Sandwich
-    - name: Cubano
-    - name: Muffaletta
-    - name: Veggie Muffaletta
-    - name: Pork Belly Banh Mi
-    - name: "Shrimp Po'Boy"
-    - name: Sausage of the Day
-    - name: Sunrise Sandwich
-    - name: Grilled Ham &amp; Brie
-    - name: Merchant BLT
-    - name: Merchant Burger
-    - name: Classic Burger
+    - name: Ham &amp; Cheese Panini
+    - name: Cheddar &amp; Apple Panini (V)
+    - name: Buttermilk Battered Fried Chicken
+    - name: Braised Pork Shoulder &amp; Butternut Squash Puree
+    - name: Merchant Club
+    - name: Brat Sliders
+
+  - name: Sweets
+    choices:
+    - name: Vanilla Gelato (V)
+    - name: Chocolate Gelato (V)
+    - name: Cinnamon Gelato (V)
+    - name: Lemon Sorbet (V)
 
 - type: dinner
   price: 30
@@ -40,39 +38,29 @@ meals:
   courses:
   - name: Small Plate
     choices:
-    - name: Fried Cheese Curds
-    - name: Patatas Bravas
-    - name: Hand Cut Frites
-    - name: Sweet Corn Hushpuppies
-    - name: Gazpacho
-    - name: Buttermilk Salad
-    - name: Grilled Corn Salad
-    - name: Eggplant Tarte Tatin
-    - name: Olives
-    - name: House Cured Meats
-    - name: Local Cheese
-    - name: Beef Tartare
+    - name: Fried Local Cheese Curds (V)
+    - name: Warm Olives (V)
+    - name: Parmesan &amp; Almonds (V)
+    - name: Housemade Fries (V)
+    - name: Soup of the Day (V)
+    - name: Buttermilk Salad (V)
+    - name: Arugula &amp; Golden Beet Salad (V)
 
   - name: Entree
     choices:
-    - name: Mozzarella Panini
-    - name: The Merchant Market Burger
     - name: Brat Sliders
     - name: Classic Burger
-    - name: Fregola Sarda
     - name: Pork Pappardelle
-    - name: Tagliatelle Nero
-    - name: Steamed Mussels
-    - name: Hand Tossed Flatbread
-    - name: Daube De Bouef
-    - name: Atlantic Salmon
-    - name: Chicken a la Plancha
-    - name: Black Berkshire Porchetta
-    - name: Charred Bone Marrow
+    - name: Tagliatelle with Mushrooms &amp; Chard (V)
+    - name: Steamed Mussels &amp; Baguette
+    - name: Warm Farro Salad
+    - name: Duck Confit
+    - name: Scallop Provencal
+    - name: Braised Pork Shank
 
   - name: Sweets
     choices:
-    - name: Dark Chocolate Custard
-    - name: Fruit Cobbler
-    - name: Rhubarb Soda
-    - name: Warm Cookies
+    - name: Dark Chocolate &amp; Cherry Custard (V)
+    - name: Gelato (V)
+    - name: Chocolate &amp; Fruit (V)
+    - name: Warm Bread Pudding (V)
