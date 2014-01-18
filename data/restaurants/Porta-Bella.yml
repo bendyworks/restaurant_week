@@ -7,6 +7,7 @@ lng: -89.3957842
 
 meals:
 - type: dinner
+  price: 25-35
 
   courses:
   - name: Appetizer
