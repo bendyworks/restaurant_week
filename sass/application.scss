@@ -55,80 +55,11 @@
     }
   }
 
-  .tabs {
-    margin: 10px 0;
-    ul {
-      text-align: right;
-      margin-right: 10px;
-      padding: 5px;
-      margin: -20px 0;
-      li {
-        display: inline-block;
-        padding: 10px;
-        border-top-left-radius: 6px;
-        border-top-right-radius: 6px;
-        background-color: #B2D1F0;
-
-        &.active {
-          background-color: #3d3d5c;
-          a {
-            color: white;
-          }
-        }
-
-        a {
-          text-decoration: none;
-          text-transform: uppercase;
-          color: #43474A;
-          font-family: 'RobotoBoldCondensed', sans serif;
-
-        }
-      }
-    }
+  .jump-to-mm {
+    text-align: center;
+    padding-bottom: 1em;
   }
 
-  .tab-content {
-    display: none;
-    &.open {
-      display: block;
-    }
-  }
-
-  .course {
-    clear: left;
-    &:nth-child(2n+1) {
-      background-color: #F5F5FD;
-      border-radius: 4px;
-    }
-    h3 {
-      border-bottom: 3px solid white;
-      text-transform: uppercase;
-      font-family: 'RobotoBoldCondensed', sans serif;
-      line-height: 29px;
-      margin-left: 5px;
-    }
-    p {
-      color: #3a3a3a;
-    }
-  }
-
-  .choices li {
-    width: 31%;
-    float: left;
-    margin: 0 5px 10px 0;
-    text-align: left;
-    &:nth-child(3n+1) {
-      clear: both;
-    }
-    h4 {
-      margin: 0 2px;
-      color: #520029;
-
-    }
-    p {
-      margin: 0 5px;
-    }
-  }
 }
 
 $footer-height: 85px;

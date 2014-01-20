@@ -23,44 +23,8 @@
             <p>{{=it.data.hours}}</p>
           </div>
         </header>
-        <div class='tabs'>
-          <ul>
-            {{~ it.data.meals :m:i }}
-            <li class='active'>
-              <a class='tab' href='#meal{{=it.basename}}{{=i}}'>
-                {{=m.type}}: ${{=m.price}}</a></li>
-              </a>
-            </li>
-            {{~}}
-          </ul>
-        </div>
-        <div class='meals'>
-          {{~ it.data.meals :m:i }}
-          <div class='tab-content' id='meal{{=it.basename}}{{=i}}'>
-            {{? m.other}}
-            <aside>{{=m.other}}</aside>
-            {{?}}
-            {{~ m.courses :c }}
-            <div class='course'>
-              <h3>{{=c.name}}</h3>
-              <ul class='choices'>
-                {{~ c.choices :p }}
-                <li class='choice'>
-                  <h4>{{=p.name}}</h4>
-                  {{?p.desc}}
-                  <p>{{=p.desc}}</p>
-                  {{?}}
-                  {{?p.other}}
-                  <aside>{{=p.other}}</aside>
-                  {{?}}
-                </li>
-                {{~}}
-              </ul>
-              <div class='clearfix'></div>
-            </div>
-            {{~}}
-          </div>
-          {{~}}
+        <div class='jump-to-mm'>
+          <a target="_blank" href="http://www.madisonmagazine.com/Madison-Magazine/Events/Restaurant-Week/Participants/{{=it.basename}}">View the menu on madisonmagazine.com</a>
         </div>
       </div>
     </script>

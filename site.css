@@ -370,57 +370,9 @@ table {
       color: #3d3d5c; }
       .info header .meta p {
         margin: 7px 0; }
-  .info .tabs {
-    margin: 10px 0; }
-    .info .tabs ul {
-      text-align: right;
-      margin-right: 10px;
-      padding: 5px;
-      margin: -20px 0; }
-      .info .tabs ul li {
-        display: inline-block;
-        padding: 10px;
-        border-top-left-radius: 6px;
-        border-top-right-radius: 6px;
-        background-color: #B2D1F0; }
-        .info .tabs ul li.active {
-          background-color: #3d3d5c; }
-          .info .tabs ul li.active a {
-            color: white; }
-        .info .tabs ul li a {
-          text-decoration: none;
-          text-transform: uppercase;
-          color: #43474A;
-          font-family: "RobotoBoldCondensed", sans serif; }
-  .info .tab-content {
-    display: none; }
-    .info .tab-content.open {
-      display: block; }
-  .info .course {
-    clear: left; }
-    .info .course:nth-child(2n+1) {
-      background-color: #F5F5FD;
-      border-radius: 4px; }
-    .info .course h3 {
-      border-bottom: 3px solid white;
-      text-transform: uppercase;
-      font-family: "RobotoBoldCondensed", sans serif;
-      line-height: 29px;
-      margin-left: 5px; }
-    .info .course p {
-      color: #3a3a3a; }
-  .info .choices li {
-    width: 31%;
-    float: left;
-    margin: 0 5px 10px 0;
-    text-align: left; }
-    .info .choices li:nth-child(3n+1) {
-      clear: both; }
-    .info .choices li h4 {
-      margin: 0 2px;
-      color: #520029; }
-    .info .choices li p {
-      margin: 0 5px; }
+  .info .jump-to-mm {
+    text-align: center;
+    padding-bottom: 1em; }
 
 #container {
   height: 100%;
