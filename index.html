@@ -4,42 +4,31 @@
     <title>Restaurant Week</title>
     <meta content='initial-scale=1.0, user-scalable=no' name='viewport' />
     <link href='site.css' rel='stylesheet' />
-    <script src='http://maps.googleapis.com/maps/api/js?sensor=false' type='text/javascript'></script>
     <script src='site.js' type='text/javascript'></script>
+    <style>
+      .sorry {
+        width: 90%;
+        margin: 0 auto;
+        color: #000;
+      }
+      .sorry h1 {
+        color: #666;
+      }
+    </style>
   </head>
   <body>
     <div id="fb-root"></div>
-    <script id='iconTemplate' type='text/doT'>
-      <div class='info'>
-        <header>
-          <div class='phone'>{{=it.data.phone}}</div>
-          <h1>
-            <a href='http://www.madisonmagazine.com/Madison-Magazine/Events/Restaurant-Week/Participants/{{=it.basename}}'>
-              {{=it.data.name}}
-            </a>
-          </h1>
-          <div class='meta'>
-            <address>{{=it.data.address}}</address>
-            <p>{{=it.data.hours}}</p>
-          </div>
-        </header>
-        <div class='jump-to-mm'>
-          <a target="_blank" href="http://www.madisonmagazine.com/Madison-Magazine/Events/Restaurant-Week/Participants/{{=it.basename}}">View the menu on madisonmagazine.com</a>
-        </div>
-      </div>
-    </script>
-    <div id='container'>
-      <div id='map_canvas'></div>
+    <div id="container">
+    <div class="sorry">
+      <h1>Restaurant Week Map no longer available</h1>
+      <p>Thank you for visiting Madison's Restaurant Week Map! We had lots of fun creating it over the years, but the time has come to put it to rest. Madison Magazine has decided to assert its rightful copyright on the event, and it just didn't make sense to continue development or content updates. We're thankful for the volunteers who put in the time to make this site great, and we especially thank Madison Magazine for putting on such a stellar event.</p>
+      <p>Check out the <a href="http://www.madisonmagazine.com/Madison-Magazine/Events/Restaurant-Week/">official Restaurant Week pages</a> to see your favorite restaurants' participation.</p>
     </div>
+  </div>
+
     <div id='footer'>
-      <p class='magazine'>
-        Restaurant Week courtesy of:
-        <a href='http://www.madisonmagazine.com'>
-          Madison Magazine
-        </a>
-      </p>
       <div class='brought_to_you'>
-        <p>Brought to you by:</p>
+        <p>Restaurant Week Map was brought to you by:</p>
         <div class='sponsors'>
           <a class='bendyworks' href='http://www.bendyworks.com'>
             <img src='assets/bendyworks.png' />
@@ -59,10 +48,6 @@
           <div class="fb-like" data-send="false" data-layout="box_count" data-width="50" data-show-faces="false"></div>
         </div>
       </div>
-    </div>
-    <div id='mobile_overlay'>
-      <a class='close' href='#close'>close</a>
-      <div class='content'></div>
     </div>
     <script type='text/javascript'>
       //<![CDATA[

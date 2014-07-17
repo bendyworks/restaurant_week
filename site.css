@@ -333,62 +333,25 @@ table {
   font-weight: normal;
   font-style: normal; }
 
-.right {
-  float: right; }
+* {
+  margin: 0; }
 
-.info {
-  font-size: 12px; }
-  .info ul {
-    list-style-type: none; }
-  .info p {
-    margin: 0;
-    padding: 0; }
-  .info .clearfix {
-    clear: both;
-    width: 100%;
-    height: 0px; }
-  .info aside {
-    padding: 10px;
-    margin: 15px 0;
-    background-color: #f6f6f6;
-    border-radius: 5px; }
-  .info header {
-    width: 100%;
-    margin-bottom: 20px; }
-    .info header h1 {
-      font-size: 150%;
-      margin: 0 0 6px;
-      font-family: "HammersmithOneRegular", sans serif;
-      text-transform: uppercase; }
-      .info header h1 a, .info header h1 a:hover, .info header h1 a:visited, .info header h1 a:active {
-        color: #000;
-        text-decoration: none; }
-    .info header .phone {
-      float: right;
-      margin-right: 18px; }
-    .info header .meta {
-      color: #3d3d5c; }
-      .info header .meta p {
-        margin: 7px 0; }
-  .info .jump-to-mm {
-    text-align: center;
-    padding-bottom: 1em; }
+html, body {
+  height: 100%; }
 
 #container {
-  height: 100%;
+  min-height: 100%;
   width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 1; }
-  #container #map_canvas {
-    height: 100%;
-    width: 100%; }
+  z-index: 1;
+  margin-bottom: -85px; }
+  #container p {
+    padding: 0.8em 0; }
+  #container:after {
+    content: "";
+    display: block;
+    height: 85px; }
 
 #footer {
-  position: absolute;
-  bottom: 0;
-  left: 0;
   width: 100%;
   height: 85px;
   z-index: 2;
@@ -460,37 +423,35 @@ table {
       width: 35px;
       text-align: left; }
 
-  #footer {
-    height: 50px; }
-    #footer img {
-      display: none; }
-    #footer .magazine, #footer .brought_to_you {
-      padding: 4px 5px;
-      margin: 0;
-      width: 150px; }
-      #footer .magazine, #footer .magazine p, #footer .brought_to_you, #footer .brought_to_you p {
-        line-height: 14px; }
-    #footer .magazine, #footer .magazine a {
+  #footer img {
+    display: none; }
+  #footer .magazine, #footer .brought_to_you {
+    padding: 4px 5px;
+    margin: 0;
+    width: 150px; }
+    #footer .magazine, #footer .magazine p, #footer .brought_to_you, #footer .brought_to_you p {
+      line-height: 14px; }
+  #footer .magazine, #footer .magazine a {
+    font-size: 13px; }
+  #footer .magazine a {
+    display: block;
+    margin: 0; }
+  #footer .brought_to_you > div {
+    float: right; }
+  #footer .brought_to_you p {
+    margin-right: 0;
+    font-size: 13px;
+    text-transform: none; }
+  #footer .brought_to_you .sponsors, #footer .brought_to_you .see_also {
+    margin: 0; }
+    #footer .brought_to_you .sponsors a, #footer .brought_to_you .see_also a {
       font-size: 13px; }
-    #footer .magazine a {
-      display: block;
-      margin: 0; }
-    #footer .brought_to_you > div {
-      float: right; }
-    #footer .brought_to_you p {
-      margin-right: 0;
-      font-size: 13px;
-      text-transform: none; }
-    #footer .brought_to_you .sponsors, #footer .brought_to_you .see_also {
-      margin: 0; }
-      #footer .brought_to_you .sponsors a, #footer .brought_to_you .see_also a {
-        font-size: 13px; }
-    #footer .see_also a.madeofmadison:before {
-      font-family: "HammersmithOneRegular", sans serif;
-      content: "Made of Madison"; }
-    #footer .sponsors a.bendyworks:before {
-      font-family: "HammersmithOneRegular", sans serif;
-      content: "Bendyworks"; } }
+  #footer .see_also a.madeofmadison:before {
+    font-family: "HammersmithOneRegular", sans serif;
+    content: "Made of Madison"; }
+  #footer .sponsors a.bendyworks:before {
+    font-family: "HammersmithOneRegular", sans serif;
+    content: "Bendyworks"; } }
 @media screen and (max-width: 768px) {
   #footer .social {
     display: none; } }
